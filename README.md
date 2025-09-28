@@ -31,7 +31,7 @@ This approach is particularly suited for **edge deployments** where bandwidth, c
 Domain-agnostic 5-step methodology for TaaJ.
 
 ```text
-  ┌─────────────────────────────┐
+ ┌─────────────────────────────┐
  │  Step 1: On-device Text Gen │
  │  • Prompts + IoT (Sobol)    │
  │  • Compact Ollama Models    │
@@ -49,8 +49,8 @@ Domain-agnostic 5-step methodology for TaaJ.
  ┌─────────────────────────────┐
  │ Step 3: Training of TaaJ    │
  │  • DistilBERT per criterion │
- │  • Weighted focal loss       │
- │  • Early stopping            │
+ │  • Weighted focal loss      │
+ │  • Early stopping           │
  └─────────────────────────────┘
                │
                ▼
@@ -62,13 +62,13 @@ Domain-agnostic 5-step methodology for TaaJ.
  └─────────────────────────────┘
                │
                ▼
- ┌─────────────────────────────┐
- │ Step 5: System Testing      │
- │  • Evaluate new texts       │
- │  • Compare with LLM-Judge   │
- │  • Regenerate if < threshold│
- │  • Collect metrics          │
- └─────────────────────────────┘
+ ┌──────────────────────────────┐
+ │ Step 5: System Testing       │
+ │  • Evaluate new texts        │
+ │  • Compare with LLM-Judge    │
+ │  • Regenerate if < threshold │
+ │  • Collect metrics           │
+ └──────────────────────────────┘
 ```
 
 ## Installation
