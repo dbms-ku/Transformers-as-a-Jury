@@ -73,7 +73,7 @@ Domain-agnostic 5-step methodology for TaaJ.
 
 ## Installation
 ```bash
-git clone https://github.com/<your-username>/taaj.git
+git clone https://github.com/dbms-ku/Transformers-as-a-Jury.git taaj
 cd taaj
 pip install -r requirements.txt
 ```
