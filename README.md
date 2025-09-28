@@ -1,5 +1,6 @@
 # Transformers-as-a-Jury (TaaJ)
 Transformers-as-a-Jury: Mimicking LLM-as-a-Judge Text Evaluation on Edge Devices
+
 [![Python](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/)  
 [![PyTorch](https://img.shields.io/badge/pytorch-2.x-red.svg)](https://pytorch.org/)  
 [![Edge AI](https://img.shields.io/badge/edge-AI-green.svg)]()  
