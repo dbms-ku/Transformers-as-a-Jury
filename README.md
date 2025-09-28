@@ -8,21 +8,21 @@ Transformers-as-a-Jury: Mimicking LLM-as-a-Judge Text Evaluation on Edge Devices
 ## Overview
 
 The **Transformers-as-a-Jury (TaaJ)** project provides a lightweight, on-device alternative to **LLM-as-a-Judge** systems.  
-Instead of relying on large, cloud-hosted models for automated text evaluation, TaaJ leverages compact transformer architectures fine-tuned on **LLM-labeled datasets** to enable **local, low-latency, and privacy-preserving text evaluation**.
+Instead of relying on large, cloud-hosted models for automated text evaluation, TaaJ leverages compact transformer architectures fine-tuned on **LLM-labelled datasets** to enable **local, low-latency, and privacy-preserving text evaluation**.
 
 This approach is particularly suited for **edge deployments** where bandwidth, compute power, and energy are constrained.  
 
-🚀 **Key innovation**: TaaJ mimics the evaluation capabilities of cloud-based judges while running efficiently on devices such as the **Raspberry Pi 5**.
+**Key innovation**: TaaJ mimics the evaluation capabilities of cloud-based judges while running efficiently on devices such as the **Raspberry Pi 5**.
 
 ---
 
 ## Features
 
-- ⚡ **On-device evaluation**: Run locally without cloud calls.  
-- 🔍 **LLM-mimicking scoring**: Compact transformers replicate the judgment of large LLMs.  
-- 🌱 **Agricultural use case demo**: Evaluate generated farm advisory text on a Raspberry Pi 5.  
-- 🔒 **Privacy-first**: Keeps all text and evaluation on-device.  
-- 🛠 **Open-source PyTorch & Ollama integration**: Easy to extend and adapt.  
+-  **On-device evaluation**: Run locally without cloud calls.  
+-  **LLM-mimicking scoring**: Compact transformers replicate the judgment of large LLMs.  
+-  **Agricultural use case demo**: Evaluate generated farm advisory text on a Raspberry Pi 5.  
+-  **Privacy-first**: Keeps all text and evaluation on-device.  
+-  **Open-source PyTorch & Ollama integration**: Easy to extend and adapt.  
 
 ---
 
