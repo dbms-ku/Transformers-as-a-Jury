@@ -1,0 +1,505 @@
+#,prompt,response,duration_sec,token_count,farm_type,days_since_planting,ph,soil_temperatute,soil_moisture,soil_nitrogen,soil_potassium,soil_phosphorous,soil_ec,ambient_temperature,atmospheric_humidity,rainfall_state,sunshine_intensity
+1,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy rice. 
+Produce a single plain-text paragraph (max 200 words) that an extension officer can read aloud without changes.
+
+Output constraints (must follow exactly):
+- Start with: Hello Watanabe-san,
+- Use a casual, instructional tone.
+- Use short sentences (preferably under 25 words each).
+- Do NOT use parentheses, percent signs, degree symbols, slashes, bullets, emojis, or other special characters. Spell units out: write ""percent"" and ""degrees Celsius"".
+- No headings, no lists, no numbered steps, no markdown, and no extra commentary.
+- Reference sensor values explicitly (e.g., ""soil moisture is 67.4 percent"" or ""soil temperature is 19.7 degrees Celsius""). If a value is missing, state ""value not provided.""
+- Avoid unexplained acronyms; if necessary, spell the phrase once (for example, ""integrated pest management"").
+- Provide a concise stepwise-style assessment that follows this order in short sentences:
+  1) growth-stage assessment based on days since planting (early, mid, or nearing harvest),
+  2) brief soil assessment tying key values to crop effects,
+  3) brief atmospheric assessment,
+  4) 2–4 practical, stage-appropriate recommendations (each with the reason),
+  5) a final single-sentence safety reminder and encouragement.
+- Do not include internal chain-of-thought, model reasoning, or meta commentary.
+
+Deliver a polished, farmer-facing instructional script that is immediately suitable for TTS.
+",Timeout occurred,1.00158,N/A,Paddy Rice,169,0.68,28.96,55.66,1817.73,1434.03,1863.04,924.04,33.79,42.77,Heavy Rain,High
+2,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy rice. 
+Produce a single plain-text paragraph (max 200 words) that an extension officer can read aloud without changes.
+
+Output constraints (must follow exactly):
+- Start with: Hello Watanabe-san,
+- Use a casual, instructional tone.
+- Use short sentences (preferably under 25 words each).
+- Do NOT use parentheses, percent signs, degree symbols, slashes, bullets, emojis, or other special characters. Spell units out: write ""percent"" and ""degrees Celsius"".
+- No headings, no lists, no numbered steps, no markdown, and no extra commentary.
+- Reference sensor values explicitly (e.g., ""soil moisture is 67.4 percent"" or ""soil temperature is 19.7 degrees Celsius""). If a value is missing, state ""value not provided.""
+- Avoid unexplained acronyms; if necessary, spell the phrase once (for example, ""integrated pest management"").
+- Provide a concise stepwise-style assessment that follows this order in short sentences:
+  1) growth-stage assessment based on days since planting (early, mid, or nearing harvest),
+  2) brief soil assessment tying key values to crop effects,
+  3) brief atmospheric assessment,
+  4) 2–4 practical, stage-appropriate recommendations (each with the reason),
+  5) a final single-sentence safety reminder and encouragement.
+- Do not include internal chain-of-thought, model reasoning, or meta commentary.
+
+Deliver a polished, farmer-facing instructional script that is immediately suitable for TTS.
+",An unexpected error occurred: unexpected server status: llm server loading model (status code: 500),0.095319,N/A,Paddy Rice,84,10.87,18.95,48.58,246.01,469.62,675.37,6378.79,23.96,80.22,Dew,Moderate
+3,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy rice. 
+Produce a single plain-text paragraph (max 200 words) that an extension officer can read aloud without changes.
+
+Output constraints (must follow exactly):
+- Start with: Hello Watanabe-san,
+- Use a casual, instructional tone.
+- Use short sentences (preferably under 25 words each).
+- Do NOT use parentheses, percent signs, degree symbols, slashes, bullets, emojis, or other special characters. Spell units out: write ""percent"" and ""degrees Celsius"".
+- No headings, no lists, no numbered steps, no markdown, and no extra commentary.
+- Reference sensor values explicitly (e.g., ""soil moisture is 67.4 percent"" or ""soil temperature is 19.7 degrees Celsius""). If a value is missing, state ""value not provided.""
+- Avoid unexplained acronyms; if necessary, spell the phrase once (for example, ""integrated pest management"").
+- Provide a concise stepwise-style assessment that follows this order in short sentences:
+  1) growth-stage assessment based on days since planting (early, mid, or nearing harvest),
+  2) brief soil assessment tying key values to crop effects,
+  3) brief atmospheric assessment,
+  4) 2–4 practical, stage-appropriate recommendations (each with the reason),
+  5) a final single-sentence safety reminder and encouragement.
+- Do not include internal chain-of-thought, model reasoning, or meta commentary.
+
+Deliver a polished, farmer-facing instructional script that is immediately suitable for TTS.
+",Timeout occurred,1.002767,N/A,Paddy Rice,107,13.98,12.08,62.4,467.92,1170.15,258.9,5345.2,39.36,27.66,Dew,Moderate
+4,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy rice. 
+Produce a single plain-text paragraph (max 200 words) that an extension officer can read aloud without changes.
+
+Output constraints (must follow exactly):
+- Start with: Hello Watanabe-san,
+- Use a casual, instructional tone.
+- Use short sentences (preferably under 25 words each).
+- Do NOT use parentheses, percent signs, degree symbols, slashes, bullets, emojis, or other special characters. Spell units out: write ""percent"" and ""degrees Celsius"".
+- No headings, no lists, no numbered steps, no markdown, and no extra commentary.
+- Reference sensor values explicitly (e.g., ""soil moisture is 67.4 percent"" or ""soil temperature is 19.7 degrees Celsius""). If a value is missing, state ""value not provided.""
+- Avoid unexplained acronyms; if necessary, spell the phrase once (for example, ""integrated pest management"").
+- Provide a concise stepwise-style assessment that follows this order in short sentences:
+  1) growth-stage assessment based on days since planting (early, mid, or nearing harvest),
+  2) brief soil assessment tying key values to crop effects,
+  3) brief atmospheric assessment,
+  4) 2–4 practical, stage-appropriate recommendations (each with the reason),
+  5) a final single-sentence safety reminder and encouragement.
+- Do not include internal chain-of-thought, model reasoning, or meta commentary.
+
+Deliver a polished, farmer-facing instructional script that is immediately suitable for TTS.
+",An unexpected error occurred: unexpected server status: llm server loading model (status code: 500),0.071425,N/A,Paddy Rice,46,2.9,39.57,39.96,1595.31,236.98,1196.5,2353.14,18.27,90.22,Light Rain,Moderate
+5,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy rice. 
+Produce a single plain-text paragraph (max 200 words) that an extension officer can read aloud without changes.
+
+Output constraints (must follow exactly):
+- Start with: Hello Watanabe-san,
+- Use a casual, instructional tone.
+- Use short sentences (preferably under 25 words each).
+- Do NOT use parentheses, percent signs, degree symbols, slashes, bullets, emojis, or other special characters. Spell units out: write ""percent"" and ""degrees Celsius"".
+- No headings, no lists, no numbered steps, no markdown, and no extra commentary.
+- Reference sensor values explicitly (e.g., ""soil moisture is 67.4 percent"" or ""soil temperature is 19.7 degrees Celsius""). If a value is missing, state ""value not provided.""
+- Avoid unexplained acronyms; if necessary, spell the phrase once (for example, ""integrated pest management"").
+- Provide a concise stepwise-style assessment that follows this order in short sentences:
+  1) growth-stage assessment based on days since planting (early, mid, or nearing harvest),
+  2) brief soil assessment tying key values to crop effects,
+  3) brief atmospheric assessment,
+  4) 2–4 practical, stage-appropriate recommendations (each with the reason),
+  5) a final single-sentence safety reminder and encouragement.
+- Do not include internal chain-of-thought, model reasoning, or meta commentary.
+
+Deliver a polished, farmer-facing instructional script that is immediately suitable for TTS.
+",Timeout occurred,1.001441,N/A,Paddy Rice,69,6.55,27.55,67.84,1379.19,1646.73,881.92,9089.31,10.15,62.02,Light Rain,Moderate
+6,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy rice. 
+Produce a single plain-text paragraph (max 200 words) that an extension officer can read aloud without changes.
+
+Output constraints (must follow exactly):
+- Start with: Hello Watanabe-san,
+- Use a casual, instructional tone.
+- Use short sentences (preferably under 25 words each).
+- Do NOT use parentheses, percent signs, degree symbols, slashes, bullets, emojis, or other special characters. Spell units out: write ""percent"" and ""degrees Celsius"".
+- No headings, no lists, no numbered steps, no markdown, and no extra commentary.
+- Reference sensor values explicitly (e.g., ""soil moisture is 67.4 percent"" or ""soil temperature is 19.7 degrees Celsius""). If a value is missing, state ""value not provided.""
+- Avoid unexplained acronyms; if necessary, spell the phrase once (for example, ""integrated pest management"").
+- Provide a concise stepwise-style assessment that follows this order in short sentences:
+  1) growth-stage assessment based on days since planting (early, mid, or nearing harvest),
+  2) brief soil assessment tying key values to crop effects,
+  3) brief atmospheric assessment,
+  4) 2–4 practical, stage-appropriate recommendations (each with the reason),
+  5) a final single-sentence safety reminder and encouragement.
+- Do not include internal chain-of-thought, model reasoning, or meta commentary.
+
+Deliver a polished, farmer-facing instructional script that is immediately suitable for TTS.
+",An unexpected error occurred: unexpected server status: llm server loading model (status code: 500),0.07531,N/A,Paddy Rice,184,10.35,24.1,30.75,557.6,697.94,1569.57,3604.19,32.19,24.56,No Rain,Low
+7,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy rice. 
+Produce a single plain-text paragraph (max 200 words) that an extension officer can read aloud without changes.
+
+Output constraints (must follow exactly):
+- Start with: Hello Watanabe-san,
+- Use a casual, instructional tone.
+- Use short sentences (preferably under 25 words each).
+- Do NOT use parentheses, percent signs, degree symbols, slashes, bullets, emojis, or other special characters. Spell units out: write ""percent"" and ""degrees Celsius"".
+- No headings, no lists, no numbered steps, no markdown, and no extra commentary.
+- Reference sensor values explicitly (e.g., ""soil moisture is 67.4 percent"" or ""soil temperature is 19.7 degrees Celsius""). If a value is missing, state ""value not provided.""
+- Avoid unexplained acronyms; if necessary, spell the phrase once (for example, ""integrated pest management"").
+- Provide a concise stepwise-style assessment that follows this order in short sentences:
+  1) growth-stage assessment based on days since planting (early, mid, or nearing harvest),
+  2) brief soil assessment tying key values to crop effects,
+  3) brief atmospheric assessment,
+  4) 2–4 practical, stage-appropriate recommendations (each with the reason),
+  5) a final single-sentence safety reminder and encouragement.
+- Do not include internal chain-of-thought, model reasoning, or meta commentary.
+
+Deliver a polished, farmer-facing instructional script that is immediately suitable for TTS.
+",Timeout occurred,1.001186,N/A,Paddy Rice,98,4.52,20.72,58.94,713.23,1341.11,830.63,1654.85,37.01,35.62,Dew,Low
+8,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy rice. 
+Produce a single plain-text paragraph (max 200 words) that an extension officer can read aloud without changes.
+
+Output constraints (must follow exactly):
+- Start with: Hello Watanabe-san,
+- Use a casual, instructional tone.
+- Use short sentences (preferably under 25 words each).
+- Do NOT use parentheses, percent signs, degree symbols, slashes, bullets, emojis, or other special characters. Spell units out: write ""percent"" and ""degrees Celsius"".
+- No headings, no lists, no numbered steps, no markdown, and no extra commentary.
+- Reference sensor values explicitly (e.g., ""soil moisture is 67.4 percent"" or ""soil temperature is 19.7 degrees Celsius""). If a value is missing, state ""value not provided.""
+- Avoid unexplained acronyms; if necessary, spell the phrase once (for example, ""integrated pest management"").
+- Provide a concise stepwise-style assessment that follows this order in short sentences:
+  1) growth-stage assessment based on days since planting (early, mid, or nearing harvest),
+  2) brief soil assessment tying key values to crop effects,
+  3) brief atmospheric assessment,
+  4) 2–4 practical, stage-appropriate recommendations (each with the reason),
+  5) a final single-sentence safety reminder and encouragement.
+- Do not include internal chain-of-thought, model reasoning, or meta commentary.
+
+Deliver a polished, farmer-facing instructional script that is immediately suitable for TTS.
+",An unexpected error occurred: unexpected server status: llm server loading model (status code: 500),0.085958,N/A,Paddy Rice,161,8.32,31.43,36.85,1348.55,251.82,1643.21,6199.79,20.59,98.08,Light Rain,Low
+9,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy rice. 
+Produce a single plain-text paragraph (max 200 words) that an extension officer can read aloud without changes.
+
+Output constraints (must follow exactly):
+- Start with: Hello Watanabe-san,
+- Use a casual, instructional tone.
+- Use short sentences (preferably under 25 words each).
+- Do NOT use parentheses, percent signs, degree symbols, slashes, bullets, emojis, or other special characters. Spell units out: write ""percent"" and ""degrees Celsius"".
+- No headings, no lists, no numbered steps, no markdown, and no extra commentary.
+- Reference sensor values explicitly (e.g., ""soil moisture is 67.4 percent"" or ""soil temperature is 19.7 degrees Celsius""). If a value is missing, state ""value not provided.""
+- Avoid unexplained acronyms; if necessary, spell the phrase once (for example, ""integrated pest management"").
+- Provide a concise stepwise-style assessment that follows this order in short sentences:
+  1) growth-stage assessment based on days since planting (early, mid, or nearing harvest),
+  2) brief soil assessment tying key values to crop effects,
+  3) brief atmospheric assessment,
+  4) 2–4 practical, stage-appropriate recommendations (each with the reason),
+  5) a final single-sentence safety reminder and encouragement.
+- Do not include internal chain-of-thought, model reasoning, or meta commentary.
+
+Deliver a polished, farmer-facing instructional script that is immediately suitable for TTS.
+",Timeout occurred,1.002345,N/A,Paddy Rice,135,11.97,36.19,72.23,1626.18,1848.93,465.35,2896.24,13.48,51.23,Light Rain,Moderate
+10,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy rice. 
+Produce a single plain-text paragraph (max 200 words) that an extension officer can read aloud without changes.
+
+Output constraints (must follow exactly):
+- Start with: Hello Watanabe-san,
+- Use a casual, instructional tone.
+- Use short sentences (preferably under 25 words each).
+- Do NOT use parentheses, percent signs, degree symbols, slashes, bullets, emojis, or other special characters. Spell units out: write ""percent"" and ""degrees Celsius"".
+- No headings, no lists, no numbered steps, no markdown, and no extra commentary.
+- Reference sensor values explicitly (e.g., ""soil moisture is 67.4 percent"" or ""soil temperature is 19.7 degrees Celsius""). If a value is missing, state ""value not provided.""
+- Avoid unexplained acronyms; if necessary, spell the phrase once (for example, ""integrated pest management"").
+- Provide a concise stepwise-style assessment that follows this order in short sentences:
+  1) growth-stage assessment based on days since planting (early, mid, or nearing harvest),
+  2) brief soil assessment tying key values to crop effects,
+  3) brief atmospheric assessment,
+  4) 2–4 practical, stage-appropriate recommendations (each with the reason),
+  5) a final single-sentence safety reminder and encouragement.
+- Do not include internal chain-of-thought, model reasoning, or meta commentary.
+
+Deliver a polished, farmer-facing instructional script that is immediately suitable for TTS.
+",An unexpected error occurred: unexpected server status: llm server loading model (status code: 500),0.089576,N/A,Paddy Rice,24,0.9,15.97,34.79,312.04,806.52,1028.02,9953.46,28.94,13.67,Heavy Rain,Low
+11,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy rice. 
+Produce a single plain-text paragraph (max 200 words) that an extension officer can read aloud without changes.
+
+Output constraints (must follow exactly):
+- Start with: Hello Watanabe-san,
+- Use a casual, instructional tone.
+- Use short sentences (preferably under 25 words each).
+- Do NOT use parentheses, percent signs, degree symbols, slashes, bullets, emojis, or other special characters. Spell units out: write ""percent"" and ""degrees Celsius"".
+- No headings, no lists, no numbered steps, no markdown, and no extra commentary.
+- Reference sensor values explicitly (e.g., ""soil moisture is 67.4 percent"" or ""soil temperature is 19.7 degrees Celsius""). If a value is missing, state ""value not provided.""
+- Avoid unexplained acronyms; if necessary, spell the phrase once (for example, ""integrated pest management"").
+- Provide a concise stepwise-style assessment that follows this order in short sentences:
+  1) growth-stage assessment based on days since planting (early, mid, or nearing harvest),
+  2) brief soil assessment tying key values to crop effects,
+  3) brief atmospheric assessment,
+  4) 2–4 practical, stage-appropriate recommendations (each with the reason),
+  5) a final single-sentence safety reminder and encouragement.
+- Do not include internal chain-of-thought, model reasoning, or meta commentary.
+
+Deliver a polished, farmer-facing instructional script that is immediately suitable for TTS.
+",Timeout occurred,1.001351,N/A,Paddy Rice,198,2.25,23.06,76.74,26.65,1616.24,1912.26,8333.33,15.18,65.83,Dew,High
+12,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy rice. 
+Produce a single plain-text paragraph (max 200 words) that an extension officer can read aloud without changes.
+
+Output constraints (must follow exactly):
+- Start with: Hello Watanabe-san,
+- Use a casual, instructional tone.
+- Use short sentences (preferably under 25 words each).
+- Do NOT use parentheses, percent signs, degree symbols, slashes, bullets, emojis, or other special characters. Spell units out: write ""percent"" and ""degrees Celsius"".
+- No headings, no lists, no numbered steps, no markdown, and no extra commentary.
+- Reference sensor values explicitly (e.g., ""soil moisture is 67.4 percent"" or ""soil temperature is 19.7 degrees Celsius""). If a value is missing, state ""value not provided.""
+- Avoid unexplained acronyms; if necessary, spell the phrase once (for example, ""integrated pest management"").
+- Provide a concise stepwise-style assessment that follows this order in short sentences:
+  1) growth-stage assessment based on days since planting (early, mid, or nearing harvest),
+  2) brief soil assessment tying key values to crop effects,
+  3) brief atmospheric assessment,
+  4) 2–4 practical, stage-appropriate recommendations (each with the reason),
+  5) a final single-sentence safety reminder and encouragement.
+- Do not include internal chain-of-thought, model reasoning, or meta commentary.
+
+Deliver a polished, farmer-facing instructional script that is immediately suitable for TTS.
+",An unexpected error occurred: unexpected server status: llm server loading model (status code: 500),0.089905,N/A,Paddy Rice,61,12.45,25.34,24.65,1912.09,542.57,599.66,3818.13,26.9,3.39,Heavy Rain,Low
+13,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy rice. 
+Produce a single plain-text paragraph (max 200 words) that an extension officer can read aloud without changes.
+
+Output constraints (must follow exactly):
+- Start with: Hello Watanabe-san,
+- Use a casual, instructional tone.
+- Use short sentences (preferably under 25 words each).
+- Do NOT use parentheses, percent signs, degree symbols, slashes, bullets, emojis, or other special characters. Spell units out: write ""percent"" and ""degrees Celsius"".
+- No headings, no lists, no numbered steps, no markdown, and no extra commentary.
+- Reference sensor values explicitly (e.g., ""soil moisture is 67.4 percent"" or ""soil temperature is 19.7 degrees Celsius""). If a value is missing, state ""value not provided.""
+- Avoid unexplained acronyms; if necessary, spell the phrase once (for example, ""integrated pest management"").
+- Provide a concise stepwise-style assessment that follows this order in short sentences:
+  1) growth-stage assessment based on days since planting (early, mid, or nearing harvest),
+  2) brief soil assessment tying key values to crop effects,
+  3) brief atmospheric assessment,
+  4) 2–4 practical, stage-appropriate recommendations (each with the reason),
+  5) a final single-sentence safety reminder and encouragement.
+- Do not include internal chain-of-thought, model reasoning, or meta commentary.
+
+Deliver a polished, farmer-facing instructional script that is immediately suitable for TTS.
+",Timeout occurred,1.002525,N/A,Paddy Rice,35,8.83,37.59,52.56,1062.65,1077.16,1289.24,7077.14,35.31,43.99,Dew,Low
+14,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy rice. 
+Produce a single plain-text paragraph (max 200 words) that an extension officer can read aloud without changes.
+
+Output constraints (must follow exactly):
+- Start with: Hello Watanabe-san,
+- Use a casual, instructional tone.
+- Use short sentences (preferably under 25 words each).
+- Do NOT use parentheses, percent signs, degree symbols, slashes, bullets, emojis, or other special characters. Spell units out: write ""percent"" and ""degrees Celsius"".
+- No headings, no lists, no numbered steps, no markdown, and no extra commentary.
+- Reference sensor values explicitly (e.g., ""soil moisture is 67.4 percent"" or ""soil temperature is 19.7 degrees Celsius""). If a value is missing, state ""value not provided.""
+- Avoid unexplained acronyms; if necessary, spell the phrase once (for example, ""integrated pest management"").
+- Provide a concise stepwise-style assessment that follows this order in short sentences:
+  1) growth-stage assessment based on days since planting (early, mid, or nearing harvest),
+  2) brief soil assessment tying key values to crop effects,
+  3) brief atmospheric assessment,
+  4) 2–4 practical, stage-appropriate recommendations (each with the reason),
+  5) a final single-sentence safety reminder and encouragement.
+- Do not include internal chain-of-thought, model reasoning, or meta commentary.
+
+Deliver a polished, farmer-facing instructional script that is immediately suitable for TTS.
+",An unexpected error occurred: unexpected server status: llm server loading model (status code: 500),0.098197,N/A,Paddy Rice,125,5.9,10.81,45.12,998.62,19.12,226.59,69.5,22.65,81.54,Dew,High

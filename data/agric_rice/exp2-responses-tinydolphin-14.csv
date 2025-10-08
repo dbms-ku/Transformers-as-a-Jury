@@ -1,0 +1,709 @@
+#,prompt,response,duration_sec,token_count,farm_type,days_since_planting,ph,soil_temperatute,soil_moisture,soil_nitrogen,soil_potassium,soil_phosphorous,soil_ec,ambient_temperature,atmospheric_humidity,rainfall_state,sunshine_intensity
+1,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+You are an experienced agricultural extension officer specializing in paddy-rice farming. 
+Using the data above, write a short spoken script (about 180–200 words) for another extension officer to read directly to the farmer. 
+The style should be warm, conversational, and natural — as if speaking kindly to the farmer in person. 
+Avoid all special characters, symbols, numbered lists, or bullet points. 
+Use complete sentences and smooth transitions. 
+Demonstrate expert understanding of paddy-rice farming and relate your advice to the actual data provided. 
+Maintain focus on yield improvement and environmental safety. 
+Start your response exactly with: Hello Watanabe-san, 
+
+Example responses (for reference only — do not copy or reuse):
+Example 1:
+Hello Watanabe-san, based on the data from your paddy field, here are some important observations and suggestions. 
+Your soil pH is slightly acidic, around 5.2, so applying a bit of lime will help balance it. Nitrogen is slightly low, so adding urea can support healthy tillering. 
+Potassium and phosphorus are fine for now, but keep checking them as the plants grow. 
+Moisture and drainage look good — just avoid overflooding. 
+The soil temperature around 19°C and bright sunshine make it a great time to apply fertilizer and manage weeds. 
+Humidity is a bit low, so light irrigation will keep the plants comfortable. 
+Keep this steady approach to maintain crop health and good yield.
+
+Example 2:
+Hello Watanabe-san, your field is progressing well, but a few adjustments can help you reach full yield potential. 
+The soil pH of 5.4 shows mild acidity. Applying a little lime will improve nutrient uptake. 
+Nitrogen is a bit below optimal, so a nitrogen-rich fertilizer will encourage stronger growth. 
+Potassium and phosphorus levels look balanced, but check them regularly. 
+Soil moisture at 70% is excellent; maintain this level while avoiding waterlogging. 
+The temperature of 20°C and strong sunshine are ideal for tillering. 
+Humidity is slightly low, so keeping water in the field will create a better environment for growth. 
+Your efforts are paying off — keep observing and adjusting carefully for a healthy, productive crop.
+"," Hello Watanabe-san! Based on your paddy field data, here are some important observations and suggestions. 
+Your soil pH is slightly acidic, around 5.2, so applying a bit of lime will help balance it. Nitrogen is slightly low, so adding urea can support healthy tillering. Potassium and phosphorus are fine for now, but keep checking them as the plants grow. 
+Moisture and drainage look good — just avoid overflooding. The soil temperature around 19°C and bright sunshine make it a great time to apply fertilizer and manage weeds. 
+Humidity is a bit low, so light irrigation will keep the plants comfortable. Keep this steady approach to maintain crop health and good yield. 
+Do you have any further observations or recommendations?",58.592402,188,Paddy Rice,46,5.75,13.01,70.77,1043.63,1320.95,1662.18,8100.25,24.72,4.52,No Rain,High
+2,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+You are an experienced agricultural extension officer specializing in paddy-rice farming. 
+Using the data above, write a short spoken script (about 180–200 words) for another extension officer to read directly to the farmer. 
+The style should be warm, conversational, and natural — as if speaking kindly to the farmer in person. 
+Avoid all special characters, symbols, numbered lists, or bullet points. 
+Use complete sentences and smooth transitions. 
+Demonstrate expert understanding of paddy-rice farming and relate your advice to the actual data provided. 
+Maintain focus on yield improvement and environmental safety. 
+Start your response exactly with: Hello Watanabe-san, 
+
+Example responses (for reference only — do not copy or reuse):
+Example 1:
+Hello Watanabe-san, based on the data from your paddy field, here are some important observations and suggestions. 
+Your soil pH is slightly acidic, around 5.2, so applying a bit of lime will help balance it. Nitrogen is slightly low, so adding urea can support healthy tillering. 
+Potassium and phosphorus are fine for now, but keep checking them as the plants grow. 
+Moisture and drainage look good — just avoid overflooding. 
+The soil temperature around 19°C and bright sunshine make it a great time to apply fertilizer and manage weeds. 
+Humidity is a bit low, so light irrigation will keep the plants comfortable. 
+Keep this steady approach to maintain crop health and good yield.
+
+Example 2:
+Hello Watanabe-san, your field is progressing well, but a few adjustments can help you reach full yield potential. 
+The soil pH of 5.4 shows mild acidity. Applying a little lime will improve nutrient uptake. 
+Nitrogen is a bit below optimal, so a nitrogen-rich fertilizer will encourage stronger growth. 
+Potassium and phosphorus levels look balanced, but check them regularly. 
+Soil moisture at 70% is excellent; maintain this level while avoiding waterlogging. 
+The temperature of 20°C and strong sunshine are ideal for tillering. 
+Humidity is slightly low, so keeping water in the field will create a better environment for growth. 
+Your efforts are paying off — keep observing and adjusting carefully for a healthy, productive crop.
+","Hello Watanabe-san, based on the data from your paddy field, here are some important observations and suggestions. 
+Your soil pH is slightly acidic, around 5.2, so applying a bit of lime will help balance it. Nitrogen is slightly low, so adding urea can support healthy tillering. Potassium and phosphorus are fine for now, but keep checking them as the plants grow. Moisture and drainage look good — just avoid overflooding. 
+The soil temperature around 19°C and bright sunshine make it a great time to apply fertilizer and manage weeds. Keep this steady approach to maintain crop health and good yield. 
+Humidity is a bit low, so light irrigation will keep the plants comfortable. Keep this steady approach to maintain crop health and good yield.",18.797808,191,Paddy Rice,108,8.95,38.61,33.44,892.69,269.74,849.83,4832.48,32.7,67.08,Dew,Moderate
+3,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+You are an experienced agricultural extension officer specializing in paddy-rice farming. 
+Using the data above, write a short spoken script (about 180–200 words) for another extension officer to read directly to the farmer. 
+The style should be warm, conversational, and natural — as if speaking kindly to the farmer in person. 
+Avoid all special characters, symbols, numbered lists, or bullet points. 
+Use complete sentences and smooth transitions. 
+Demonstrate expert understanding of paddy-rice farming and relate your advice to the actual data provided. 
+Maintain focus on yield improvement and environmental safety. 
+Start your response exactly with: Hello Watanabe-san, 
+
+Example responses (for reference only — do not copy or reuse):
+Example 1:
+Hello Watanabe-san, based on the data from your paddy field, here are some important observations and suggestions. 
+Your soil pH is slightly acidic, around 5.2, so applying a bit of lime will help balance it. Nitrogen is slightly low, so adding urea can support healthy tillering. 
+Potassium and phosphorus are fine for now, but keep checking them as the plants grow. 
+Moisture and drainage look good — just avoid overflooding. 
+The soil temperature around 19°C and bright sunshine make it a great time to apply fertilizer and manage weeds. 
+Humidity is a bit low, so light irrigation will keep the plants comfortable. 
+Keep this steady approach to maintain crop health and good yield.
+
+Example 2:
+Hello Watanabe-san, your field is progressing well, but a few adjustments can help you reach full yield potential. 
+The soil pH of 5.4 shows mild acidity. Applying a little lime will improve nutrient uptake. 
+Nitrogen is a bit below optimal, so a nitrogen-rich fertilizer will encourage stronger growth. 
+Potassium and phosphorus levels look balanced, but check them regularly. 
+Soil moisture at 70% is excellent; maintain this level while avoiding waterlogging. 
+The temperature of 20°C and strong sunshine are ideal for tillering. 
+Humidity is slightly low, so keeping water in the field will create a better environment for growth. 
+Your efforts are paying off — keep observing and adjusting carefully for a healthy, productive crop.
+","Hello Watanabe-san, based on your paddy-rice farm's data, here are some important observations and suggestions. Your soil pH is slightly acidic, around 5.2, so applying a bit of lime will help balance it. Nitrogen is slightly low, so adding urea can support healthy tillering. Potassium and phosphorus are fine for now, but keep checking them as the plants grow. Moisture and drainage look good — just avoid overflooding. The soil temperature around 19°C and bright sunshine make it a great time to apply fertilizer and manage weeds. Humidity is a bit low, so light irrigation will keep the plants comfortable. Keep this steady approach to maintain crop health and good yield.",17.000008,173,Paddy Rice,30,0.36,24.81,42.12,976.03,1288.5,1317.12,6125.9,23.74,53.44,No Rain,Moderate
+4,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+You are an experienced agricultural extension officer specializing in paddy-rice farming. 
+Using the data above, write a short spoken script (about 180–200 words) for another extension officer to read directly to the farmer. 
+The style should be warm, conversational, and natural — as if speaking kindly to the farmer in person. 
+Avoid all special characters, symbols, numbered lists, or bullet points. 
+Use complete sentences and smooth transitions. 
+Demonstrate expert understanding of paddy-rice farming and relate your advice to the actual data provided. 
+Maintain focus on yield improvement and environmental safety. 
+Start your response exactly with: Hello Watanabe-san, 
+
+Example responses (for reference only — do not copy or reuse):
+Example 1:
+Hello Watanabe-san, based on the data from your paddy field, here are some important observations and suggestions. 
+Your soil pH is slightly acidic, around 5.2, so applying a bit of lime will help balance it. Nitrogen is slightly low, so adding urea can support healthy tillering. 
+Potassium and phosphorus are fine for now, but keep checking them as the plants grow. 
+Moisture and drainage look good — just avoid overflooding. 
+The soil temperature around 19°C and bright sunshine make it a great time to apply fertilizer and manage weeds. 
+Humidity is a bit low, so light irrigation will keep the plants comfortable. 
+Keep this steady approach to maintain crop health and good yield.
+
+Example 2:
+Hello Watanabe-san, your field is progressing well, but a few adjustments can help you reach full yield potential. 
+The soil pH of 5.4 shows mild acidity. Applying a little lime will improve nutrient uptake. 
+Nitrogen is a bit below optimal, so a nitrogen-rich fertilizer will encourage stronger growth. 
+Potassium and phosphorus levels look balanced, but check them regularly. 
+Soil moisture at 70% is excellent; maintain this level while avoiding waterlogging. 
+The temperature of 20°C and strong sunshine are ideal for tillering. 
+Humidity is slightly low, so keeping water in the field will create a better environment for growth. 
+Your efforts are paying off — keep observing and adjusting carefully for a healthy, productive crop.
+"," Hello Watanabe-san, 
+
+Based on your paddy field's current state, here are some important observations and suggestions. 
+The soil pH is slightly acidic, around 5.2, so applying a bit of lime will help balance it. Nitrogen is slightly low, so adding urea can support healthy tillering. Potassium and phosphorus are fine for now, but keep checking them as the plants grow. 
+Potential issues include overwatering or underwatering, which could lead to root rot or nutrient deficiency. Keep this steady approach to maintain crop health and good yield. 
+
+A few adjustments can help you reach full yield potential: 
+- Improve soil moisture balance by increasing water supply or reducing evaporation losses.
+- Increase soil nitrogen to support strong growth, particularly in regions prone to nutrient deficiencies.
+- Reduce tillering frequency if your field is already producing ample yields. 
+- Enhance soil fertility by incorporating organic matter or applying a balanced fertilizer. 
+- Improve weed control if pests and diseases are a concern.
+
+To maintain good soil moisture, always ensure that your crop benefits from adequate irrigation. Remember to keep this steady approach for the best possible yield and health.",30.536973,306,Paddy Rice,117,11.16,27.34,64.91,1087.67,371.08,129.46,1571.26,33.57,15.98,Light Rain,High
+5,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+You are an experienced agricultural extension officer specializing in paddy-rice farming. 
+Using the data above, write a short spoken script (about 180–200 words) for another extension officer to read directly to the farmer. 
+The style should be warm, conversational, and natural — as if speaking kindly to the farmer in person. 
+Avoid all special characters, symbols, numbered lists, or bullet points. 
+Use complete sentences and smooth transitions. 
+Demonstrate expert understanding of paddy-rice farming and relate your advice to the actual data provided. 
+Maintain focus on yield improvement and environmental safety. 
+Start your response exactly with: Hello Watanabe-san, 
+
+Example responses (for reference only — do not copy or reuse):
+Example 1:
+Hello Watanabe-san, based on the data from your paddy field, here are some important observations and suggestions. 
+Your soil pH is slightly acidic, around 5.2, so applying a bit of lime will help balance it. Nitrogen is slightly low, so adding urea can support healthy tillering. 
+Potassium and phosphorus are fine for now, but keep checking them as the plants grow. 
+Moisture and drainage look good — just avoid overflooding. 
+The soil temperature around 19°C and bright sunshine make it a great time to apply fertilizer and manage weeds. 
+Humidity is a bit low, so light irrigation will keep the plants comfortable. 
+Keep this steady approach to maintain crop health and good yield.
+
+Example 2:
+Hello Watanabe-san, your field is progressing well, but a few adjustments can help you reach full yield potential. 
+The soil pH of 5.4 shows mild acidity. Applying a little lime will improve nutrient uptake. 
+Nitrogen is a bit below optimal, so a nitrogen-rich fertilizer will encourage stronger growth. 
+Potassium and phosphorus levels look balanced, but check them regularly. 
+Soil moisture at 70% is excellent; maintain this level while avoiding waterlogging. 
+The temperature of 20°C and strong sunshine are ideal for tillering. 
+Humidity is slightly low, so keeping water in the field will create a better environment for growth. 
+Your efforts are paying off — keep observing and adjusting carefully for a healthy, productive crop.
+","Watanabe-san, based on your paddy field's data, there are some important observations that we need to make. Soil pH is slightly acidic, around 5.2. Nitrogen levels are low at 5.4, which could be a problem if you want strong growth. Potassium and phosphorus are fine for now, but keep checking them as your plants grow. 
+
+Your soil temperature is around 19°C with bright sunshine. This is a good time to apply fertilizer and manage weeds. If possible, avoid overflooding the field. Humidity is slightly low at 70%, but keep checking it regularly to make sure your plants are getting enough moisture. The temperature is perfect for growing paddy-rice plants.
+
+Keep this steady approach to maintain good crop health and yield. Remember, we need to keep a close watch on these observations to ensure you're hitting the ideal level of nutrients and water usage for your crops. 
+
+Remember, there are always things that can go wrong in paddy-rice farming. We want to make sure you're taking all necessary precautions to avoid them. Have a great harvest, Watanabe-san!",27.418037,274,Paddy Rice,193,7.82,39.34,29.05,1933.69,1780.68,1947.94,9869.9,26.75,31.58,Dew,Low
+6,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+You are an experienced agricultural extension officer specializing in paddy-rice farming. 
+Using the data above, write a short spoken script (about 180–200 words) for another extension officer to read directly to the farmer. 
+The style should be warm, conversational, and natural — as if speaking kindly to the farmer in person. 
+Avoid all special characters, symbols, numbered lists, or bullet points. 
+Use complete sentences and smooth transitions. 
+Demonstrate expert understanding of paddy-rice farming and relate your advice to the actual data provided. 
+Maintain focus on yield improvement and environmental safety. 
+Start your response exactly with: Hello Watanabe-san, 
+
+Example responses (for reference only — do not copy or reuse):
+Example 1:
+Hello Watanabe-san, based on the data from your paddy field, here are some important observations and suggestions. 
+Your soil pH is slightly acidic, around 5.2, so applying a bit of lime will help balance it. Nitrogen is slightly low, so adding urea can support healthy tillering. 
+Potassium and phosphorus are fine for now, but keep checking them as the plants grow. 
+Moisture and drainage look good — just avoid overflooding. 
+The soil temperature around 19°C and bright sunshine make it a great time to apply fertilizer and manage weeds. 
+Humidity is a bit low, so light irrigation will keep the plants comfortable. 
+Keep this steady approach to maintain crop health and good yield.
+
+Example 2:
+Hello Watanabe-san, your field is progressing well, but a few adjustments can help you reach full yield potential. 
+The soil pH of 5.4 shows mild acidity. Applying a little lime will improve nutrient uptake. 
+Nitrogen is a bit below optimal, so a nitrogen-rich fertilizer will encourage stronger growth. 
+Potassium and phosphorus levels look balanced, but check them regularly. 
+Soil moisture at 70% is excellent; maintain this level while avoiding waterlogging. 
+The temperature of 20°C and strong sunshine are ideal for tillering. 
+Humidity is slightly low, so keeping water in the field will create a better environment for growth. 
+Your efforts are paying off — keep observing and adjusting carefully for a healthy, productive crop.
+","Hello Watanabe-san! Based on your paddy field data, I'd like to provide some suggestions and recommendations in regards to improving yield and maintaining a healthy environment for growth. 
+
+Firstly, your soil pH is slightly acidic. Adding lime will help balance it out, as you mentioned. Nitrogen levels are low, so applying a nitrogen-rich fertilizer will encourage stronger growth. Potassium and phosphorus levels seem to be balanced, but it's crucial to check them regularly for optimal results. 
+
+Maintaining ideal soil moisture levels is essential for healthy plants. Aim for temperatures of around 20°C (68°F) and sunshine of at least 7 hours daily. This will not only create a more hospitable environment for growth, but it'll also encourage even stronger root systems. 
+
+As we continue monitoring your field, I would recommend using an irrigation system with light sprinkles during the day to prevent overwatering and excessive soil moisture. If you experience any issues, such as puddles or soil crusts forming, it's essential to address them immediately. Incorporating proper drainage is also important for maintaining proper crop health. 
+
+To encourage even stronger growth, try not to overfertize your plants, and instead, provide consistent, balanced nutrients through organic mulch or liquid fertilizers. This will help your plants stay healthy and strong, leading to higher yields. Finally, stay focused on maintaining a controlled environment that encourages plant health and growth. 
+
+I hope these suggestions can prove beneficial for your paddy field in the coming months. Remember, consistency is key, and the more accurate you are with your observations, the better off you'll be. 
+
+Take care, Watanabe-san, and I look forward to following your progress!",43.088955,428,Paddy Rice,53,3.75,12.81,66.73,2.6,816.38,510.36,2822.35,15.97,94.14,Light Rain,Moderate
+7,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+You are an experienced agricultural extension officer specializing in paddy-rice farming. 
+Using the data above, write a short spoken script (about 180–200 words) for another extension officer to read directly to the farmer. 
+The style should be warm, conversational, and natural — as if speaking kindly to the farmer in person. 
+Avoid all special characters, symbols, numbered lists, or bullet points. 
+Use complete sentences and smooth transitions. 
+Demonstrate expert understanding of paddy-rice farming and relate your advice to the actual data provided. 
+Maintain focus on yield improvement and environmental safety. 
+Start your response exactly with: Hello Watanabe-san, 
+
+Example responses (for reference only — do not copy or reuse):
+Example 1:
+Hello Watanabe-san, based on the data from your paddy field, here are some important observations and suggestions. 
+Your soil pH is slightly acidic, around 5.2, so applying a bit of lime will help balance it. Nitrogen is slightly low, so adding urea can support healthy tillering. 
+Potassium and phosphorus are fine for now, but keep checking them as the plants grow. 
+Moisture and drainage look good — just avoid overflooding. 
+The soil temperature around 19°C and bright sunshine make it a great time to apply fertilizer and manage weeds. 
+Humidity is a bit low, so light irrigation will keep the plants comfortable. 
+Keep this steady approach to maintain crop health and good yield.
+
+Example 2:
+Hello Watanabe-san, your field is progressing well, but a few adjustments can help you reach full yield potential. 
+The soil pH of 5.4 shows mild acidity. Applying a little lime will improve nutrient uptake. 
+Nitrogen is a bit below optimal, so a nitrogen-rich fertilizer will encourage stronger growth. 
+Potassium and phosphorus levels look balanced, but check them regularly. 
+Soil moisture at 70% is excellent; maintain this level while avoiding waterlogging. 
+The temperature of 20°C and strong sunshine are ideal for tillering. 
+Humidity is slightly low, so keeping water in the field will create a better environment for growth. 
+Your efforts are paying off — keep observing and adjusting carefully for a healthy, productive crop.
+","Hello Watanabe-san! 
+Based on the data from your paddy field, I'd like to offer some helpful observations and suggestions to improve yield and ensure proper environmental safety. 
+Firstly, soil pH is slightly acidic at 5.2 but could be balanced with a little lime. Adding urea can help maintain a neutral pH level. 
+Potassium and phosphorus levels are also low at 4.9 and 3.1 respectively. While this may seem okay initially, it's important to check regularly for any signs of waterlogging or soil compaction. 
+The temperature around 19°C is ideal for your crops. However, a few adjustments can help you reach full potential. For example, light irrigation during the early months will promote healthy growth and keep the plants comfortable. 
+Maintaining steady watering and drainage are essential to prevent flooding and maintain soil moisture levels. Additionally, avoid overflooding the field with excessive fertilizer or pesticides, as they may cause harmful effects on the plants. 
+Finally, your crops are growing well. Keep observing and adjusting your approach for optimal yield potential. I'd be more than happy to provide further guidance and support if you have any questions.",28.367852,285,Paddy Rice,131,6.85,18.72,22.42,287.49,1512.82,421.95,3900.58,32.44,48.23,Light Rain,Moderate
+8,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+You are an experienced agricultural extension officer specializing in paddy-rice farming. 
+Using the data above, write a short spoken script (about 180–200 words) for another extension officer to read directly to the farmer. 
+The style should be warm, conversational, and natural — as if speaking kindly to the farmer in person. 
+Avoid all special characters, symbols, numbered lists, or bullet points. 
+Use complete sentences and smooth transitions. 
+Demonstrate expert understanding of paddy-rice farming and relate your advice to the actual data provided. 
+Maintain focus on yield improvement and environmental safety. 
+Start your response exactly with: Hello Watanabe-san, 
+
+Example responses (for reference only — do not copy or reuse):
+Example 1:
+Hello Watanabe-san, based on the data from your paddy field, here are some important observations and suggestions. 
+Your soil pH is slightly acidic, around 5.2, so applying a bit of lime will help balance it. Nitrogen is slightly low, so adding urea can support healthy tillering. 
+Potassium and phosphorus are fine for now, but keep checking them as the plants grow. 
+Moisture and drainage look good — just avoid overflooding. 
+The soil temperature around 19°C and bright sunshine make it a great time to apply fertilizer and manage weeds. 
+Humidity is a bit low, so light irrigation will keep the plants comfortable. 
+Keep this steady approach to maintain crop health and good yield.
+
+Example 2:
+Hello Watanabe-san, your field is progressing well, but a few adjustments can help you reach full yield potential. 
+The soil pH of 5.4 shows mild acidity. Applying a little lime will improve nutrient uptake. 
+Nitrogen is a bit below optimal, so a nitrogen-rich fertilizer will encourage stronger growth. 
+Potassium and phosphorus levels look balanced, but check them regularly. 
+Soil moisture at 70% is excellent; maintain this level while avoiding waterlogging. 
+The temperature of 20°C and strong sunshine are ideal for tillering. 
+Humidity is slightly low, so keeping water in the field will create a better environment for growth. 
+Your efforts are paying off — keep observing and adjusting carefully for a healthy, productive crop.
+"," Hello Watanabe-san! Based on your paddy field, there are some important observations and suggestions: 
+
+The soil pH is slightly acidic, around 5.2, which can be improved with a bit of lime to increase nutrient uptake. 
+Nitrogen is low, so adding urea will help support healthy tillering. 
+Potassium and phosphorus are fine for now, but keep checking them as the plants grow. 
+Moisture and drainage look good – just avoid overflooding. 
+The soil temperature around 19°C is perfect, but bright sunshine will help keep the plants comfortable. 
+Humidity is a bit low, so light irrigation will keep the plants comfortably moist. 
+Maintain this steady approach to maintain crop health and good yield.",18.901599,192,Paddy Rice,17,10.05,29.69,75.21,1649.25,579.78,1109.59,8405.93,10.4,85.67,Heavy Rain,High
+9,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+You are an experienced agricultural extension officer specializing in paddy-rice farming. 
+Using the data above, write a short spoken script (about 180–200 words) for another extension officer to read directly to the farmer. 
+The style should be warm, conversational, and natural — as if speaking kindly to the farmer in person. 
+Avoid all special characters, symbols, numbered lists, or bullet points. 
+Use complete sentences and smooth transitions. 
+Demonstrate expert understanding of paddy-rice farming and relate your advice to the actual data provided. 
+Maintain focus on yield improvement and environmental safety. 
+Start your response exactly with: Hello Watanabe-san, 
+
+Example responses (for reference only — do not copy or reuse):
+Example 1:
+Hello Watanabe-san, based on the data from your paddy field, here are some important observations and suggestions. 
+Your soil pH is slightly acidic, around 5.2, so applying a bit of lime will help balance it. Nitrogen is slightly low, so adding urea can support healthy tillering. 
+Potassium and phosphorus are fine for now, but keep checking them as the plants grow. 
+Moisture and drainage look good — just avoid overflooding. 
+The soil temperature around 19°C and bright sunshine make it a great time to apply fertilizer and manage weeds. 
+Humidity is a bit low, so light irrigation will keep the plants comfortable. 
+Keep this steady approach to maintain crop health and good yield.
+
+Example 2:
+Hello Watanabe-san, your field is progressing well, but a few adjustments can help you reach full yield potential. 
+The soil pH of 5.4 shows mild acidity. Applying a little lime will improve nutrient uptake. 
+Nitrogen is a bit below optimal, so a nitrogen-rich fertilizer will encourage stronger growth. 
+Potassium and phosphorus levels look balanced, but check them regularly. 
+Soil moisture at 70% is excellent; maintain this level while avoiding waterlogging. 
+The temperature of 20°C and strong sunshine are ideal for tillering. 
+Humidity is slightly low, so keeping water in the field will create a better environment for growth. 
+Your efforts are paying off — keep observing and adjusting carefully for a healthy, productive crop.
+","Hello Watanabe-san! Based on your paddy field data, I would like to provide some suggestions and recommendations for optimal yield improvement and environmental safety. 
+
+Your soil pH is slightly acidic, around 5.2, so applying a bit of lime will help balance it. Nitrogen is slightly low, so adding urea can support healthy tillering. Potassium and phosphorus levels are fine for now, but keep checking them as the plants grow. 
+
+Moisture and drainage look good — just avoid overflooding. Keep this steady approach to maintain crop health and good yield. 
+
+Humidity is a bit low, so light irrigation will keep the plants comfortable. Keep this steady approach to maintain crop health and good yield.
+
+Another observation you may want to consider is that your soil moisture levels at 70% are excellent; maintaining this level while avoiding waterlogging can help reduce the chances of diseases and pests affecting your crops. 
+
+Another suggestion would be to keep track of weather patterns for any unusual occurrences. Changes in climate can have a significant impact on crop growth, so being aware of these changes will improve your cultivation's overall efficiency and output.",27.720667,279,Paddy Rice,93,13.42,34.19,46.88,1372.1,1051.9,810.64,142.09,18.05,63.82,No Rain,High
+10,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+You are an experienced agricultural extension officer specializing in paddy-rice farming. 
+Using the data above, write a short spoken script (about 180–200 words) for another extension officer to read directly to the farmer. 
+The style should be warm, conversational, and natural — as if speaking kindly to the farmer in person. 
+Avoid all special characters, symbols, numbered lists, or bullet points. 
+Use complete sentences and smooth transitions. 
+Demonstrate expert understanding of paddy-rice farming and relate your advice to the actual data provided. 
+Maintain focus on yield improvement and environmental safety. 
+Start your response exactly with: Hello Watanabe-san, 
+
+Example responses (for reference only — do not copy or reuse):
+Example 1:
+Hello Watanabe-san, based on the data from your paddy field, here are some important observations and suggestions. 
+Your soil pH is slightly acidic, around 5.2, so applying a bit of lime will help balance it. Nitrogen is slightly low, so adding urea can support healthy tillering. 
+Potassium and phosphorus are fine for now, but keep checking them as the plants grow. 
+Moisture and drainage look good — just avoid overflooding. 
+The soil temperature around 19°C and bright sunshine make it a great time to apply fertilizer and manage weeds. 
+Humidity is a bit low, so light irrigation will keep the plants comfortable. 
+Keep this steady approach to maintain crop health and good yield.
+
+Example 2:
+Hello Watanabe-san, your field is progressing well, but a few adjustments can help you reach full yield potential. 
+The soil pH of 5.4 shows mild acidity. Applying a little lime will improve nutrient uptake. 
+Nitrogen is a bit below optimal, so a nitrogen-rich fertilizer will encourage stronger growth. 
+Potassium and phosphorus levels look balanced, but check them regularly. 
+Soil moisture at 70% is excellent; maintain this level while avoiding waterlogging. 
+The temperature of 20°C and strong sunshine are ideal for tillering. 
+Humidity is slightly low, so keeping water in the field will create a better environment for growth. 
+Your efforts are paying off — keep observing and adjusting carefully for a healthy, productive crop.
+"," Hello Watanabe-san! Based on your paddy field data, here are some important observations and suggestions. 
+
+The soil pH is slightly acidic, around 5.2. Adding a bit of lime will help balance it out. Nitrogen levels are fine for now, but keep checking them as the plants grow. 
+
+Potassium and phosphorus levels are nearing ideal. However, check them regularly to ensure consistent nutrient uptake. 
+
+Moisture and drainage look good, with your soil temperature at 19°C. Avoid overflooding, but avoid sudden changes in water levels too. 
+
+The soil temperature around 19°C and bright sunshine are great for growing paddy-rice plants. This is a great time to apply fertilizer and manage weeds. 
+
+Humidity is a bit low, so light irrigation will keep the plants comfortable. Be sure to water sparingly, but not excessively, as overwatering can lead to rot. 
+
+Adjust these adjustments carefully to maintain your crop's health and yield potential. A steady approach with consistent monitoring is a great way to achieve this. 
+
+Again, I want to express my warmest regards and congratulate you on a job well done!",29.250817,293,Paddy Rice,154,3.5,14.21,54.55,691.13,103.23,1748.24,7159.56,39.14,1.28,Heavy Rain,High
+11,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+You are an experienced agricultural extension officer specializing in paddy-rice farming. 
+Using the data above, write a short spoken script (about 180–200 words) for another extension officer to read directly to the farmer. 
+The style should be warm, conversational, and natural — as if speaking kindly to the farmer in person. 
+Avoid all special characters, symbols, numbered lists, or bullet points. 
+Use complete sentences and smooth transitions. 
+Demonstrate expert understanding of paddy-rice farming and relate your advice to the actual data provided. 
+Maintain focus on yield improvement and environmental safety. 
+Start your response exactly with: Hello Watanabe-san, 
+
+Example responses (for reference only — do not copy or reuse):
+Example 1:
+Hello Watanabe-san, based on the data from your paddy field, here are some important observations and suggestions. 
+Your soil pH is slightly acidic, around 5.2, so applying a bit of lime will help balance it. Nitrogen is slightly low, so adding urea can support healthy tillering. 
+Potassium and phosphorus are fine for now, but keep checking them as the plants grow. 
+Moisture and drainage look good — just avoid overflooding. 
+The soil temperature around 19°C and bright sunshine make it a great time to apply fertilizer and manage weeds. 
+Humidity is a bit low, so light irrigation will keep the plants comfortable. 
+Keep this steady approach to maintain crop health and good yield.
+
+Example 2:
+Hello Watanabe-san, your field is progressing well, but a few adjustments can help you reach full yield potential. 
+The soil pH of 5.4 shows mild acidity. Applying a little lime will improve nutrient uptake. 
+Nitrogen is a bit below optimal, so a nitrogen-rich fertilizer will encourage stronger growth. 
+Potassium and phosphorus levels look balanced, but check them regularly. 
+Soil moisture at 70% is excellent; maintain this level while avoiding waterlogging. 
+The temperature of 20°C and strong sunshine are ideal for tillering. 
+Humidity is slightly low, so keeping water in the field will create a better environment for growth. 
+Your efforts are paying off — keep observing and adjusting carefully for a healthy, productive crop.
+","Hello Watanabe-san, your paddy field is looking very promising, but there's still room for improvement in some areas. 
+Let me outline some suggestions that will help you reach full yield potential: 
+1. Soil pH: A slight acidity can be beneficial for rice growth, but we want to keep it around 5.2 for optimal plant health. Apply a few drops of lime solution to your soil and observe the results.
+2. Nitrogen levels: The soil test result at 5.4 indicates mild acidity. Adding some nitrogen-rich fertilizer will help the plants grow stronger.
+3. Potassium and phosphorus levels: Maintain an ideal balance of these essential nutrients to support healthy plant growth. Keep soil moisture around 70% to create an optimal environment for growth.
+4. Temperature: Allowing sunshine and regular irrigation will enhance your crop's yield. Check the temperature on a weekly basis to ensure proper watering and fertilization.
+5. Humidity: Maintain a good balance of moisture, so plants can grow without being overwatered or flooded. 
+6. Soil management: Regular tillering will help maintain soil structure and nutrient levels for optimal growth. Keep an eye on your crop's health to ensure proper care at all stages.
+7. Weeding and pest control: Cleaning up weeds and using appropriate pest control methods can help avoid any problems that could impact yield. 
+8. Irrigation management: Ensuring proper watering will keep your crops healthy and well-nourished. Monitor soil moisture levels regularly to prevent overwatering or underwatering during periods of heavy rainfall.
+9. Fertilization: Using the appropriate fertilizer for your crop's growth stage can help boost yields and improve overall plant health. Consult with a professional agronomist if you have any questions about which specific fertilizers to use or what amounts to achieve maximum yield.
+I hope these suggestions will help you reach your full potential in the paddy field, Watanabe-san!",49.122403,482,Paddy Rice,64,11.38,10.1,25.76,534.28,1998.36,979.98,7551.52,29.16,40.07,Light Rain,Moderate
+12,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+You are an experienced agricultural extension officer specializing in paddy-rice farming. 
+Using the data above, write a short spoken script (about 180–200 words) for another extension officer to read directly to the farmer. 
+The style should be warm, conversational, and natural — as if speaking kindly to the farmer in person. 
+Avoid all special characters, symbols, numbered lists, or bullet points. 
+Use complete sentences and smooth transitions. 
+Demonstrate expert understanding of paddy-rice farming and relate your advice to the actual data provided. 
+Maintain focus on yield improvement and environmental safety. 
+Start your response exactly with: Hello Watanabe-san, 
+
+Example responses (for reference only — do not copy or reuse):
+Example 1:
+Hello Watanabe-san, based on the data from your paddy field, here are some important observations and suggestions. 
+Your soil pH is slightly acidic, around 5.2, so applying a bit of lime will help balance it. Nitrogen is slightly low, so adding urea can support healthy tillering. 
+Potassium and phosphorus are fine for now, but keep checking them as the plants grow. 
+Moisture and drainage look good — just avoid overflooding. 
+The soil temperature around 19°C and bright sunshine make it a great time to apply fertilizer and manage weeds. 
+Humidity is a bit low, so light irrigation will keep the plants comfortable. 
+Keep this steady approach to maintain crop health and good yield.
+
+Example 2:
+Hello Watanabe-san, your field is progressing well, but a few adjustments can help you reach full yield potential. 
+The soil pH of 5.4 shows mild acidity. Applying a little lime will improve nutrient uptake. 
+Nitrogen is a bit below optimal, so a nitrogen-rich fertilizer will encourage stronger growth. 
+Potassium and phosphorus levels look balanced, but check them regularly. 
+Soil moisture at 70% is excellent; maintain this level while avoiding waterlogging. 
+The temperature of 20°C and strong sunshine are ideal for tillering. 
+Humidity is slightly low, so keeping water in the field will create a better environment for growth. 
+Your efforts are paying off — keep observing and adjusting carefully for a healthy, productive crop.
+","Watanabe-san, based on your paddy field's data, I have some important observations and suggestions. 
+Soil pH is slightly acidic, so applying a bit of lime will help balance it. Nitrogen is low, so adding urea can support healthy tillering. Potassium and phosphorus levels are fine for now, but keep checking them as the plants grow. 
+Moisture and drainage look good — just avoid overflooding. The soil temperature around 19°C and bright sunshine make it a great time to apply fertilizer and manage weeds. Humidity is a bit low, so light irrigation will keep the plants comfortable. 
+Here are some adjustments you can try: 
+- Applying a little lime may improve nutrient uptake. 
+- Adding urea can help build up more nitrogen for better growth. 
+- Monitoring soil moisture and temperature regularly will give you a clearer picture of your field's condition. 
+- Stick to a steady approach, making small adjustments based on observation. 
+Fulfilling these suggestions can lead to an improved crop yield and a better understanding of the field's conditions.",27.284424,273,Paddy Rice,176,1.45,37.81,78.43,1403.97,908.94,1542.64,4598.75,13.7,77.62,Light Rain,Low
+13,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+You are an experienced agricultural extension officer specializing in paddy-rice farming. 
+Using the data above, write a short spoken script (about 180–200 words) for another extension officer to read directly to the farmer. 
+The style should be warm, conversational, and natural — as if speaking kindly to the farmer in person. 
+Avoid all special characters, symbols, numbered lists, or bullet points. 
+Use complete sentences and smooth transitions. 
+Demonstrate expert understanding of paddy-rice farming and relate your advice to the actual data provided. 
+Maintain focus on yield improvement and environmental safety. 
+Start your response exactly with: Hello Watanabe-san, 
+
+Example responses (for reference only — do not copy or reuse):
+Example 1:
+Hello Watanabe-san, based on the data from your paddy field, here are some important observations and suggestions. 
+Your soil pH is slightly acidic, around 5.2, so applying a bit of lime will help balance it. Nitrogen is slightly low, so adding urea can support healthy tillering. 
+Potassium and phosphorus are fine for now, but keep checking them as the plants grow. 
+Moisture and drainage look good — just avoid overflooding. 
+The soil temperature around 19°C and bright sunshine make it a great time to apply fertilizer and manage weeds. 
+Humidity is a bit low, so light irrigation will keep the plants comfortable. 
+Keep this steady approach to maintain crop health and good yield.
+
+Example 2:
+Hello Watanabe-san, your field is progressing well, but a few adjustments can help you reach full yield potential. 
+The soil pH of 5.4 shows mild acidity. Applying a little lime will improve nutrient uptake. 
+Nitrogen is a bit below optimal, so a nitrogen-rich fertilizer will encourage stronger growth. 
+Potassium and phosphorus levels look balanced, but check them regularly. 
+Soil moisture at 70% is excellent; maintain this level while avoiding waterlogging. 
+The temperature of 20°C and strong sunshine are ideal for tillering. 
+Humidity is slightly low, so keeping water in the field will create a better environment for growth. 
+Your efforts are paying off — keep observing and adjusting carefully for a healthy, productive crop.
+","Hello Watanabe-san! Based on your paddy field data, here are some important observations and suggestions. 
+You soil pH is slightly acidic, around 5.2, so applying a bit of lime will help balance it. Nitrogen is slightly low, so adding urea can support healthy tillering. Potassium and phosphorus are fine for now, but keep checking them as the plants grow. Moisture and drainage look good – just avoid overflooding. 
+The soil temperature around 19°C and bright sunshine make it a great time to apply fertilizer and manage weeds. Keep this steady approach to maintain crop health and good yield. 
+Humidity is a bit low, so light irrigation will keep the plants comfortable. Keep this steady approach to maintain crop health and good yield. 
+Your progress so far has been promising! Keep observing, adjusting, and staying informed about your paddy field's progress.",21.941129,220,Paddy Rice,103,4.83,25.57,42.6,1617.64,1443.69,349.16,6295.22,20.34,74.41,Heavy Rain,High
+14,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+You are an experienced agricultural extension officer specializing in paddy-rice farming. 
+Using the data above, write a short spoken script (about 180–200 words) for another extension officer to read directly to the farmer. 
+The style should be warm, conversational, and natural — as if speaking kindly to the farmer in person. 
+Avoid all special characters, symbols, numbered lists, or bullet points. 
+Use complete sentences and smooth transitions. 
+Demonstrate expert understanding of paddy-rice farming and relate your advice to the actual data provided. 
+Maintain focus on yield improvement and environmental safety. 
+Start your response exactly with: Hello Watanabe-san, 
+
+Example responses (for reference only — do not copy or reuse):
+Example 1:
+Hello Watanabe-san, based on the data from your paddy field, here are some important observations and suggestions. 
+Your soil pH is slightly acidic, around 5.2, so applying a bit of lime will help balance it. Nitrogen is slightly low, so adding urea can support healthy tillering. 
+Potassium and phosphorus are fine for now, but keep checking them as the plants grow. 
+Moisture and drainage look good — just avoid overflooding. 
+The soil temperature around 19°C and bright sunshine make it a great time to apply fertilizer and manage weeds. 
+Humidity is a bit low, so light irrigation will keep the plants comfortable. 
+Keep this steady approach to maintain crop health and good yield.
+
+Example 2:
+Hello Watanabe-san, your field is progressing well, but a few adjustments can help you reach full yield potential. 
+The soil pH of 5.4 shows mild acidity. Applying a little lime will improve nutrient uptake. 
+Nitrogen is a bit below optimal, so a nitrogen-rich fertilizer will encourage stronger growth. 
+Potassium and phosphorus levels look balanced, but check them regularly. 
+Soil moisture at 70% is excellent; maintain this level while avoiding waterlogging. 
+The temperature of 20°C and strong sunshine are ideal for tillering. 
+Humidity is slightly low, so keeping water in the field will create a better environment for growth. 
+Your efforts are paying off — keep observing and adjusting carefully for a healthy, productive crop.
+","Hello Watanabe-san, your field is progressing well, but a few adjustments can help you reach full yield potential. 
+The soil pH of 5.4 shows mild acidity. Applying a little lime will improve nutrient uptake. 
+Nitrogen is a bit below optimal, so a nitrogen-rich fertilizer will encourage stronger growth. 
+Potassium and phosphorus levels are balanced, but check them regularly. 
+Soil moisture at 70% is excellent; maintain this level while avoiding waterlogging. 
+The temperature of 20°C and strong sunshine are ideal for tillering. 
+Humidity is slightly low, so keeping water in the field will create a better environment for growth. 
+Your efforts are paying off — keep observing and adjusting carefully for a healthy, productive crop.",20.275359,203,Paddy Rice,38,8.03,22.34,50.39,444.11,401.14,1161.75,850.16,36.76,11.97,Heavy Rain,Moderate

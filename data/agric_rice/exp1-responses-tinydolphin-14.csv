@@ -1,0 +1,550 @@
+#,prompt,response,duration_sec,token_count,farm_type,days_since_planting,ph,soil_temperatute,soil_moisture,soil_nitrogen,soil_potassium,soil_phosphorous,soil_ec,ambient_temperature,atmospheric_humidity,rainfall_state,sunshine_intensity
+1,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+"," Hello Watanabe-san,
+
+Your soil appears healthy, but it may need some extra attention. I've compiled a list of recommendations that could help you optimize your paddy-rice farming practices and improve yield:
+
+1. Add compost or a light fertilizer to boost soil nitrogen levels. This will help the plants grow strong and produce more rice.
+2. Monitor your soil moisture using an in-ground or portable soil moisture meter. Be cautious of overwatering, as it can lead to root rot if left unchecked.
+3. Regularly examine your soil for pests, diseases, and other issues that may impact yield. Take appropriate action to address them promptly, ensuring a healthy garden environment for your crops.
+4. Water your plants deeply and evenly each day to keep the soil moist but not saturated. Aim for an ideal soil-moisture balance, meaning about 30-50% saturation at any time.
+5. Monitor the temperature in your garden regularly. Adjust the indoor climate settings as necessary to ensure optimal growth and development of your crops.
+6. Regularly inspect your soil for pests, weeds, or other issues that may require treatment. Use a reliable pesticide product specific to your crop, following any recommended guidelines.
+7. Ensure good air circulation by opening windows and doors frequently during warm weather periods. This will help reduce heat gain and humidity within your garden.
+8. Monitor the humidity levels in your garden regularly. Keep an eye on it between 40-60% to ensure optimal growth and productivity for your plants.
+9. Clean your paddy-rice garden tools frequently, especially after handling or harvesting ripe rice. This will prevent any bacteria from spreading and ensure a healthier environment for your crops.
+10. Regularly inspect your soil for pests, weeds, or other issues that may require treatment. Use a reliable pesticide product specific to your crop, following any recommended guidelines.
+11. Harvest ripe rice as soon as possible after the last frost in your area. This will ensure optimal flavor and texture for your dishes.
+12. Don't forget to enjoy your harvest! Spend quality time with family and friends, savoring every bite of fresh paddy-rice.
+
+I hope these suggestions help you improve yield and protect the environment in your paddy- rice farming operation. Remember, proper nutrition and care can go a long way in promoting healthy plants that produce more food for you to enjoy.",69.833214,587,Paddy Rice,23,4.17,35.2,61.87,862.06,1628.74,1612.83,534.57,28.12,80.62,Dew,Low
+2,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+"," Hello Watanabe-san! Your soil seems to be lacking in nitrogen. To improve yield and protect the environment, you can apply a light fertilizer or compost to boost your plant's health. Remember, good soil nutrition is crucial for optimal growth and productivity. Enjoy your conversation with me!",6.008446,72,Paddy Rice,136,7.37,16.86,39.54,1199.28,718.03,925.43,7237.03,14.51,43.07,Dew,Low
+3,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+"," Hello Watanabe-san! Your soil appears to be relatively low in nitrogen, which can have both positive and negative impacts on your paddy-rice crops. To improve yield and protect the environment, you can follow these guidelines:
+
+1. **Add compost or a light fertilizer this week**: Adding organic matter to your soil is essential for balancing the nutrients in your soil, improving its structure and allowing more water and sunlight to reach the roots. You can either make your own compost from waste materials or buy it at an appropriate retailer. Consider planting a garden of native plants like mustard greens or cress, which are known for their high nitrogen content.
+
+2. **Fertilize with a balanced fertilizer**: Nitrogen-rich fertilizers can help your paddy-rice crops grow stronger and faster. Aim to use an appropriate combination of nitrogen, phosphorus, and potassium fertilizers according to the recommended amounts by your local agricultural extension agent or a reliable source like a soil test.
+
+3. **Regularly water your plants**: Ensuring proper drainage and irrigation are essential for sustaining your paddy-rice crops. Regularly check your soil moisture levels using a moisture meter, as it can indicate when you need to water more or less. Also, it's a good idea to regularly inspect your plants for signs of mold or fungus growth, which may be caused by lack of water.
+
+4. **Regularly cut back your plants**: When the plant has reached its full height and has produced enough fruit or flowers, it’s time to harvest. Harvested fruits or flowers will provide essential nutrients for the next generation of paddy-rice crops. Cut back the branches at a 45-degree angle, so they stay flexible but don’t damage the existing structure.
+
+5. **Avoid overwatering and over-fertilizing**: Overwatering can lead to root rot, while excessive nitrogen fertilization might cause damage to your plants. Always monitor your crops' health and make informed decisions on when to harvest and how much to water or fertilize them.
+
+6. **Regularly inspect your paddy-rice crops**: Check the color, shape, and condition of your fruits or flowers regularly. If you notice any signs of mold or fungus growth, remove the affected branches and dispose of them properly. Don't forget to harvest ripe produce for a healthier diet!
+
+Remember, always consult with your local agricultural extension agent or a reliable source for proper advice on how to best nurture and protect your paddy-rice crops. With the guidance of experienced professionals like Watanabe-san, you'll surely experience improved yield and reduced environmental impact in the coming months.",58.391662,644,Paddy Rice,159,10.73,19.73,67.43,1790.85,1183.44,1247.57,4290.56,21.41,8.77,No Rain,Low
+4,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+"," Hello Watanabe-san,
+
+Your soil appears to be in need of some TLC. Adding compost or a light fertilizer this week can significantly improve the health and growth of your paddy rice plants. This will help them grow faster and develop stronger roots, which will ultimately enhance their overall yield.
+
+Here are the key steps to follow:
+1. Start by diluting 2 tablespoons of compost per liter (gallon) of water in a small bowl. Place this compost solution into an open container, such as a pet bottle or jar, and shake well to mix it thoroughly.
+2. Pour this mixture over the bed of your paddy-rice plants. Be sure that there are no visible cracks or gaps. If any soil is left behind on the bed, you can use a garden hoe or a trowel to knock it down and reclaim any excess nutrients.
+3. Water your paddy rice plants thoroughly with a moderate amount of water for their roots. Use the recommended watering schedule chart included in the packaging for guidance. 
+4. After the initial watering, give your plants a light fertilizer. Using a fertilizer product like ""Paddy-Rice Miracle"" or ""Sunrise Paddy Rice,"" follow the manufacturer's instructions and apply it evenly over the entire bed of your paddy-rice plants.
+5. Monitor the soil moisture level regularly to ensure that you do not exceed the recommended maximum watering height for your paddy rice plants.
+6. Fertilize your plants again in late February or early March if you observed a consistent increase in growth after applying the initial fertilizer. Follow the same steps as before, but dilute half a tablespoon of compost per liter (gallon) of water and use it instead. 
+7. Continue to monitor your plants' health and soil moisture levels every few weeks. If there is any change in your paddy rice plants' growth or development, adjust the fertilizer amount accordingly. 
+8. After the initial fertilizing cycle, wait at least a week before applying it again. This will allow the plants to heal from last year's treatment and ensure that they receive the best possible nutrition to grow more robust paddy rice plants this year.
+9. Finally, consistently apply a balanced, comprehensive fertilizer regimen every other week or so until the end of March. This will help maintain optimal soil moisture levels and keep your paddy rice plants healthy and thriving. Remember to water them thoroughly and apply the fertilizer evenly over their entire bed.
+
+I hope this guidance helps you optimize the growth and yield of your paddy rice plants. Feel free to reach out for any further assistance. I am here to help, and we will continue to work together to ensure that your farm is a thriving source of nutritious food for our society.",59.435031,642,Paddy Rice,100,0.8,32.34,30.22,147.84,225.86,310.21,8485.93,35.93,71.23,Light Rain,High
+5,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+"," Hello Watanabe-san! Your soil appears to be healthy but somewhat low in nitrogen. We'd like to remind you about our agricultural extension program, where we provide guidance and support for farmers like yourself. This week, consider incorporating compost or a light fertilizer. It's a natural way to improve your soil's nutrient levels while keeping your plants healthy and strong. If you have any questions or concerns, please feel free to ask! Warm regards, Dolphin""",9.807325,112,Paddy Rice,122,3.05,36.61,74.04,425.47,1415.65,631.96,9478.63,19.47,24.17,Light Rain,Low
+6,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+"," Hello Watanabe-san! Your soil appears healthy yet somewhat low in nitrogen. To boost your plant's growth and increase their chances of reaching their full potential, I'll be happy to help you incorporate compost or a light fertilizer. Here's how:
+
+1. First, take some soil from an area that needs more nutrients. This could be a part of your garden, a neighboring field, or even a pile of leaves on the ground.
+2. Prepare the compost by breaking it down into smaller pieces. You can use the following recipe to achieve this:
+  - 1 tbsp of organic plant manure per tbsp of soil
+  - 3 tbsp of peat moss or decomposed yard waste
+  - 10 tbsp of garden soil (preferably aged)
+3. Now, mix these ingredients into the soil you've found. You might want to do this in a container or bucket to prevent contamination from your hands.
+4. Allow the compost to sit for at least 2-3 weeks before adding it to your garden. This will help break down the organic matter and encourage its absorption by the plants.
+5. After you've incorporated enough compost into the soil, reapply fertilizer or nitrogen-based plant food as needed. You can either add it directly to the top of the soil or mix it with water to create a slow-release application.
+6. Monitor your plants for growth and any signs of improvement. You may want to adjust your fertilizer dosage if necessary, but remember to always consult a reliable source before making any changes.
+7. Remember, incorporating organic matter into the soil is essential for maintaining proper soil structure, water retention, and nutrient availability. This will help your plants have a better chance at thriving.
+8. Now that you've successfully boosted your plants' nutrition levels, they can grow even more efficiently. You may want to reapply the fertilizer or nitrogen-based product as needed until the soil is consistently rich in organic matter and fertile for plant growth.
+9. Remember to water your garden regularly and provide plenty of sunlight for optimal growth. Regular maintenance will ensure that your plants stay healthy and flourish throughout the growing season.
+10. If you're interested, I would also be happy to help you incorporate other natural ingredients like earthworm casts or manure from a nearby pig farm into your soil for additional benefits such as improved water retention and soil structure.
+
+Let me know if there's anything else we can do to assist you. I look forward to hearing back from you soon!",55.840177,604,Paddy Rice,38,13.86,11.71,21.72,1512.82,489.32,1819.37,2746.11,37.75,61.71,Dew,Moderate
+7,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+","Hello Watanabe-san! Your soil seems healthy but low in nitrogen. You can add compost or a light fertilizer this week to help your plants grow stronger. Here are some steps to follow:
+
+1. Prune any branches that are overgrown or dead. This will help remove any obstacles and encourage the plants to grow healthily.
+2. Feed your plants with a balanced, organic fertilizer that contains nitrogen, phosphorus, and potassium. You can find this at your local gardening store or online.
+3. Water your plants well, but not too heavily. You don't want them to dehydrate, so make sure you water them evenly throughout the day.
+4. Keep an eye on your soil moisture level. If it becomes dry, give them more water and check back in a few days to see if they need any additional help.
+5. Clean up any leaf litter or pests that may be attracted to your plants. This will help keep your soil clean and healthy for the rest of the season.
+6. Finally, remember to regularly inspect your plants for pests and diseases. This will help you catch any issues early on and prevent them from spreading.
+I hope these tips help you improve your yield and protect our precious planet! Remember, always speak with a farmer or botanist if you have questions about your soil.",27.863078,310,Paddy Rice,61,10.48,22.07,57.13,1477.31,1892.2,8.95,5737.13,30.05,89.76,No Rain,Low
+8,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+"," Hello Watanabe-san! Your soil appears to be in need of some TLC. To maximize yield and protect the environment, you can:
+
+1. Add compost or a light fertilizer this week to help your plants grow stronger. This will boost their metabolism, provide essential nutrients, and support healthy roots.
+2. Monitor your soil pH levels regularly. A pH of 5.5 to 6.5 is ideal for paddy-rice farming. Adjusting it within this range can help maintain your crops' health and prevent issues such as leaf scorch, brown patch, and root rot.
+3. Monitor your soil moisture levels regularly to ensure proper drainage. A high percentage of moisture in the soil can lead to water-logged plants, which will stunt growth and cause a higher risk of pests and diseases.
+4. Regularly check your soil's temperature using a thermometer. Heat stress can shorten plant life, so paying attention to this metric is crucial for maintaining optimal health.
+5. Inspect your soil's nitrogen levels consistently. Too little nitrogen can lead to weak plants and reduced growth potential. Monitoring nitrogen levels will help you adjust your fertilizer program accordingly, ensuring the best possible results.
+6. Regularly check your soil's electrical conductivity (EC) to ensure proper water penetration and plant health. An EC level of 10,000 to 12,000 is ideal for rice production. Lowering it can lead to excessive evaporation and a decrease in nutrient absorption by the plants.
+7. Ensure that your soil's potassium levels are balanced. A high potassium content will help protect your crops from diseases, pests, and extreme temperatures. Lowering it can lead to weak plants or even stunted growth.
+8. Lastly, monitor the overall health of your soil regularly. Any signs of disease, weed infestation, or nutrient deficiency will indicate that you've overlooked some critical elements for your rice crops.
+Remember, these suggestions are just guidelines. The final decision on which practices to implement and when is yours alone. Always consult with a qualified extension officer before making any changes to your soil management system, especially if it involves altering its chemical composition or using untested fertilizers.",49.703523,540,Paddy Rice,198,6.4,26.24,49.92,584.43,950.24,1446.3,1492.48,12.7,27.31,Heavy Rain,Moderate
+9,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+"," Hello Watanabe-san,
+
+Your soil appears to be healthy but could use some extra nourishment. This is an opportunity for you to improve yield and protect our planet by adding compost or a light fertilizer this week.
+
+Compost is rich in organic matter that helps plants absorb essential nutrients and promotes healthy soil structure. It also contains beneficial microorganisms, which can help improve soil pH, improve air and water quality, and reduce the need for chemical inputs.
+
+Fertilizer, on the other hand, is a concentrated form of essential nutrients that helps plants grow faster, stronger, and resist diseases. It also increases the overall vigor of the plant's roots, promoting better health and overall growth.
+
+To add compost or fertilizer to your soil, simply dilute it with water and apply it evenly. You can use a garden spade or a small trowel to mix the two together, then gently push them into your bed or into the dirt near your plants.
+
+I hope this information helps you improve yield and protect our precious environment. Enjoy!",22.615393,250,Paddy Rice,82,8.47,29.89,77.26,678.54,1088.81,215.53,3131.76,18.93,12.59,Light Rain,Low
+10,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+"," Hello Watanabe-san,
+
+Your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger.
+
+Here are some simple tips:
+1. Drain any excess water from the soil by gently loosening it with your hands, then pour out excess moisture.
+2. Avoid over-fertilizing, as it can be harsh on the plants and cause them to grow unevenly. Instead, aim for balanced nutrients with low amounts of nitrogen and phosphorus.
+3. Start the fertilization process in early spring when the soil is warm and moist, gradually increasing the amount over time until reaching the ideal nitrogen: 10-20 ppm (pounds per million).
+4. Follow up with a light biuret for better plant growth.
+5. Regularly check your soil's moisture level to ensure that it remains consistently moist without overwatering or drying out too much.
+
+Remember, these are just tips, and it’s important to consult a reliable agricultural extension officer or farming expert for the most accurate advice.",23.892755,264,Paddy Rice,170,4.4,17.99,25.05,1258.19,6.35,1277.93,8936.71,38.15,50.04,Dew,Moderate
+11,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+"," Hello Watanabe-san! Your soil appears healthy and full of life. You can improve yield by applying a balanced organic fertilizer with adequate amounts of nitrogen, phosphorus, and potassium to your paddy-rice plants. This will help them grow strong and produce more rice each week. 
+
+To protect the environment, you may also consider planting some greenery around your farm to reduce soil erosion and promote biodiversity. Your soil moisture is just about right; now, all you need are a few rainy days to see your crobines thrive!",11.931149,133,Paddy Rice,144,1.02,15.36,52.97,1732.17,1596.6,580.78,1888.07,31.55,96.94,Light Rain,Low
+12,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+"," Hello Watanabe-san! Your soil looks healthy and could use a little TLC to boost its nutrient levels. Here are some suggestions:
+
+1. Add a few pounds of organic compost or a balanced fertilizer like 10-10-10. This will provide your plants with the essential nutrients they need to grow strong and healthy.
+2. If your soil is particularly low in nitrogen, you can apply a slow-release fertilizer that can be used every few weeks throughout the growing season. Follow the package's instructions for the appropriate amount and rate of application.
+3. Regularly check your plants' growth and health using a tape measure or a magnify to ensure they are receiving the necessary nutrients. Keep an eye on their soil moisture level, as well, to prevent them from becoming too dry.
+4. When the weather starts getting colder, turn off your sprinkler system for a few days and allow your plants to go dormant. This will help them conserve water while they rest during the winter months.
+5. Finally, remember to keep an eye on your soil's pH level. Lowering it slightly can help your plants absorb more nutrients, making them healthier. You can do this by adding organic fertilizer or liquid fertilizer like 10-10-10.
+I hope these suggestions help you improve your yield and protect the environment!",29.201542,318,Paddy Rice,9,11.83,32.52,45.65,331.11,561.02,1893.14,5185.31,11.4,34.39,No Rain,High
+13,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+"," Hello Watanabe-san! Your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger and develop their optimal potential for maximum production. Here are some guidelines:
+
+1. Start by collecting an equal amount of organic material from your garden or nearby area. This could be grass clippings, leaves, or eggshells. Make sure it's rich in nutrients like nitrogen, potassium, and phosphorus.
+2. Measure out a small quantity of the compost or fertilizer to test its consistency. If it’s dry, you can mix it with some water to soften it slightly. You can also add a few drops of soap if it’s too acidic.
+3. Wet your hands with warm water before measuring out the soil. This will help dissolve any lumps or bumps and create a smooth consistency for your application.
+4. Prepare a 1-quart bowl or jar, pour in your fertilizer/compost mixture, and gently mix it to make sure all the particles are combined evenly. This will help ensure that you’re using the correct amount of nitrogen, potassium, and phosphorus.
+5. Apply the fertilizer by holding the bowl or jar close to your plants' roots while making small, continuous in-row applications. Make sure the fertilizer is evenly distributed throughout each inch of soil, ensuring that all areas are covered with a consistent amount of nitrogen, potassium, and phosphorus.
+6. Repeat steps 3-5 for any additional layers or small amounts of compost you might need to add. Make sure to keep your gardening tools sharp and clean by rinsing them in the rain, as well as by using a damp cloth to wipe down between applications.
+7. Water your plants regularly while they are undergoing fertilization to help maintain optimal soil conditions and ensure healthy growth. This will also help prevent any diseases or pests from affecting your plants. 
+8. Monitor the fertilizer's effectiveness by inspecting your plants and checking for signs of improvement in their growth, such as increased nutrient uptake and overall improved appearance. Be sure to follow proper agricultural practices when applying fertilizers and make sure you dispose of any unused or damaged containers properly.
+9. Finally, maintain a balanced diet for your paddy-rice plants to ensure they have the necessary nutrients and support their growth. This could involve providing them with supplemental vitamins and minerals, like biostimulants or other beneficial products, as needed. 
+I hope these guidelines help you improve the yield and protect the environment of your paddy-rice farm in a sustainable manner. If you have any questions or concerns, please feel free to ask!",61.09225,644,Paddy Rice,181,12.33,28.48,57.59,116.95,1860.0,1039.16,6841.45,25.75,82.63,No Rain,Moderate
+14,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+"," Hello Watanabe-san! Your soil is in good shape, but there's something missing to make it even better. To improve yield and protect the environment, you can add organic compost or a light fertilizer. Here's how:
+
+1. Start by removing any old, weaker plants and thin out your rows with new ones to encourage strong growth.
+2. Carefully spread some organic compost on top of the soil. This will help give your plants a boost of nutrients and improve their root health. It should be slightly moist but not waterlogged.
+3. After spreading the compost, add a light amount of fertilizer to promote better growth and help keep your soil balanced. You can use a small amount of fertilizer on your spade or in a garden bag.
+4. Now comes the exciting part! Weed out any weeds that are invading your rows. This will prevent them from competing for nutrients and water, and also reduce the likelihood of pests and diseases attacking your crops.
+5. After weeding out all the unwanted plants, give your soil a light raking to help distribute the fertilizer evenly throughout the area. This will help ensure that all parts of the garden are receiving the same amount of nutrients.
+6. For added protection against pests and diseases, plant some wild relatives like dandelion or purslane in your rows. These plants have natural predators for insects and diseases, making them a great addition to your garden.
+7. Finally, water your garden thoroughly to ensure that all the roots receive enough moisture. This will help improve their growth and overall health. Remember, patience is key when working in the garden. Good luck!",35.437605,384,Paddy Rice,72,2.4,23.14,35.38,1946.72,793.17,476.75,1086.41,16.85,45.17,Heavy Rain,Moderate

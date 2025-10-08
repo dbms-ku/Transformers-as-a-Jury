@@ -1,0 +1,799 @@
+#,prompt,response,duration_sec,token_count,farm_type,days_since_planting,ph,soil_temperatute,soil_moisture,soil_nitrogen,soil_potassium,soil_phosphorous,soil_ec,ambient_temperature,atmospheric_humidity,rainfall_state,sunshine_intensity
+1,"You are an experienced agricultural extension officer specializing in paddy-rice farming.
+
+Scenario 1:
+Farm type: Paddy-rice farming
+Days since planting: 20
+Soil pH: 5.8
+Soil temperature: 14°C
+Soil moisture: 78
+Soil nitrogen: 30
+Soil potassium: 65
+Soil phosphorus: 40
+Soil electrical conductivity: 1.05
+Atmospheric temperature: 18°C
+Atmospheric humidity: 60
+Atmospheric rainfall state: Light rain
+Atmospheric sunshine intensity: Moderate
+Response:
+Hello Watanabe-san,
+Your paddy field is doing well! At 20 days since planting, strong roots and leaves are developing. Keep your soil pH around 5.8—below 5.5 may cause iron toxicity. Soil nitrogen (30) is good; avoid adding more to protect water quality. Soil moisture (78) is excellent; light rain helps, but prevent over-flooding. The temperature (18°C) is slightly low, so maintain water depth to stabilize soil warmth. Your plants look on track for healthy growth.
+
+Scenario 2:
+Farm type: Paddy-rice farming
+Days since planting: 120
+Soil pH: 5.6
+Soil temperature: 17°C
+Soil moisture: 65
+Soil nitrogen: 12
+Soil potassium: 58
+Soil phosphorus: 35
+Soil electrical conductivity: 0.95
+Atmospheric temperature: 22°C
+Atmospheric humidity: 45
+Atmospheric rainfall state: No rain
+Atmospheric sunshine intensity: Moderate to high
+Response:
+Hello Watanabe-san,
+You are near harvest time! With soil moisture at 65%, begin draining the field gradually to dry the grains. Stop irrigation two weeks before harvest. Nitrogen is low (12), which is normal—don’t add more. Potassium and phosphorus are stable, supporting grain filling. With 22°C and good sunlight, ripening should go smoothly. If storms are forecast, harvest early. Dry grains to 14% for storage—great work so far!
+
+New data:
+Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+
+Now, based on the pattern above, use the following new data.
+Write a conversational instructional script (max 200 words) for an agricultural extension officer teaching best practices for good yield and environmental safety. Avoid using special characters that may disrupt speech synthesis. Demonstrate clear understanding of paddy-rice farming and start with ""Hello Watanabe-san,"".",Timeout occurred,1.001433,N/A,Paddy Rice,148,7.47,10.28,67.12,274.04,1268.42,1547.87,6423.61,27.59,88.72,Dew,High
+2,"You are an experienced agricultural extension officer specializing in paddy-rice farming.
+
+Scenario 1:
+Farm type: Paddy-rice farming
+Days since planting: 20
+Soil pH: 5.8
+Soil temperature: 14°C
+Soil moisture: 78
+Soil nitrogen: 30
+Soil potassium: 65
+Soil phosphorus: 40
+Soil electrical conductivity: 1.05
+Atmospheric temperature: 18°C
+Atmospheric humidity: 60
+Atmospheric rainfall state: Light rain
+Atmospheric sunshine intensity: Moderate
+Response:
+Hello Watanabe-san,
+Your paddy field is doing well! At 20 days since planting, strong roots and leaves are developing. Keep your soil pH around 5.8—below 5.5 may cause iron toxicity. Soil nitrogen (30) is good; avoid adding more to protect water quality. Soil moisture (78) is excellent; light rain helps, but prevent over-flooding. The temperature (18°C) is slightly low, so maintain water depth to stabilize soil warmth. Your plants look on track for healthy growth.
+
+Scenario 2:
+Farm type: Paddy-rice farming
+Days since planting: 120
+Soil pH: 5.6
+Soil temperature: 17°C
+Soil moisture: 65
+Soil nitrogen: 12
+Soil potassium: 58
+Soil phosphorus: 35
+Soil electrical conductivity: 0.95
+Atmospheric temperature: 22°C
+Atmospheric humidity: 45
+Atmospheric rainfall state: No rain
+Atmospheric sunshine intensity: Moderate to high
+Response:
+Hello Watanabe-san,
+You are near harvest time! With soil moisture at 65%, begin draining the field gradually to dry the grains. Stop irrigation two weeks before harvest. Nitrogen is low (12), which is normal—don’t add more. Potassium and phosphorus are stable, supporting grain filling. With 22°C and good sunlight, ripening should go smoothly. If storms are forecast, harvest early. Dry grains to 14% for storage—great work so far!
+
+New data:
+Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+
+Now, based on the pattern above, use the following new data.
+Write a conversational instructional script (max 200 words) for an agricultural extension officer teaching best practices for good yield and environmental safety. Avoid using special characters that may disrupt speech synthesis. Demonstrate clear understanding of paddy-rice farming and start with ""Hello Watanabe-san,"".",An unexpected error occurred: unexpected server status: llm server loading model (status code: 500),0.071311,N/A,Paddy Rice,11,3.61,38.12,29.56,1662.28,326.47,985.53,648.51,14.93,26.26,Light Rain,High
+3,"You are an experienced agricultural extension officer specializing in paddy-rice farming.
+
+Scenario 1:
+Farm type: Paddy-rice farming
+Days since planting: 20
+Soil pH: 5.8
+Soil temperature: 14°C
+Soil moisture: 78
+Soil nitrogen: 30
+Soil potassium: 65
+Soil phosphorus: 40
+Soil electrical conductivity: 1.05
+Atmospheric temperature: 18°C
+Atmospheric humidity: 60
+Atmospheric rainfall state: Light rain
+Atmospheric sunshine intensity: Moderate
+Response:
+Hello Watanabe-san,
+Your paddy field is doing well! At 20 days since planting, strong roots and leaves are developing. Keep your soil pH around 5.8—below 5.5 may cause iron toxicity. Soil nitrogen (30) is good; avoid adding more to protect water quality. Soil moisture (78) is excellent; light rain helps, but prevent over-flooding. The temperature (18°C) is slightly low, so maintain water depth to stabilize soil warmth. Your plants look on track for healthy growth.
+
+Scenario 2:
+Farm type: Paddy-rice farming
+Days since planting: 120
+Soil pH: 5.6
+Soil temperature: 17°C
+Soil moisture: 65
+Soil nitrogen: 12
+Soil potassium: 58
+Soil phosphorus: 35
+Soil electrical conductivity: 0.95
+Atmospheric temperature: 22°C
+Atmospheric humidity: 45
+Atmospheric rainfall state: No rain
+Atmospheric sunshine intensity: Moderate to high
+Response:
+Hello Watanabe-san,
+You are near harvest time! With soil moisture at 65%, begin draining the field gradually to dry the grains. Stop irrigation two weeks before harvest. Nitrogen is low (12), which is normal—don’t add more. Potassium and phosphorus are stable, supporting grain filling. With 22°C and good sunlight, ripening should go smoothly. If storms are forecast, harvest early. Dry grains to 14% for storage—great work so far!
+
+New data:
+Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+
+Now, based on the pattern above, use the following new data.
+Write a conversational instructional script (max 200 words) for an agricultural extension officer teaching best practices for good yield and environmental safety. Avoid using special characters that may disrupt speech synthesis. Demonstrate clear understanding of paddy-rice farming and start with ""Hello Watanabe-san,"".",Timeout occurred,1.001692,N/A,Paddy Rice,85,0.04,25.75,61.71,1316.35,1791.84,1186.58,7657.5,22.87,23.06,Dew,High
+4,"You are an experienced agricultural extension officer specializing in paddy-rice farming.
+
+Scenario 1:
+Farm type: Paddy-rice farming
+Days since planting: 20
+Soil pH: 5.8
+Soil temperature: 14°C
+Soil moisture: 78
+Soil nitrogen: 30
+Soil potassium: 65
+Soil phosphorus: 40
+Soil electrical conductivity: 1.05
+Atmospheric temperature: 18°C
+Atmospheric humidity: 60
+Atmospheric rainfall state: Light rain
+Atmospheric sunshine intensity: Moderate
+Response:
+Hello Watanabe-san,
+Your paddy field is doing well! At 20 days since planting, strong roots and leaves are developing. Keep your soil pH around 5.8—below 5.5 may cause iron toxicity. Soil nitrogen (30) is good; avoid adding more to protect water quality. Soil moisture (78) is excellent; light rain helps, but prevent over-flooding. The temperature (18°C) is slightly low, so maintain water depth to stabilize soil warmth. Your plants look on track for healthy growth.
+
+Scenario 2:
+Farm type: Paddy-rice farming
+Days since planting: 120
+Soil pH: 5.6
+Soil temperature: 17°C
+Soil moisture: 65
+Soil nitrogen: 12
+Soil potassium: 58
+Soil phosphorus: 35
+Soil electrical conductivity: 0.95
+Atmospheric temperature: 22°C
+Atmospheric humidity: 45
+Atmospheric rainfall state: No rain
+Atmospheric sunshine intensity: Moderate to high
+Response:
+Hello Watanabe-san,
+You are near harvest time! With soil moisture at 65%, begin draining the field gradually to dry the grains. Stop irrigation two weeks before harvest. Nitrogen is low (12), which is normal—don’t add more. Potassium and phosphorus are stable, supporting grain filling. With 22°C and good sunlight, ripening should go smoothly. If storms are forecast, harvest early. Dry grains to 14% for storage—great work so far!
+
+New data:
+Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+
+Now, based on the pattern above, use the following new data.
+Write a conversational instructional script (max 200 words) for an agricultural extension officer teaching best practices for good yield and environmental safety. Avoid using special characters that may disrupt speech synthesis. Demonstrate clear understanding of paddy-rice farming and start with ""Hello Watanabe-san,"".",An unexpected error occurred: unexpected server status: llm server loading model (status code: 500),0.084829,N/A,Paddy Rice,174,11.07,22.66,38.79,747.32,865.51,374.17,4409.79,34.59,60.62,Light Rain,Low
+5,"You are an experienced agricultural extension officer specializing in paddy-rice farming.
+
+Scenario 1:
+Farm type: Paddy-rice farming
+Days since planting: 20
+Soil pH: 5.8
+Soil temperature: 14°C
+Soil moisture: 78
+Soil nitrogen: 30
+Soil potassium: 65
+Soil phosphorus: 40
+Soil electrical conductivity: 1.05
+Atmospheric temperature: 18°C
+Atmospheric humidity: 60
+Atmospheric rainfall state: Light rain
+Atmospheric sunshine intensity: Moderate
+Response:
+Hello Watanabe-san,
+Your paddy field is doing well! At 20 days since planting, strong roots and leaves are developing. Keep your soil pH around 5.8—below 5.5 may cause iron toxicity. Soil nitrogen (30) is good; avoid adding more to protect water quality. Soil moisture (78) is excellent; light rain helps, but prevent over-flooding. The temperature (18°C) is slightly low, so maintain water depth to stabilize soil warmth. Your plants look on track for healthy growth.
+
+Scenario 2:
+Farm type: Paddy-rice farming
+Days since planting: 120
+Soil pH: 5.6
+Soil temperature: 17°C
+Soil moisture: 65
+Soil nitrogen: 12
+Soil potassium: 58
+Soil phosphorus: 35
+Soil electrical conductivity: 0.95
+Atmospheric temperature: 22°C
+Atmospheric humidity: 45
+Atmospheric rainfall state: No rain
+Atmospheric sunshine intensity: Moderate to high
+Response:
+Hello Watanabe-san,
+You are near harvest time! With soil moisture at 65%, begin draining the field gradually to dry the grains. Stop irrigation two weeks before harvest. Nitrogen is low (12), which is normal—don’t add more. Potassium and phosphorus are stable, supporting grain filling. With 22°C and good sunlight, ripening should go smoothly. If storms are forecast, harvest early. Dry grains to 14% for storage—great work so far!
+
+New data:
+Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+
+Now, based on the pattern above, use the following new data.
+Write a conversational instructional script (max 200 words) for an agricultural extension officer teaching best practices for good yield and environmental safety. Avoid using special characters that may disrupt speech synthesis. Demonstrate clear understanding of paddy-rice farming and start with ""Hello Watanabe-san,"".",Timeout occurred,1.001669,N/A,Paddy Rice,57,2.06,18.54,71.52,529.18,1220.39,1104.09,272.63,26.28,99.61,No Rain,Low
+6,"You are an experienced agricultural extension officer specializing in paddy-rice farming.
+
+Scenario 1:
+Farm type: Paddy-rice farming
+Days since planting: 20
+Soil pH: 5.8
+Soil temperature: 14°C
+Soil moisture: 78
+Soil nitrogen: 30
+Soil potassium: 65
+Soil phosphorus: 40
+Soil electrical conductivity: 1.05
+Atmospheric temperature: 18°C
+Atmospheric humidity: 60
+Atmospheric rainfall state: Light rain
+Atmospheric sunshine intensity: Moderate
+Response:
+Hello Watanabe-san,
+Your paddy field is doing well! At 20 days since planting, strong roots and leaves are developing. Keep your soil pH around 5.8—below 5.5 may cause iron toxicity. Soil nitrogen (30) is good; avoid adding more to protect water quality. Soil moisture (78) is excellent; light rain helps, but prevent over-flooding. The temperature (18°C) is slightly low, so maintain water depth to stabilize soil warmth. Your plants look on track for healthy growth.
+
+Scenario 2:
+Farm type: Paddy-rice farming
+Days since planting: 120
+Soil pH: 5.6
+Soil temperature: 17°C
+Soil moisture: 65
+Soil nitrogen: 12
+Soil potassium: 58
+Soil phosphorus: 35
+Soil electrical conductivity: 0.95
+Atmospheric temperature: 22°C
+Atmospheric humidity: 45
+Atmospheric rainfall state: No rain
+Atmospheric sunshine intensity: Moderate to high
+Response:
+Hello Watanabe-san,
+You are near harvest time! With soil moisture at 65%, begin draining the field gradually to dry the grains. Stop irrigation two weeks before harvest. Nitrogen is low (12), which is normal—don’t add more. Potassium and phosphorus are stable, supporting grain filling. With 22°C and good sunlight, ripening should go smoothly. If storms are forecast, harvest early. Dry grains to 14% for storage—great work so far!
+
+New data:
+Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+
+Now, based on the pattern above, use the following new data.
+Write a conversational instructional script (max 200 words) for an agricultural extension officer teaching best practices for good yield and environmental safety. Avoid using special characters that may disrupt speech synthesis. Demonstrate clear understanding of paddy-rice farming and start with ""Hello Watanabe-san,"".",An unexpected error occurred: unexpected server status: llm server loading model (status code: 500),0.067539,N/A,Paddy Rice,196,13.08,29.37,33.6,1409.49,184.8,416.73,6955.79,16.44,37.05,No Rain,Low
+7,"You are an experienced agricultural extension officer specializing in paddy-rice farming.
+
+Scenario 1:
+Farm type: Paddy-rice farming
+Days since planting: 20
+Soil pH: 5.8
+Soil temperature: 14°C
+Soil moisture: 78
+Soil nitrogen: 30
+Soil potassium: 65
+Soil phosphorus: 40
+Soil electrical conductivity: 1.05
+Atmospheric temperature: 18°C
+Atmospheric humidity: 60
+Atmospheric rainfall state: Light rain
+Atmospheric sunshine intensity: Moderate
+Response:
+Hello Watanabe-san,
+Your paddy field is doing well! At 20 days since planting, strong roots and leaves are developing. Keep your soil pH around 5.8—below 5.5 may cause iron toxicity. Soil nitrogen (30) is good; avoid adding more to protect water quality. Soil moisture (78) is excellent; light rain helps, but prevent over-flooding. The temperature (18°C) is slightly low, so maintain water depth to stabilize soil warmth. Your plants look on track for healthy growth.
+
+Scenario 2:
+Farm type: Paddy-rice farming
+Days since planting: 120
+Soil pH: 5.6
+Soil temperature: 17°C
+Soil moisture: 65
+Soil nitrogen: 12
+Soil potassium: 58
+Soil phosphorus: 35
+Soil electrical conductivity: 0.95
+Atmospheric temperature: 22°C
+Atmospheric humidity: 45
+Atmospheric rainfall state: No rain
+Atmospheric sunshine intensity: Moderate to high
+Response:
+Hello Watanabe-san,
+You are near harvest time! With soil moisture at 65%, begin draining the field gradually to dry the grains. Stop irrigation two weeks before harvest. Nitrogen is low (12), which is normal—don’t add more. Potassium and phosphorus are stable, supporting grain filling. With 22°C and good sunlight, ripening should go smoothly. If storms are forecast, harvest early. Dry grains to 14% for storage—great work so far!
+
+New data:
+Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+
+Now, based on the pattern above, use the following new data.
+Write a conversational instructional script (max 200 words) for an agricultural extension officer teaching best practices for good yield and environmental safety. Avoid using special characters that may disrupt speech synthesis. Demonstrate clear understanding of paddy-rice farming and start with ""Hello Watanabe-san,"".",Timeout occurred,1.001616,N/A,Paddy Rice,120,9.51,34.0,58.25,1568.89,1712.56,1723.25,4004.41,23.26,15.2,Heavy Rain,High
+8,"You are an experienced agricultural extension officer specializing in paddy-rice farming.
+
+Scenario 1:
+Farm type: Paddy-rice farming
+Days since planting: 20
+Soil pH: 5.8
+Soil temperature: 14°C
+Soil moisture: 78
+Soil nitrogen: 30
+Soil potassium: 65
+Soil phosphorus: 40
+Soil electrical conductivity: 1.05
+Atmospheric temperature: 18°C
+Atmospheric humidity: 60
+Atmospheric rainfall state: Light rain
+Atmospheric sunshine intensity: Moderate
+Response:
+Hello Watanabe-san,
+Your paddy field is doing well! At 20 days since planting, strong roots and leaves are developing. Keep your soil pH around 5.8—below 5.5 may cause iron toxicity. Soil nitrogen (30) is good; avoid adding more to protect water quality. Soil moisture (78) is excellent; light rain helps, but prevent over-flooding. The temperature (18°C) is slightly low, so maintain water depth to stabilize soil warmth. Your plants look on track for healthy growth.
+
+Scenario 2:
+Farm type: Paddy-rice farming
+Days since planting: 120
+Soil pH: 5.6
+Soil temperature: 17°C
+Soil moisture: 65
+Soil nitrogen: 12
+Soil potassium: 58
+Soil phosphorus: 35
+Soil electrical conductivity: 0.95
+Atmospheric temperature: 22°C
+Atmospheric humidity: 45
+Atmospheric rainfall state: No rain
+Atmospheric sunshine intensity: Moderate to high
+Response:
+Hello Watanabe-san,
+You are near harvest time! With soil moisture at 65%, begin draining the field gradually to dry the grains. Stop irrigation two weeks before harvest. Nitrogen is low (12), which is normal—don’t add more. Potassium and phosphorus are stable, supporting grain filling. With 22°C and good sunlight, ripening should go smoothly. If storms are forecast, harvest early. Dry grains to 14% for storage—great work so far!
+
+New data:
+Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+
+Now, based on the pattern above, use the following new data.
+Write a conversational instructional script (max 200 words) for an agricultural extension officer teaching best practices for good yield and environmental safety. Avoid using special characters that may disrupt speech synthesis. Demonstrate clear understanding of paddy-rice farming and start with ""Hello Watanabe-san,"".",An unexpected error occurred: unexpected server status: llm server loading model (status code: 500),0.084528,N/A,Paddy Rice,34,5.65,13.9,35.69,492.42,630.1,785.86,8219.08,34.05,52.66,No Rain,High
+9,"You are an experienced agricultural extension officer specializing in paddy-rice farming.
+
+Scenario 1:
+Farm type: Paddy-rice farming
+Days since planting: 20
+Soil pH: 5.8
+Soil temperature: 14°C
+Soil moisture: 78
+Soil nitrogen: 30
+Soil potassium: 65
+Soil phosphorus: 40
+Soil electrical conductivity: 1.05
+Atmospheric temperature: 18°C
+Atmospheric humidity: 60
+Atmospheric rainfall state: Light rain
+Atmospheric sunshine intensity: Moderate
+Response:
+Hello Watanabe-san,
+Your paddy field is doing well! At 20 days since planting, strong roots and leaves are developing. Keep your soil pH around 5.8—below 5.5 may cause iron toxicity. Soil nitrogen (30) is good; avoid adding more to protect water quality. Soil moisture (78) is excellent; light rain helps, but prevent over-flooding. The temperature (18°C) is slightly low, so maintain water depth to stabilize soil warmth. Your plants look on track for healthy growth.
+
+Scenario 2:
+Farm type: Paddy-rice farming
+Days since planting: 120
+Soil pH: 5.6
+Soil temperature: 17°C
+Soil moisture: 65
+Soil nitrogen: 12
+Soil potassium: 58
+Soil phosphorus: 35
+Soil electrical conductivity: 0.95
+Atmospheric temperature: 22°C
+Atmospheric humidity: 45
+Atmospheric rainfall state: No rain
+Atmospheric sunshine intensity: Moderate to high
+Response:
+Hello Watanabe-san,
+You are near harvest time! With soil moisture at 65%, begin draining the field gradually to dry the grains. Stop irrigation two weeks before harvest. Nitrogen is low (12), which is normal—don’t add more. Potassium and phosphorus are stable, supporting grain filling. With 22°C and good sunlight, ripening should go smoothly. If storms are forecast, harvest early. Dry grains to 14% for storage—great work so far!
+
+New data:
+Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+
+Now, based on the pattern above, use the following new data.
+Write a conversational instructional script (max 200 words) for an agricultural extension officer teaching best practices for good yield and environmental safety. Avoid using special characters that may disrupt speech synthesis. Demonstrate clear understanding of paddy-rice farming and start with ""Hello Watanabe-san,"".",Timeout occurred,1.002616,N/A,Paddy Rice,157,5.15,24.63,53.75,215.76,1949.1,154.54,9763.61,17.57,5.19,No Rain,Low
+10,"You are an experienced agricultural extension officer specializing in paddy-rice farming.
+
+Scenario 1:
+Farm type: Paddy-rice farming
+Days since planting: 20
+Soil pH: 5.8
+Soil temperature: 14°C
+Soil moisture: 78
+Soil nitrogen: 30
+Soil potassium: 65
+Soil phosphorus: 40
+Soil electrical conductivity: 1.05
+Atmospheric temperature: 18°C
+Atmospheric humidity: 60
+Atmospheric rainfall state: Light rain
+Atmospheric sunshine intensity: Moderate
+Response:
+Hello Watanabe-san,
+Your paddy field is doing well! At 20 days since planting, strong roots and leaves are developing. Keep your soil pH around 5.8—below 5.5 may cause iron toxicity. Soil nitrogen (30) is good; avoid adding more to protect water quality. Soil moisture (78) is excellent; light rain helps, but prevent over-flooding. The temperature (18°C) is slightly low, so maintain water depth to stabilize soil warmth. Your plants look on track for healthy growth.
+
+Scenario 2:
+Farm type: Paddy-rice farming
+Days since planting: 120
+Soil pH: 5.6
+Soil temperature: 17°C
+Soil moisture: 65
+Soil nitrogen: 12
+Soil potassium: 58
+Soil phosphorus: 35
+Soil electrical conductivity: 0.95
+Atmospheric temperature: 22°C
+Atmospheric humidity: 45
+Atmospheric rainfall state: No rain
+Atmospheric sunshine intensity: Moderate to high
+Response:
+Hello Watanabe-san,
+You are near harvest time! With soil moisture at 65%, begin draining the field gradually to dry the grains. Stop irrigation two weeks before harvest. Nitrogen is low (12), which is normal—don’t add more. Potassium and phosphorus are stable, supporting grain filling. With 22°C and good sunlight, ripening should go smoothly. If storms are forecast, harvest early. Dry grains to 14% for storage—great work so far!
+
+New data:
+Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+
+Now, based on the pattern above, use the following new data.
+Write a conversational instructional script (max 200 words) for an agricultural extension officer teaching best practices for good yield and environmental safety. Avoid using special characters that may disrupt speech synthesis. Demonstrate clear understanding of paddy-rice farming and start with ""Hello Watanabe-san,"".",An unexpected error occurred: unexpected server status: llm server loading model (status code: 500),0.060358,N/A,Paddy Rice,95,8.13,27.02,45.84,1845.95,897.89,1341.88,3011.64,39.62,67.73,Light Rain,Low
+11,"You are an experienced agricultural extension officer specializing in paddy-rice farming.
+
+Scenario 1:
+Farm type: Paddy-rice farming
+Days since planting: 20
+Soil pH: 5.8
+Soil temperature: 14°C
+Soil moisture: 78
+Soil nitrogen: 30
+Soil potassium: 65
+Soil phosphorus: 40
+Soil electrical conductivity: 1.05
+Atmospheric temperature: 18°C
+Atmospheric humidity: 60
+Atmospheric rainfall state: Light rain
+Atmospheric sunshine intensity: Moderate
+Response:
+Hello Watanabe-san,
+Your paddy field is doing well! At 20 days since planting, strong roots and leaves are developing. Keep your soil pH around 5.8—below 5.5 may cause iron toxicity. Soil nitrogen (30) is good; avoid adding more to protect water quality. Soil moisture (78) is excellent; light rain helps, but prevent over-flooding. The temperature (18°C) is slightly low, so maintain water depth to stabilize soil warmth. Your plants look on track for healthy growth.
+
+Scenario 2:
+Farm type: Paddy-rice farming
+Days since planting: 120
+Soil pH: 5.6
+Soil temperature: 17°C
+Soil moisture: 65
+Soil nitrogen: 12
+Soil potassium: 58
+Soil phosphorus: 35
+Soil electrical conductivity: 0.95
+Atmospheric temperature: 22°C
+Atmospheric humidity: 45
+Atmospheric rainfall state: No rain
+Atmospheric sunshine intensity: Moderate to high
+Response:
+Hello Watanabe-san,
+You are near harvest time! With soil moisture at 65%, begin draining the field gradually to dry the grains. Stop irrigation two weeks before harvest. Nitrogen is low (12), which is normal—don’t add more. Potassium and phosphorus are stable, supporting grain filling. With 22°C and good sunlight, ripening should go smoothly. If storms are forecast, harvest early. Dry grains to 14% for storage—great work so far!
+
+New data:
+Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+
+Now, based on the pattern above, use the following new data.
+Write a conversational instructional script (max 200 words) for an agricultural extension officer teaching best practices for good yield and environmental safety. Avoid using special characters that may disrupt speech synthesis. Demonstrate clear understanding of paddy-rice farming and start with ""Hello Watanabe-san,"".",Timeout occurred,1.002367,N/A,Paddy Rice,19,11.73,39.16,77.89,1132.43,1488.18,515.83,5997.8,31.96,83.33,No Rain,Moderate
+12,"You are an experienced agricultural extension officer specializing in paddy-rice farming.
+
+Scenario 1:
+Farm type: Paddy-rice farming
+Days since planting: 20
+Soil pH: 5.8
+Soil temperature: 14°C
+Soil moisture: 78
+Soil nitrogen: 30
+Soil potassium: 65
+Soil phosphorus: 40
+Soil electrical conductivity: 1.05
+Atmospheric temperature: 18°C
+Atmospheric humidity: 60
+Atmospheric rainfall state: Light rain
+Atmospheric sunshine intensity: Moderate
+Response:
+Hello Watanabe-san,
+Your paddy field is doing well! At 20 days since planting, strong roots and leaves are developing. Keep your soil pH around 5.8—below 5.5 may cause iron toxicity. Soil nitrogen (30) is good; avoid adding more to protect water quality. Soil moisture (78) is excellent; light rain helps, but prevent over-flooding. The temperature (18°C) is slightly low, so maintain water depth to stabilize soil warmth. Your plants look on track for healthy growth.
+
+Scenario 2:
+Farm type: Paddy-rice farming
+Days since planting: 120
+Soil pH: 5.6
+Soil temperature: 17°C
+Soil moisture: 65
+Soil nitrogen: 12
+Soil potassium: 58
+Soil phosphorus: 35
+Soil electrical conductivity: 0.95
+Atmospheric temperature: 22°C
+Atmospheric humidity: 45
+Atmospheric rainfall state: No rain
+Atmospheric sunshine intensity: Moderate to high
+Response:
+Hello Watanabe-san,
+You are near harvest time! With soil moisture at 65%, begin draining the field gradually to dry the grains. Stop irrigation two weeks before harvest. Nitrogen is low (12), which is normal—don’t add more. Potassium and phosphorus are stable, supporting grain filling. With 22°C and good sunlight, ripening should go smoothly. If storms are forecast, harvest early. Dry grains to 14% for storage—great work so far!
+
+New data:
+Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+
+Now, based on the pattern above, use the following new data.
+Write a conversational instructional script (max 200 words) for an agricultural extension officer teaching best practices for good yield and environmental safety. Avoid using special characters that may disrupt speech synthesis. Demonstrate clear understanding of paddy-rice farming and start with ""Hello Watanabe-san,"".",An unexpected error occurred: unexpected server status: llm server loading model (status code: 500),0.083942,N/A,Paddy Rice,134,1.58,12.5,25.33,805.83,421.35,1953.24,1772.61,10.88,45.88,No Rain,Low
+13,"You are an experienced agricultural extension officer specializing in paddy-rice farming.
+
+Scenario 1:
+Farm type: Paddy-rice farming
+Days since planting: 20
+Soil pH: 5.8
+Soil temperature: 14°C
+Soil moisture: 78
+Soil nitrogen: 30
+Soil potassium: 65
+Soil phosphorus: 40
+Soil electrical conductivity: 1.05
+Atmospheric temperature: 18°C
+Atmospheric humidity: 60
+Atmospheric rainfall state: Light rain
+Atmospheric sunshine intensity: Moderate
+Response:
+Hello Watanabe-san,
+Your paddy field is doing well! At 20 days since planting, strong roots and leaves are developing. Keep your soil pH around 5.8—below 5.5 may cause iron toxicity. Soil nitrogen (30) is good; avoid adding more to protect water quality. Soil moisture (78) is excellent; light rain helps, but prevent over-flooding. The temperature (18°C) is slightly low, so maintain water depth to stabilize soil warmth. Your plants look on track for healthy growth.
+
+Scenario 2:
+Farm type: Paddy-rice farming
+Days since planting: 120
+Soil pH: 5.6
+Soil temperature: 17°C
+Soil moisture: 65
+Soil nitrogen: 12
+Soil potassium: 58
+Soil phosphorus: 35
+Soil electrical conductivity: 0.95
+Atmospheric temperature: 22°C
+Atmospheric humidity: 45
+Atmospheric rainfall state: No rain
+Atmospheric sunshine intensity: Moderate to high
+Response:
+Hello Watanabe-san,
+You are near harvest time! With soil moisture at 65%, begin draining the field gradually to dry the grains. Stop irrigation two weeks before harvest. Nitrogen is low (12), which is normal—don’t add more. Potassium and phosphorus are stable, supporting grain filling. With 22°C and good sunlight, ripening should go smoothly. If storms are forecast, harvest early. Dry grains to 14% for storage—great work so far!
+
+New data:
+Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+
+Now, based on the pattern above, use the following new data.
+Write a conversational instructional script (max 200 words) for an agricultural extension officer teaching best practices for good yield and environmental safety. Avoid using special characters that may disrupt speech synthesis. Demonstrate clear understanding of paddy-rice farming and start with ""Hello Watanabe-san,"".",Timeout occurred,1.001704,N/A,Paddy Rice,7,7.22,14.43,72.69,779.51,1879.36,1497.76,4682.35,15.72,70.86,No Rain,High
+14,"You are an experienced agricultural extension officer specializing in paddy-rice farming.
+
+Scenario 1:
+Farm type: Paddy-rice farming
+Days since planting: 20
+Soil pH: 5.8
+Soil temperature: 14°C
+Soil moisture: 78
+Soil nitrogen: 30
+Soil potassium: 65
+Soil phosphorus: 40
+Soil electrical conductivity: 1.05
+Atmospheric temperature: 18°C
+Atmospheric humidity: 60
+Atmospheric rainfall state: Light rain
+Atmospheric sunshine intensity: Moderate
+Response:
+Hello Watanabe-san,
+Your paddy field is doing well! At 20 days since planting, strong roots and leaves are developing. Keep your soil pH around 5.8—below 5.5 may cause iron toxicity. Soil nitrogen (30) is good; avoid adding more to protect water quality. Soil moisture (78) is excellent; light rain helps, but prevent over-flooding. The temperature (18°C) is slightly low, so maintain water depth to stabilize soil warmth. Your plants look on track for healthy growth.
+
+Scenario 2:
+Farm type: Paddy-rice farming
+Days since planting: 120
+Soil pH: 5.6
+Soil temperature: 17°C
+Soil moisture: 65
+Soil nitrogen: 12
+Soil potassium: 58
+Soil phosphorus: 35
+Soil electrical conductivity: 0.95
+Atmospheric temperature: 22°C
+Atmospheric humidity: 45
+Atmospheric rainfall state: No rain
+Atmospheric sunshine intensity: Moderate to high
+Response:
+Hello Watanabe-san,
+You are near harvest time! With soil moisture at 65%, begin draining the field gradually to dry the grains. Stop irrigation two weeks before harvest. Nitrogen is low (12), which is normal—don’t add more. Potassium and phosphorus are stable, supporting grain filling. With 22°C and good sunlight, ripening should go smoothly. If storms are forecast, harvest early. Dry grains to 14% for storage—great work so far!
+
+New data:
+Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+
+Now, based on the pattern above, use the following new data.
+Write a conversational instructional script (max 200 words) for an agricultural extension officer teaching best practices for good yield and environmental safety. Avoid using special characters that may disrupt speech synthesis. Demonstrate clear understanding of paddy-rice farming and start with ""Hello Watanabe-san,"".",An unexpected error occurred: unexpected server status: llm server loading model (status code: 500),0.087405,N/A,Paddy Rice,146,4.3,33.48,20.25,1156.77,961.82,60.18,7625.42,26.5,8.32,Heavy Rain,Low

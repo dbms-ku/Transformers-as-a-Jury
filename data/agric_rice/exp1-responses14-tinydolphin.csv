@@ -1,0 +1,3171 @@
+#,prompt,response,duration_sec,token_count,farm_type,days_since_planting,ph,soil_temperatute,soil_moisture,soil_nitrogen,soil_potassium,soil_phosphorous,soil_ec,ambient_temperature,atmospheric_humidity,rainfall_state,sunshine_intensity
+1,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+","Hello Watanabe-san! Your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger. To increase your soil's potassium and phosphorus content, you could also consider incorporating some peat moss or vermiculite into your soil as well. Additionally, it would be helpful if you could keep an eye on how much rain you are getting to ensure a balanced water supply for your crops. If you have any questions about improving your paddy-rice yield, please don't hesitate to ask! We're always here to help.",35.317346,140,Paddy Rice,23,4.17,35.2,61.87,862.06,1628.74,1612.83,534.57,28.12,80.62,Light Rain,Moderate
+2,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+"," Hello Watanabe-san! Your soil seems to be lacking in essential nutrients. In order to improve your yield and protect the environment, I would recommend adding some compost or a light fertilizer this week. Here's how you can go about it:
+
+1) First, gather your chosen compost ingredients - such as grass clippings, egg shells, etc. - and mix them together in a large bowl to create a well-balanced mixture. This will provide your soil with the necessary nutrients that your plants need to grow strong and healthy.
+
+2) Next, spread this compost mixture evenly across your garden area, ensuring that it covers the entire area. If your soil is particularly dry or hard to access, you can use a backhoe or other digging tool to create a hollow in the ground to help water infiltrate your soil.
+
+3) Once your compost has been placed on your garden, wait for it to absorb all of its nutrients before moving on to step 4. During this time, I recommend periodically watering your plant roots with a sprayer or hose to ensure that they stay well-hydrated and healthy.
+
+4) After your compost has been thoroughly absorbed into the soil, you can start applying a light fertilizer like fertilizer granules or liquid fertilizers, such as fish emulsion. This will help your plants grow stronger and more vibrant by providing them with the essential nutrients they need to thrive.
+
+5) If you find that your plants are not reaping the full benefits of their fertilizer application, you can always try a combination of both compost and fertilizer for optimal results. Additionally, it's a good idea to periodically inspect your soil and make adjustments as needed based on your plant's growth conditions.
+
+Remember, consistency is key when it comes to improving the nutrient content of your soil. Stick with your compost-based fertilizer every time you change the soil or if you experience any significant changes in temperature, humidity, or moisture levels. In the end, implementing a well-balanced and diverse gardening routine will ensure that your plants grow healthily and strong, while also helping to protect our precious environment from further damage.",44.076569,507,Paddy Rice,136,7.37,16.86,39.54,1199.28,718.03,925.43,7237.03,14.51,43.07,Dew,Moderate
+3,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+"," Hello Watanabe-san,
+
+Your soil appears to be in good shape but could use some extra attention. This week, I'd like you to add a bit of compost or a light fertilizer to your paddy-rice plants. Here are the guidelines:
+
+1. To begin with, check if your soil has any pests or diseases that may be affecting growth. If so, treat them with appropriate pest control measures.
+2. For compost, you can make a small pile of old newspapers, coffee grounds, or other organic material and let it sit on the ground for at least two days to allow decomposers to break it down.
+3. Once it's ready, mix it with soil from another area to create a more balanced soil composition, ensuring that it contains enough nitrogen for strong plant growth.
+4. To improve your plants' root health and make them stronger, apply a fertilizer called peat moss, which is rich in organic matter. This will provide essential nutrients and energy to the plants.
+5. After mixing the fertilizer with the soil, water it well, making sure the surface of the soil remains moist but not soggy.
+6. Now that your soil is ready for growth, it's time to plant your paddy-rice crops. Growing these fruits and vegetables requires specific nutrient levels, so make sure you choose plants with a balanced mix of nutrients. Some common paddy- rice variety options are 'Imasu', 'Ryukyu' or 'Kaiseki'.
+7. For sunlight, plant your paddy-rice crops in the shade of a house, a tree, or a tall bush to maximize productivity.
+8. If there's any excess water left over after fertilizing, you can let it evaporate gradually to prevent the plants from overwatering.
+9. To promote strong and healthy plants, keep your soil moist but not soggy. Water them regularly by gently squeezing the soil with hands, avoiding soaking it entirely.
+10. For proper care of your plants, inspect them regularly for pests or diseases. Clean up any fallen leaves or debris promptly to prevent infestations.
+
+Remember, these guidelines are just recommendations; farmers need to adapt their practices according to local conditions and market demand. As always, if you have any questions or concerns, feel free to ask.
+
+Best regards,
+
+[Your Name]
+[Your Email Address]
+[Your Phone Number]",52.387679,571,Paddy Rice,159,10.73,19.73,67.43,1790.85,1183.44,1247.57,4290.56,21.41,8.77,Dew,High
+4,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+"," Hello Watanabe-san! Your soil appears to be in good condition. However, it might benefit from a little extra attention to its nutrient levels. This could be achieved by adding some compost or light fertilizer. Aim for a balance of nitrogen (N), phosphorus (P), and potassium (K) for strong growth and better yield. It's essential to monitor soil moisture levels, especially in hot weather, and adjust the amount and frequency of applications accordingly. Remember, it takes time for these changes to take effect, so you might want to start with a light application of fertilizer and observe any improvements before moving on to heavier doses. As always, feel free to ask any questions or share your progress!",14.223591,161,Paddy Rice,100,0.8,32.34,30.22,147.84,225.86,310.21,8485.93,35.93,71.23,Dew,Low
+5,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+"," Hello Watanabe-san! Your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger. Here are some tips:
+
+1. Water your plants regularly and not too deeply, as they may be waterlogged during dry periods.
+2. Fertilize your plants at least once per week with a balanced organic fertilizer. Nitrogen-rich nitrate or liquid is best for tomatoes, while phosphorus-rich fish emulsion can help boost potassium levels.
+3. Add some compost to your soil when you water or fertilize your plants. Compost has a high nitrogen content and improves soil structure, making it easier for your plants to absorb nutrients.
+4. Keep your garden looking lush with regular pruning. Cut back any weeds that are invading your plants' space and remove any dead or dying leaves. This will help keep your plants healthy by reducing competition for light and water, as well as encourage the growth of new leaves.
+5. Monitor your soil moisture levels regularly. If you notice your plants are getting dry to the touch, it may be time to water them. Water until the soil is slightly damp but not wet, then allow it to cool before removing the spigot and leaving it open. This will help prevent potential root rot or disease from developing.
+6. Explore the local farmer's market or grocery store for fresh produce and ingredients. You can find a variety of organic fruits, vegetables, and meats that are grown locally, making them a healthier option compared to buying imported food.",33.908,372,Paddy Rice,122,3.05,36.61,74.04,425.47,1415.65,631.96,9478.63,19.47,24.17,Heavy Rain,High
+6,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+"," Hello Watanabe-san,
+
+Your soil is looking great and full of life! But it might be a bit lacking in important nutrients like nitrogen. To make your crops grow strong and healthy, you can add some compost or a light fertilizer to boost their potential. The soils near paddy-rice fields are usually rich in nitrogen, making them ideal for growing high-quality rice.
+
+To increase soil nitrogen content, follow these steps:
+1. Start with 0.25 gallons of compost per 400 square feet of your chosen area. You can mix it with water to create a fertile, richer soil if needed. This amount should cover at least half the area of the field.
+2. Use a trowel or gardening fork to apply the compost on the ground, ensuring that each square foot receives an even amount. It's important not to overdo it and mess up the natural texture of the soil.
+3. Once you have covered 40% of the field with compost, water it generously with a hose or garden sprayer to help break it down. This will also help aerate your soil and improve its moisture content.
+4. Repeat this process every few weeks to maintain the high nitrogen levels in your soil.
+
+Ask any questions or concerns and feel free to ask for more information. I am always here to help!",28.615548,315,Paddy Rice,38,13.86,11.71,21.72,1512.82,489.32,1819.37,2746.11,37.75,61.71,No Rain,High
+7,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+"," | Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. |
+|-------------------------------------------------------------------------------|
+| You can add compost or a light fertilizer this week to help the plants grow stronger. |
+| This will provide additional nutrients and improve the overall health of your paddy-rice farming system. |",7.067196,80,Paddy Rice,61,10.48,22.07,57.13,1477.31,1892.2,8.95,5737.13,30.05,89.76,Dew,Moderate
+8,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+"," Hello Watanabe-san,
+
+Your soil appears to be relatively balanced with respect to nitrogen, but it could still benefit from some extra Nitrogen. I suggest you add a light fertilizer such as 1/4 cup of compost or a light fertilizer like nitrogen-rich granular fertilizer once per week during the growing season. This will boost your plants' growth and help them absorb essential nutrients more effectively.
+
+The soil appears to be low in potassium, which can limit plant growth and reduce its ability to absorb and use other essential nutrients. Adding a balanced potash-based fertilizer such as 1/4 cup of potash or an organic potash-based fertilizer like alfalfa hair meal once per week during the growing season can help improve potassium levels in your soil and enhance plant growth.
+
+For your soil's ph, it appears to be slightly acidic. To neutralize this acidity and promote better plant growth, you can apply a 1/4 cup of sulfur-based granular fertilizer once per week during the growing season. This will help raise the soil pH levels to a more balanced range for better nutrient absorption by your plants.
+
+I hope these suggestions are helpful in improving your farm's yield and protecting its environment. Let me know if you have any questions or concerns about these recommendations. Enjoy this farming journey, and always remember to stay curious and informed!",30.335021,333,Paddy Rice,198,6.4,26.24,49.92,584.43,950.24,1446.3,1492.48,12.7,27.31,Light Rain,Low
+9,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+"," Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger. Here are some helpful tips:
+
+1. Fill up your paddy-rice field with well-draining soil that contains little organic matter and provides good drainage.
+2. Dig a well-drained, even-sized hole in the field, approximately 3 feet deep and 8 feet across.
+3. Gather a gardening trowel, pliers, or a spade to help you dig out the soil.
+4. Start by loosening the soil around the edges of your hole. Fill it with a mixture of one part compost, two parts well-drained soil, and one part sand. Be careful not to overwork the soil, as this can compact it too much. You may need to mix the soil again later if you notice any clumps or other issues.
+5. Use your trowel to shape the soil into a shallow bowl, leaving at least 2-3 inches of space around the edges. Be gentle while working with wet soil; it will be easy to compact if you press too hard.
+6. Once you have filled up the hole completely, use your hands to gently push down on the sides, levelizing them. This is crucial for ensuring even plant growth and proper drainage.
+7. Carefully place a paddy-rice seedling or sprout into the soil at the bottom of the bowl. Try to position it so that its stems can grow upright and touch the sides of the hole, ideally towards the sun.
+8. Place your gardening trowel next to you on the workbench and use it to gently press down on the seedling, ensuring a complete contact with the soil.
+9. Gently squeeze the soil around the stem of the plant to remove excess air and water. This will help the root grow properly and avoid rot or disease.
+10. Water your paddy-rice seedling thoroughly, but be gentle so as not to overwater it. A light application of water is usually sufficient.
+11. Once your plant reaches about 2 inches tall, gently prick its leaves with a sharp object, ensuring that they are fully rooted and protected from air and wind damage. This will help them grow stronger and more resilient.
+12. If you're growing your paddy-rice plants in a greenhouse or other controlled environment, you can water them using a drip irrigation system. Drip irrigation ensures that the roots receive a consistent amount of water, leading to better growth and overall health.
+
+Once your plant reaches about 4 inches tall, start thinning out its leaves with a sharp knife. This will help you ensure even light exposure and reduce the risk of rot or pest damage. Thinning will also make it easier to grow your plants more quickly and efficiently.
+
+If possible, consider using a nitrogen-based fertilizer for your paddy-rice plants. Nitrogen is essential for their growth, so adding a little bit of this fertilizer can significantly boost their performance and help them become the strongest plants possible. Be sure to use a safe and effective nitrogen product, as overuse or inappropriate application can lead to nutrient deficiencies and poor plant health.
+
+Remember that you will need to regularly water your paddy-rice plants during their growth phase. A light sprinkle of fertilizer every few weeks will help maintain optimal soil health and growth.
+
+Once your plants reach about 10 inches tall, it's time to harvest them for your next round of growth. This may involve pruning or thinning out the leaves to promote healthy growth. Remember to use proper safety equipment when working with sharp objects like a knife or pruners.
+
+Once you have finished harvesting your paddy-rice plants, don't hesitate to share your success story and the challenges you faced along the way! We're here to help, and we love hearing how our simple tips can make a big difference in your life and garden.
+
+Watanabe-san, keep up the good work! You are making a positive impact on our community by promoting sustainable agriculture and improving local produce.",93.458794,957,Paddy Rice,82,8.47,29.89,77.26,678.54,1088.81,215.53,3131.76,18.93,12.59,Dew,Moderate
+10,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+"," Hello Watanabe-san! Your soil appears to be in good shape for plant growth, but it might still need an extra boost. You can introduce organic matter into your fertile soil using a light fertilizer or compost. This will improve the soil's overall health and contribute to higher yields this growing season. 
+
+To achieve optimal results, consider incorporating some of these supplementary materials: 
+
+- Compost: It is full of essential nutrients such as nitrogen, phosphorus, and potassium. Composting your garden waste helps your soil to retain its moisture, making it more hospitable for plant roots. You can also incorporate it into your fertile soil to boost soil structure and water retention capacity.
+- Fiber: Adding some organic fiber will improve the texture of your fertile soil and help to break down compost more effectively. Fiber can also stimulate microbial activity, which enhances the overall health of your plants.
+- Plant food: A good source of nitrogen can enhance the growth of your crops. Look for a well-balanced plant food that contains essential nutrients like nitrogen, phosphorus, and potassium. You can add this to your fertile soil to provide more nourishment directly to your plants.
+
+Remember, this extra boost of nutrients will depend on the specific conditions of your growing season. For example, if you experience significant temperature changes or other environmental factors that affect plant growth, you might need a different approach. 
+
+I hope these tips prove helpful in enhancing your yield and protecting our precious planet! Let me know how it goes!",33.732148,363,Paddy Rice,170,4.4,17.99,25.05,1258.19,6.35,1277.93,8936.71,38.15,50.04,Dew,High
+11,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+"," Hello Watanabe-san! Your soil seems to be in good condition, but it could use a little extra nutrients. This week, you can add compost or a light fertilizer to help your plants grow stronger. You can also water your paddy-rice plants more frequently if needed. Have a wonderful week ahead!",6.291488,70,Paddy Rice,144,1.02,15.36,52.97,1732.17,1596.6,580.78,1888.07,31.55,96.94,Heavy Rain,High
+12,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+"," {
+  ""Guidelines"": ""Speak in a friendly, natural tone, as if talking directly to the farmer. Refer naturally to the provided data where relevant.""
+  ""Ask questions"":
+  - ""What can I do for you today? Is there anything else I can assist with?""
+  ""Suggest solutions"":
+  - ""You could try composting some of your soil to add organic matter and promote better nutrient retention. It's also a great way to attract beneficial bugs to your plants.""
+  ""Round up suggestions"":
+  - ""Just a few suggestions: Start fertilizing your soil with an organic amendment like compost and keep an eye on the soil moisture level throughout the week. This will help your plants grow even more effectively.""
+  ""Thank you"":
+  - ""Thank you for your patience! I hope these suggestions help improve your yield, protect your plants from diseases and pests, and ultimately enhance the quality of life for both you and your family.""
+}",21.014345,228,Paddy Rice,9,11.83,32.52,45.65,331.11,561.02,1893.14,5185.31,11.4,34.39,Light Rain,Low
+13,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+"," Hello Watanabe-san! Your soil looks healthy and low in nitrogen. To enhance yield and protect the environment, you can add compost or a light fertilizer this week to help your plants grow stronger. Remember, it's crucial to maintain proper spacing between rows to prevent weeds and ensure even moisture distribution. Also, don't over-fertilize, as excess nitrogen can be toxic to your crops. By following these simple steps, you can elevate the yield of your paddy-rice farming and protect the environment in a sustainable manner.""",12.040101,130,Paddy Rice,181,12.33,28.48,57.59,116.95,1860.0,1039.16,6841.45,25.75,82.63,No Rain,High
+14,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+"," Hello Watanabe-san,
+
+Your soil appears healthy but a bit low in nitrogen. To boost its performance, you can add a balanced compost or light fertilizer this week. This will help your plants grow stronger and produce more yield. Remember to water your plants frequently during the process as well.
+
+Apart from improving soil conditions, it's also important to monitor pest control and maintenance in your farm. Regularly inspect for pests like pests, or diseases and take necessary actions. You can also use chemical-free solutions for some pest control methods if you prefer.
+
+The sunshine intensity will greatly impact the growth of your crops. To make the most out of this factor, try to protect your farm from direct sunlight or shade in the morning and afternoon hours. If possible, install a solar panel for powering your farm.
+
+Rainfall can also play a crucial role in your paddy-rice yield. You can harness this water using drip irrigation or a sprinkler system. Regular adjustments of these systems will help ensure consistent crop growth and distribution.
+
+As for sunshine, I hope you enjoyed the rain! 🌞 It's always great to see plants basking in bright light. And finally, remember to maintain a good balance between work and leisure. Life's too short for a busy schedule! Have a restful week ahead, Watanabe-san!
+
+Keep growing, and keep me updated on how your farm is progressing. It's an honor to be your guide through this process.",33.160353,351,Paddy Rice,72,2.4,23.14,35.38,1946.72,793.17,476.75,1086.41,16.85,45.17,No Rain,Low
+1,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.000349,N/A,Paddy Rice,23,4.17,35.2,61.87,862.06,1628.74,1612.83,534.57,28.12,80.62,Heavy Rain,Moderate
+2,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.000366,N/A,Paddy Rice,136,7.37,16.86,39.54,1199.28,718.03,925.43,7237.03,14.51,43.07,Light Rain,Moderate
+3,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.000339,N/A,Paddy Rice,159,10.73,19.73,67.43,1790.85,1183.44,1247.57,4290.56,21.41,8.77,Light Rain,Moderate
+4,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.00043,N/A,Paddy Rice,100,0.8,32.34,30.22,147.84,225.86,310.21,8485.93,35.93,71.23,Dew,Moderate
+5,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.000443,N/A,Paddy Rice,122,3.05,36.61,74.04,425.47,1415.65,631.96,9478.63,19.47,24.17,No Rain,Low
+6,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.000512,N/A,Paddy Rice,38,13.86,11.71,21.72,1512.82,489.32,1819.37,2746.11,37.75,61.71,Light Rain,Low
+7,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.000428,N/A,Paddy Rice,61,10.48,22.07,57.13,1477.31,1892.2,8.95,5737.13,30.05,89.76,Light Rain,Moderate
+8,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.000409,N/A,Paddy Rice,198,6.4,26.24,49.92,584.43,950.24,1446.3,1492.48,12.7,27.31,No Rain,Moderate
+9,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.000486,N/A,Paddy Rice,82,8.47,29.89,77.26,678.54,1088.81,215.53,3131.76,18.93,12.59,Light Rain,Low
+10,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.000481,N/A,Paddy Rice,170,4.4,17.99,25.05,1258.19,6.35,1277.93,8936.71,38.15,50.04,Heavy Rain,High
+11,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.004488,N/A,Paddy Rice,144,1.02,15.36,52.97,1732.17,1596.6,580.78,1888.07,31.55,96.94,Light Rain,Moderate
+12,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.000517,N/A,Paddy Rice,9,11.83,32.52,45.65,331.11,561.02,1893.14,5185.31,11.4,34.39,Light Rain,Low
+13,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.000587,N/A,Paddy Rice,181,12.33,28.48,57.59,116.95,1860.0,1039.16,6841.45,25.75,82.63,Dew,Low
+14,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.000487,N/A,Paddy Rice,72,2.4,23.14,35.38,1946.72,793.17,476.75,1086.41,16.85,45.17,Dew,Moderate
+1,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.000416,N/A,Paddy Rice,23,4.17,35.2,61.87,862.06,1628.74,1612.83,534.57,28.12,80.62,Light Rain,Moderate
+2,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.000475,N/A,Paddy Rice,136,7.37,16.86,39.54,1199.28,718.03,925.43,7237.03,14.51,43.07,Heavy Rain,Low
+3,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.000385,N/A,Paddy Rice,159,10.73,19.73,67.43,1790.85,1183.44,1247.57,4290.56,21.41,8.77,Light Rain,High
+4,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.000483,N/A,Paddy Rice,100,0.8,32.34,30.22,147.84,225.86,310.21,8485.93,35.93,71.23,No Rain,Moderate
+5,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.000395,N/A,Paddy Rice,122,3.05,36.61,74.04,425.47,1415.65,631.96,9478.63,19.47,24.17,Light Rain,Low
+6,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.000638,N/A,Paddy Rice,38,13.86,11.71,21.72,1512.82,489.32,1819.37,2746.11,37.75,61.71,No Rain,Low
+7,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.000469,N/A,Paddy Rice,61,10.48,22.07,57.13,1477.31,1892.2,8.95,5737.13,30.05,89.76,No Rain,High
+8,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.00079,N/A,Paddy Rice,198,6.4,26.24,49.92,584.43,950.24,1446.3,1492.48,12.7,27.31,Light Rain,Low
+9,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.000462,N/A,Paddy Rice,82,8.47,29.89,77.26,678.54,1088.81,215.53,3131.76,18.93,12.59,No Rain,Moderate
+10,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.000502,N/A,Paddy Rice,170,4.4,17.99,25.05,1258.19,6.35,1277.93,8936.71,38.15,50.04,Heavy Rain,Low
+11,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.000787,N/A,Paddy Rice,144,1.02,15.36,52.97,1732.17,1596.6,580.78,1888.07,31.55,96.94,Heavy Rain,Low
+12,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.001359,N/A,Paddy Rice,9,11.83,32.52,45.65,331.11,561.02,1893.14,5185.31,11.4,34.39,Heavy Rain,Moderate
+13,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.000502,N/A,Paddy Rice,181,12.33,28.48,57.59,116.95,1860.0,1039.16,6841.45,25.75,82.63,Heavy Rain,Low
+14,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.000598,N/A,Paddy Rice,72,2.4,23.14,35.38,1946.72,793.17,476.75,1086.41,16.85,45.17,Light Rain,Moderate
+1,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.003575,N/A,Paddy Rice,23,4.17,35.2,61.87,862.06,1628.74,1612.83,534.57,28.12,80.62,Heavy Rain,Low
+2,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.00042,N/A,Paddy Rice,136,7.37,16.86,39.54,1199.28,718.03,925.43,7237.03,14.51,43.07,Heavy Rain,Low
+3,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.000466,N/A,Paddy Rice,159,10.73,19.73,67.43,1790.85,1183.44,1247.57,4290.56,21.41,8.77,Heavy Rain,Low
+4,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.000484,N/A,Paddy Rice,100,0.8,32.34,30.22,147.84,225.86,310.21,8485.93,35.93,71.23,Light Rain,High
+5,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.000633,N/A,Paddy Rice,122,3.05,36.61,74.04,425.47,1415.65,631.96,9478.63,19.47,24.17,Dew,Moderate
+6,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.001286,N/A,Paddy Rice,38,13.86,11.71,21.72,1512.82,489.32,1819.37,2746.11,37.75,61.71,Dew,High
+7,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.00063,N/A,Paddy Rice,61,10.48,22.07,57.13,1477.31,1892.2,8.95,5737.13,30.05,89.76,Dew,Moderate
+8,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.000397,N/A,Paddy Rice,198,6.4,26.24,49.92,584.43,950.24,1446.3,1492.48,12.7,27.31,No Rain,High
+9,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.00045,N/A,Paddy Rice,82,8.47,29.89,77.26,678.54,1088.81,215.53,3131.76,18.93,12.59,Heavy Rain,High
+10,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.000489,N/A,Paddy Rice,170,4.4,17.99,25.05,1258.19,6.35,1277.93,8936.71,38.15,50.04,Dew,Low
+11,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.013471,N/A,Paddy Rice,144,1.02,15.36,52.97,1732.17,1596.6,580.78,1888.07,31.55,96.94,No Rain,High
+12,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.000384,N/A,Paddy Rice,9,11.83,32.52,45.65,331.11,561.02,1893.14,5185.31,11.4,34.39,Dew,Low
+13,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.000447,N/A,Paddy Rice,181,12.33,28.48,57.59,116.95,1860.0,1039.16,6841.45,25.75,82.63,No Rain,Low
+14,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.000431,N/A,Paddy Rice,72,2.4,23.14,35.38,1946.72,793.17,476.75,1086.41,16.85,45.17,Dew,Moderate
+1,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.002451,N/A,Paddy Rice,23,4.17,35.2,61.87,862.06,1628.74,1612.83,534.57,28.12,80.62,Heavy Rain,Low
+2,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.001192,N/A,Paddy Rice,136,7.37,16.86,39.54,1199.28,718.03,925.43,7237.03,14.51,43.07,Heavy Rain,High
+3,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.000802,N/A,Paddy Rice,159,10.73,19.73,67.43,1790.85,1183.44,1247.57,4290.56,21.41,8.77,Light Rain,Low
+4,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.000388,N/A,Paddy Rice,100,0.8,32.34,30.22,147.84,225.86,310.21,8485.93,35.93,71.23,Heavy Rain,High
+5,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.000395,N/A,Paddy Rice,122,3.05,36.61,74.04,425.47,1415.65,631.96,9478.63,19.47,24.17,Light Rain,Low
+6,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.000398,N/A,Paddy Rice,38,13.86,11.71,21.72,1512.82,489.32,1819.37,2746.11,37.75,61.71,No Rain,Moderate
+7,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.000412,N/A,Paddy Rice,61,10.48,22.07,57.13,1477.31,1892.2,8.95,5737.13,30.05,89.76,Heavy Rain,Low
+8,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.000505,N/A,Paddy Rice,198,6.4,26.24,49.92,584.43,950.24,1446.3,1492.48,12.7,27.31,No Rain,Moderate
+9,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.000444,N/A,Paddy Rice,82,8.47,29.89,77.26,678.54,1088.81,215.53,3131.76,18.93,12.59,Dew,Moderate
+10,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.000379,N/A,Paddy Rice,170,4.4,17.99,25.05,1258.19,6.35,1277.93,8936.71,38.15,50.04,Light Rain,Low
+11,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.00044,N/A,Paddy Rice,144,1.02,15.36,52.97,1732.17,1596.6,580.78,1888.07,31.55,96.94,No Rain,Low
+12,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.000496,N/A,Paddy Rice,9,11.83,32.52,45.65,331.11,561.02,1893.14,5185.31,11.4,34.39,Light Rain,High
+13,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.001719,N/A,Paddy Rice,181,12.33,28.48,57.59,116.95,1860.0,1039.16,6841.45,25.75,82.63,Dew,High
+14,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.000491,N/A,Paddy Rice,72,2.4,23.14,35.38,1946.72,793.17,476.75,1086.41,16.85,45.17,No Rain,Moderate
+1,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.000404,N/A,Paddy Rice,23,4.17,35.2,61.87,862.06,1628.74,1612.83,534.57,28.12,80.62,Dew,Low
+2,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.000396,N/A,Paddy Rice,136,7.37,16.86,39.54,1199.28,718.03,925.43,7237.03,14.51,43.07,No Rain,Moderate
+3,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.000408,N/A,Paddy Rice,159,10.73,19.73,67.43,1790.85,1183.44,1247.57,4290.56,21.41,8.77,No Rain,High
+4,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.000524,N/A,Paddy Rice,100,0.8,32.34,30.22,147.84,225.86,310.21,8485.93,35.93,71.23,Light Rain,Moderate
+5,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.000763,N/A,Paddy Rice,122,3.05,36.61,74.04,425.47,1415.65,631.96,9478.63,19.47,24.17,Heavy Rain,Low
+6,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.007875,N/A,Paddy Rice,38,13.86,11.71,21.72,1512.82,489.32,1819.37,2746.11,37.75,61.71,Light Rain,Low
+7,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.000504,N/A,Paddy Rice,61,10.48,22.07,57.13,1477.31,1892.2,8.95,5737.13,30.05,89.76,Dew,Moderate
+8,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.001169,N/A,Paddy Rice,198,6.4,26.24,49.92,584.43,950.24,1446.3,1492.48,12.7,27.31,Heavy Rain,Low
+9,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.000692,N/A,Paddy Rice,82,8.47,29.89,77.26,678.54,1088.81,215.53,3131.76,18.93,12.59,Heavy Rain,Low
+10,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.000749,N/A,Paddy Rice,170,4.4,17.99,25.05,1258.19,6.35,1277.93,8936.71,38.15,50.04,Dew,Moderate
+11,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.001545,N/A,Paddy Rice,144,1.02,15.36,52.97,1732.17,1596.6,580.78,1888.07,31.55,96.94,Light Rain,High
+12,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.002756,N/A,Paddy Rice,9,11.83,32.52,45.65,331.11,561.02,1893.14,5185.31,11.4,34.39,Light Rain,High
+13,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.000733,N/A,Paddy Rice,181,12.33,28.48,57.59,116.95,1860.0,1039.16,6841.45,25.75,82.63,Light Rain,Low
+14,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+",Timeout occurred,1.002474,N/A,Paddy Rice,72,2.4,23.14,35.38,1946.72,793.17,476.75,1086.41,16.85,45.17,Dew,High
+1,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+"," Hello Watanabe-san! Your soil appears to be healthy and has a lower nitrogen content than you might expect for rice production. This could make your paddy-rice plants less likely to grow strong and healthy, which can impact their overall yield. To improve the situation, I suggest adding compost or a light fertilizer this week. Here's what we can do:
+
+1. First step: Identify the problem - In this case, it seems that you are not getting adequate nitrogen in your soil to support strong and healthy rice plants. To improve this situation, start by carefully removing some of the older plant growth from the base of your paddy-rice, and work your way upwards to the main stem. This will help release essential nutrients like nitrogen back into your soil, making it easier for your plants to grow strong and healthy.
+
+2. Next step: Gradually increase the amount of organic matter in your soil - Once you have removed some of the older plant growth, begin gradually increasing the amount of organic matter in your soil. This will help encourage more aerobic activity in your soil, which can provide essential nutrients like nitrogen to support strong and healthy rice plants. You might need to use some compost or other organic matter as a starting point.
+
+3. Third step: Monitor the improvements - After several weeks of work, you should begin to see an improvement in your soil's N:P ratio (nitrogen to phosphorus ratio). This will be an indication that your nutrient-rich compost or fertilizer has been successful in helping your plants grow strong and healthy. Remember to water your paddy-rice regularly to maintain optimal soil moisture levels.
+
+4. Fourth step: Monitor the growth of your paddy-rice plants - After a few more weeks, you can observe the growth of your paddy-rice plants. If you noticed an improvement in their health and strength compared to when you started, congratulations! You have successfully added organic matter to support healthy rice plants.
+
+5. Fifth step: Implement a consistent practice - Once you see that your plants are growing stronger and healthier, it's time to implement this new improvement into your gardening practices. This might include a regular watering schedule or the addition of some fertilizers to support the growth of even more healthy rice plants.
+
+Remember, with proper care and attention, you can help improve the yield and protect the environment of your paddy-rice farm!",64.306216,553,Paddy Rice,23,4.17,35.2,61.87,862.06,1628.74,1612.83,534.57,28.12,80.62,Heavy Rain,Low
+2,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+"," Hello Watanabe-san! Your soil is looking fantastic. To ensure maximum growth and maximum yield, it's crucial that you add organic matter to your paddy-rice farm. Compost or a light fertilizer can help boost the soil's nitrogen levels, making it easier for plants to grow strong and healthy. Remember, always follow the guidelines provided by reliable extension officers and experts to ensure optimal results!",7.868304,95,Paddy Rice,136,7.37,16.86,39.54,1199.28,718.03,925.43,7237.03,14.51,43.07,No Rain,High
+3,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+"," Hello Watanabe-san! Your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger.
+
+Watanabe-san, I'm your trusted agricultural extension officer, here to guide you through cultivating a healthy paddy-rice farm. We are well known for our innovative solutions and expertise in sustainable farming.
+
+Let's start by analyzing the soil moisture, temperature, and nitrogen levels. Based on this assessment, we can determine the best way to boost your crops' health.
+
+For instance, you could try adding compost or manure to the top layer of your soil in a well-drained container to improve water retention and nutrient circulation. This may also help your plants stay hydrated during dry spells.
+
+In addition, we recommend implementing organic fertilizers like nitrogen-rich peat moss or well-rotted manure. These products can significantly boost the health of your crops, providing them with a well-rounded nutrient profile that supports their growth and development.
+
+Another way to improve the overall health of your farm is through integrated pest management (IPM). This approach combines multiple strategies, such as physical control like planting cover croves or applying insecticides or fungicides when necessary, with non-chemical methods like crop rotation and good gardening practices.
+
+Lastly, be sure to maintain proper soil aeration and water retention. This will help your plants stay hydrated throughout the growing season and provide them with a strong foundation for future growth.
+
+Remember, it takes time and effort to grow a successful paddy-rice farm. But I'm here to guide you every step of the way. Let's work together to achieve your farming dreams!",36.726376,414,Paddy Rice,159,10.73,19.73,67.43,1790.85,1183.44,1247.57,4290.56,21.41,8.77,Heavy Rain,Moderate
+4,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+"," Hello Watanabe-san! Your soil appears to be in need of some extra TLC this week. Here are some suggestions on how you can improve its health and performance:
+
+1. Start by adding some compost or a light fertilizer to your garden. This will help your soil to retain more water, nutrients, and beneficial microorganisms. You could also consider using a deep-rooted fertilizer like nitrogen-rich fish emulsion to stimulate root growth.
+
+2. Avoid overwatering or overfertilizing your paddy-rice plants. The excess moisture can cause your soil to become too saturated, which is not ideal for the growth of your crops. Try to keep the soil consistently drier to avoid any water stress.
+
+3. Regularly check your soil's moisture levels and ensure that they are always within a specific range. Overly-wet soils can lead to root rot, while underwatered plants may experience fungal infections or mildew.
+
+4. Avoid using heavy-handed fertilizers that might damage your soil's microorganisms. Instead, consider diluting your fertilizer with water and applying it slowly at the base of your plants. This will help to keep the nutrients you add more available for your crops.
+
+5. If you notice any pests or diseases affecting your paddy-rice crops, don't hesitate to consult a local farming expert for guidance and advice. They can provide specific recommendations based on your farm's specific conditions and the severity of the issue.
+
+Remember, always monitor your soil's moisture levels closely and make adjustments as needed. A good rule of thumb is to maintain a consistently drier base in your garden throughout the growing season. By following these guidelines, you should experience better yields and overall health for your paddy-rice plants this year!
+
+If you're still unsure about how to improve your soil, don’t hesitate to ask your farming expert or contact a reliable agronomy service. They can help you identify any specific issues and develop a customized plan tailored to your farm's needs.",44.573893,482,Paddy Rice,100,0.8,32.34,30.22,147.84,225.86,310.21,8485.93,35.93,71.23,Dew,Moderate
+5,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+"," Hello Watanabe-san, 
+
+Your soil appears to be in need of some TLC. First, you can consider incorporating organic matter like compost or gardening worm castings into your fertile soils. This will not only improve the nutrient balance but also help maintain a healthy soil structure. In addition to adding fertilizers, it's important to monitor water levels and adjust irrigation accordingly.
+
+Regarding plant growth, consider using slow-release fertilizers that provide consistent nutrients over time. These formulas are designed for longer periods of rest, allowing your plants to replenish their essential resources in a sustainable manner. 
+
+For air quality concerns, consider applying an air-purifying mulch around your farm to help reduce dust and pollution. This will also help protect the soil's moisture content and prevent soil erosion. Additionally, try incorporating wildflowers or herbs into your paddy-rice farming system to create a healthy microclimate for your crops.
+
+Lastly, remember to maintain proper sanitary practices in your farm. This includes wearing protective clothing when handling chemicals and maintaining good hygiene habits. If you experience any issues with soil pH or nutrient levels, don't hesitate to consult a professional for advice. 
+
+I trust this guidance is helpful in your quest to improve yields and safeguard the environment on your farm. Good luck!",29.389268,320,Paddy Rice,122,3.05,36.61,74.04,425.47,1415.65,631.96,9478.63,19.47,24.17,Heavy Rain,Low
+6,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+"," Hello Watanabe-san! Your soil appears to be in need of some nutrient support. This week, you can follow these guidelines to ensure a healthy harvest.
+
+1. **Plant your seeds**: Select appropriate seedlings that thrive in your climate and gardening conditions. Be sure to include some vegetables that require less water or pruning help.
+
+2. **Tweeze out weeds**: This will help you maintain a tidy, manageable garden layout. Also, remove any weed-infested soil from your seedling pots before transplanting them.
+
+3. **Transplant your plants**: Move the seedlings to their designated garden spaces. This step is crucial for ensuring proper root development and a healthy crop.
+
+4. **Water your plants**: Provide water regularly, making sure it reaches the soil surface. Overwatering can lead to root rot or mildew. Also, use a mulch or soil amendment to reduce water loss.
+
+5. **Fertilize your plants**: Add appropriate fertilizer according to your plant's needs. Look for products that are specifically designed for your crop. This will help your plants grow strong and healthy.
+
+6. **Harvest your crops**: The fruits of your labor should be ready for consumption by the end of the week. Keep an eye on the weather forecast, as sudden changes in temperature or humidity can affect the growth of your plants.
+
+7. **Monitor your progress**: Monitor your crop's health and check its progress regularly. If you notice any issues or see a decrease in yield, it may be time to consider additional planting efforts or make adjustments to your fertilizer regimen.
+
+Remember, consistency is key! By following these guidelines, you can build a healthy, thriving garden and enjoy the fruits of your labor. If you have any questions or need further assistance, please feel free to ask.",41.43558,442,Paddy Rice,38,13.86,11.71,21.72,1512.82,489.32,1819.37,2746.11,37.75,61.71,Light Rain,Moderate
+7,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+"," Hello Watanabe-san,
+
+Your soil appears healthy but low in nitrogen. This could be due to various factors:
+1. Pests or diseases might have infested your paddy-rice crops recently. To prevent future issues, apply a protective fungicide spray before applying nitrogen fertilizer.
+2. The soil may be too wet, leading to poor root growth and less nutrients being taken up by the plants. Drying it off helps encourage deeper root development and improved overall growth.
+3. Sunlight could be insufficient for optimum photosynthesis. Apply a generous amount of organic matter or use an appropriate fertilizer (nitrogen-based) to boost your soil's nutrient levels and encourage optimal plant growth. 
+
+To protect the environment, implement these practices:
+1. Rotate crops to prevent continuous watering. This helps maintain a balanced ecosystem, reduces runoff, and prevents erosion.
+2. Use mulch to conserve moisture during dry spells. It'll also provide natural fertilizer for your crops.
+3. Use drought-resistant paddy-rice varieties or grow transplanted plants in raised beds to mitigate soil salinity and reduce water usage.
+
+Remember, these simple adjustments can significantly improve the yield of your paddy-rice crops while also protecting our planet from environmental stressors. Your watanabe-san will be happy to help you achieve both goals!",32.068409,337,Paddy Rice,61,10.48,22.07,57.13,1477.31,1892.2,8.95,5737.13,30.05,89.76,No Rain,Low
+8,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+"," Hello Watanabe-san! Your soil looks healthy and full of life. However, it seems that you could benefit from adding some organic matter to your paddy-rice garden. This will help the plants absorb more nutrients and grow stronger. Please remember to water frequently to maintain optimal moisture levels. You can use a trusted compost or a light fertilizer like 1 part nitrogen, 1 part phosphorus, and 1 part potassium per week for your next gardening session. This will help your plants grow well and yield more ripe paddy-rice fruits!",12.932106,132,Paddy Rice,198,6.4,26.24,49.92,584.43,950.24,1446.3,1492.48,12.7,27.31,Light Rain,High
+9,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+"," Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger. To improve yield and protect the environment, consider investing in an organic crop rotation system to reduce the reliance on synthetic fertilizers. In addition, try to reduce water usage by drilling a well if necessary and maintaining proper irrigation practices throughout the growing season. By making these changes now, you can enjoy a healthier, more sustainable paddy-rice farm in the future.",12.616755,126,Paddy Rice,82,8.47,29.89,77.26,678.54,1088.81,215.53,3131.76,18.93,12.59,Dew,Moderate
+10,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+"," Hello Watanabe-san! Your soil is looking healthy and full of vitality. This week, you can incorporate some compost or a light fertilizer to boost your plants' growth and ensure they receive optimal nutrients. Incorporating organic matter into the soil can also help improve soil structure and provide essential organisms that support the plant roots. Remember to keep your soil moist yet well-drained, so your crops stay healthy and strong!",10.350834,101,Paddy Rice,170,4.4,17.99,25.05,1258.19,6.35,1277.93,8936.71,38.15,50.04,No Rain,High
+11,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+"," Hello Watanabe-san,
+
+Your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger. Here are some simple tips:
+1. First, check your soil pH level. If it's below 6.0, you can use a neutralizer like lime to increase its acidity. If it's above 7.0, consider using a sulfur-based fertilizer or bone meal.
+2. Your soil temperature might need a boost, so take some time to check your soil moisture levels and adjust the amount of water you provide according to your farm's needs.
+3. When planting, choose plants with high nitrogen content like mustard or green onion, since these are good for your plants to grow strong.
+4. If you can grow a cover crop or grasses like ryegrass to enhance the soil structure and prevent nutrient runoff, it will also help in improving your yield.
+5. Be mindful of your farming practices, as improper fertilization or pest management can affect your plants negatively. 
+
+I hope these tips help you increase your yield and protect our precious planet!",29.261055,275,Paddy Rice,144,1.02,15.36,52.97,1732.17,1596.6,580.78,1888.07,31.55,96.94,No Rain,High
+12,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+"," Hello Watanabe-san! Your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger. Here are some tips:
+
+1. Gradually increase the amount of organic matter, like compost or manure, in your soil over time. This will help your plants absorb more nutrients and grow faster.
+2. Feed your plants with a balanced, well-formulated fertilizer that includes nitrogen, phosphorus, and potassium. A good option is a slow-release fertilizer, like the one I've mentioned above.
+3. Don't over-fertilize too often or you may cause your plants to grow too vigorously and produce little fruit. Stick with a balanced formula for optimal results.
+4. Explore new techniques that might help increase your crop yield, such as vertical farming or hydroponics. These methods can sometimes result in even better yields without sacrificing natural beauty.
+
+Remember, always consult with a professional for specific advice on your farm's soil, climate, and plant varieties. It's important to maintain a close eye on your farm's progress, and I'm here to help if you have any questions or concerns about your crops. Have a great growing season!",32.806243,294,Paddy Rice,9,11.83,32.52,45.65,331.11,561.02,1893.14,5185.31,11.4,34.39,Heavy Rain,High
+13,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+"," Hello Watanabe-san! Your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger. Remember to water your paddy-rice at least once a day, especially during dry periods. When planting, ensure there's proper drainage and good air circulation by using an erator for deep-rooted plants like upland rice or paddy-rice. Keep monitoring your soil moisture and nitrogen levels regularly to make sure they remain in a healthy range. For more information on how we can work together to help you achieve the best yield possible, please feel free to ask any questions or reach out through our website, extension 123456, or on our official social media platforms.""",19.424961,172,Paddy Rice,181,12.33,28.48,57.59,116.95,1860.0,1039.16,6841.45,25.75,82.63,Heavy Rain,High
+14,"Farm data:
+- Type: {{farm_type}}
+- Days since planting: {{days_since_planting}}
+- Soil pH: {{ph}}
+- Soil temperature (°C): {{soil_temperature}}
+- Soil moisture (%): {{soil_moisture}}
+- Soil nitrogen: {{soil_nitrogen}}
+- Soil potassium: {{soil_potassium}}
+- Soil phosphorus: {{soil_phosphorus}}
+- Soil electrical conductivity: {{soil_ec}}
+- Air temperature (°C): {{ambient_temperature}}
+- Air humidity (%): {{atmospheric_humidity}}
+- Rainfall: {{rainfall_state}}
+- Sunshine intensity: {{sunshine_intensity}}
+
+You are an experienced agricultural extension officer specializing in paddy-rice farming.
+Write a short instructional message (under 200 words) to help the farmer improve yield and protect the environment.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the farmer.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Watanabe-san,""
+
+Example style:
+""Hello Watanabe-san, your soil looks healthy but slightly low in nitrogen. You can add compost or a light fertilizer this week to help the plants grow stronger...""
+
+Now, write the complete instructional message.
+"," Hello Watanabe-san! 👋 Your soil appears to be healthy but low in nitrogen, which could potentially result in weak plants. Here are some suggestions for improving your yield and protecting the environment:
+
+1. **Add a light fertilizer** - For example, if the soil is rich in nitrogen, it may benefit your plants to use a fertilizer with higher nitrogen content. Look for products like ""NitroFuel"" or ""NitroGenix,"" which can help your plants grow more rapidly and healthily without overcompensating.
+
+2. **Compost** - Composting is a great way to add organic matter to the soil, which in turn helps the plants absorb nutrients more easily. You can mix some compost with your soil or use it as a bed for paddy-rice seedlings to grow. 
+
+3. **Rainwater harvesting** - Collect water from your garden and store it in containers or bins. This water can be used to water your plants after they are planted, or you can even use it to irrigate your entire garden! To maximize the benefits of rainwater harvesting, consider planting a few types of crop that require different amounts of water.
+
+4. **Avoid overwatering** - It's essential to maintain proper soil moisture levels by using a drip irrigation system or another method that helps your plants retain moisture without flooding the soil. Be careful not to overwater, as this can lead to root rot or other issues.
+
+5. **Regular pest and weed control** - Pests like worms, snails, and aphids can cause damage to your crops if left unchecked. It's important to monitor the growth of these pests regularly and apply appropriate pesticides or insecticides to protect your plants.
+
+6. **Careful seed sowing** - Sow seeds in small pots or trays with damp soil, then transplant them into larger containers once they have emerged from the root. This will allow you to adjust the spacing between your plants and the surrounding area to suit your growing conditions better.
+
+7. **Planting your seeds outdoors** - If the weather is suitable for planting, take advantage of the warmth and sunshine and plant your seeds out into the garden. This will help them to grow more quickly and efficiently. Be cautious not to water them until they have established themselves in their new home.
+
+8. **Monitoring your plants** - Regularly check the soil moisture, temperature, and overall health of your paddy-rice crops to ensure that they are receiving the proper care and attention. You can use a simple pH meter or soil tester to assess their nutritional levels and readings should indicate any issues requiring further attention.
+
+Remember, there is always room for improvement in this process. Remember to practice sustainable farming practices like composting and using natural fertilizers to avoid overusing chemicals that can harm the soil and your plants. ✨ 🌱",85.977564,693,Paddy Rice,72,2.4,23.14,35.38,1946.72,793.17,476.75,1086.41,16.85,45.17,Heavy Rain,Moderate
