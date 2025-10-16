@@ -1,3 +1,4 @@
 venv/
 __pycache__/
 agric_fish/__pycache__/
+data/agric_rice/trash/
