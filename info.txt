@@ -1,5 +1,11 @@
+rpi5c:
+    agric_fish
+    
+rpi5-G2A:
+    agric_rice
 
-
+rpi5-G2B:
+    healthcare_fitness
 
 rpi5-G2C:
     env_air_quality
