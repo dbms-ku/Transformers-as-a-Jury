@@ -1,0 +1,8 @@
+
+
+
+rpi5-G2C:
+    env_air_quality
+
+rpi5-G2D:
+    env_water_quality
