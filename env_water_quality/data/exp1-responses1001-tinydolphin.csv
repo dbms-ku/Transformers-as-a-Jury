@@ -1,0 +1,700 @@
+#,prompt,response,duration_sec,token_count,water_type,ph,water_temperature,electrical_conductivity,turbidity,dissolved_oxygen,total_dissolved_solids,oxidation_reduction_potential,nitrate_level,phosphate_level,ammonia_level,chlorine_residual,water_hardness
+1,"Water quality data:
+- Type: {{water_type}}
+- pH: {{ph}}
+- Temperature (°C): {{water_temperature}}
+- Electrical conductivity (µS/cm): {{water_ec}}
+- Turbidity (NTU): {{turbidity}}
+- Dissolved oxygen (mg/L): {{dissolved_oxygen}}
+- Total dissolved solids (ppm): {{tds}}
+- Oxidation-reduction potential (mV): {{orp}}
+- Nitrate level (mg/L): {{nitrate}}
+- Phosphate level (mg/L): {{phosphate}}
+- Ammonia level (mg/L): {{ammonia}}
+- Chlorine residual (mg/L): {{chlorine}}
+- Water hardness (mg/L CaCO3): {{hardness}}
+- Temperature of surrounding air (°C): {{ambient_temperature}}
+- Humidity of surrounding air (%): {{atmospheric_humidity}}
+
+You are an experienced environmental monitoring officer specializing in water quality assessment.
+Write a short advisory message (under 200 words) to help the community or facility maintain clean and safe water conditions.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the caretaker or facility manager.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Tanaka-san,""
+
+Example style:
+""Hello Tanaka-san, your river water looks generally good but the turbidity is a bit high. It might be due to surface runoff after the rain. Regular cleaning of the inlet filter and checking for sediment sources nearby will help maintain clarity...""
+
+Now, write the complete advisory message.
+","Hello Tanaka-san, your river water looks generally good but the turbidity is a bit high. It might be due to surface runoff after the rain. Regular cleaning of the inlet filter and checking for sediment sources nearby will help maintain clarity. 
+
+To further improve water quality, consider implementing regular water testing and adjusting your treatment plan accordingly based on the results. This will not only ensure that your river's water is safe for humans and animals alike but also protect its natural habitat. Remember to always consult with a professional if you are unsure about how to proceed with this or any other environmental monitoring task.
+
+Also, to prevent contamination, consider avoiding harsh chemicals like chlorine when treating your water and instead opt for safe and effective methods that do not harm the environment.",30.658439,175,Rain Water,6.86,29.43,775.77,2.67,5.68,839.88,448.89,6.04,4.03,0.34,0.53,201.92
+2,"Water quality data:
+- Type: {{water_type}}
+- pH: {{ph}}
+- Temperature (°C): {{water_temperature}}
+- Electrical conductivity (µS/cm): {{water_ec}}
+- Turbidity (NTU): {{turbidity}}
+- Dissolved oxygen (mg/L): {{dissolved_oxygen}}
+- Total dissolved solids (ppm): {{tds}}
+- Oxidation-reduction potential (mV): {{orp}}
+- Nitrate level (mg/L): {{nitrate}}
+- Phosphate level (mg/L): {{phosphate}}
+- Ammonia level (mg/L): {{ammonia}}
+- Chlorine residual (mg/L): {{chlorine}}
+- Water hardness (mg/L CaCO3): {{hardness}}
+- Temperature of surrounding air (°C): {{ambient_temperature}}
+- Humidity of surrounding air (%): {{atmospheric_humidity}}
+
+You are an experienced environmental monitoring officer specializing in water quality assessment.
+Write a short advisory message (under 200 words) to help the community or facility maintain clean and safe water conditions.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the caretaker or facility manager.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Tanaka-san,""
+
+Example style:
+""Hello Tanaka-san, your river water looks generally good but the turbidity is a bit high. It might be due to surface runoff after the rain. Regular cleaning of the inlet filter and checking for sediment sources nearby will help maintain clarity...""
+
+Now, write the complete advisory message.
+","Hello Tanaka-san! Your river water looks generally good but the turbidity is a bit high. It might be due to surface runoff after the rain. Regular cleaning of the inlet filter and checking for sediment sources nearby will help maintain clarity.
+
+If you have any questions or concerns about your river water, please don't hesitate to ask. We are here to assist you in any way we can.",5.710507,92,Rain Water,7.2,15.77,466.44,36.19,7.74,228.78,262.86,1.5,2.15,2.05,0.12,20.49
+3,"Water quality data:
+- Type: {{water_type}}
+- pH: {{ph}}
+- Temperature (°C): {{water_temperature}}
+- Electrical conductivity (µS/cm): {{water_ec}}
+- Turbidity (NTU): {{turbidity}}
+- Dissolved oxygen (mg/L): {{dissolved_oxygen}}
+- Total dissolved solids (ppm): {{tds}}
+- Oxidation-reduction potential (mV): {{orp}}
+- Nitrate level (mg/L): {{nitrate}}
+- Phosphate level (mg/L): {{phosphate}}
+- Ammonia level (mg/L): {{ammonia}}
+- Chlorine residual (mg/L): {{chlorine}}
+- Water hardness (mg/L CaCO3): {{hardness}}
+- Temperature of surrounding air (°C): {{ambient_temperature}}
+- Humidity of surrounding air (%): {{atmospheric_humidity}}
+
+You are an experienced environmental monitoring officer specializing in water quality assessment.
+Write a short advisory message (under 200 words) to help the community or facility maintain clean and safe water conditions.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the caretaker or facility manager.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Tanaka-san,""
+
+Example style:
+""Hello Tanaka-san, your river water looks generally good but the turbidity is a bit high. It might be due to surface runoff after the rain. Regular cleaning of the inlet filter and checking for sediment sources nearby will help maintain clarity...""
+
+Now, write the complete advisory message.
+","Hello Tanaka-san, your river water looks generally good but the turbidity is a bit high. It might be due to surface runoff after the rain. Regular cleaning of the inlet filter and checking for sediment sources nearby will help maintain clarity. Additionally, consider monitoring dissolved oxygen levels regularly, as they can drop if the water is too oxygen-poor.",5.323389,83,Tap Water,7.79,22.75,611.41,21.45,9.89,324.38,495.25,3.8,0.44,2.4,0.48,140.96
+4,"Water quality data:
+- Type: {{water_type}}
+- pH: {{ph}}
+- Temperature (°C): {{water_temperature}}
+- Electrical conductivity (µS/cm): {{water_ec}}
+- Turbidity (NTU): {{turbidity}}
+- Dissolved oxygen (mg/L): {{dissolved_oxygen}}
+- Total dissolved solids (ppm): {{tds}}
+- Oxidation-reduction potential (mV): {{orp}}
+- Nitrate level (mg/L): {{nitrate}}
+- Phosphate level (mg/L): {{phosphate}}
+- Ammonia level (mg/L): {{ammonia}}
+- Chlorine residual (mg/L): {{chlorine}}
+- Water hardness (mg/L CaCO3): {{hardness}}
+- Temperature of surrounding air (°C): {{ambient_temperature}}
+- Humidity of surrounding air (%): {{atmospheric_humidity}}
+
+You are an experienced environmental monitoring officer specializing in water quality assessment.
+Write a short advisory message (under 200 words) to help the community or facility maintain clean and safe water conditions.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the caretaker or facility manager.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Tanaka-san,""
+
+Example style:
+""Hello Tanaka-san, your river water looks generally good but the turbidity is a bit high. It might be due to surface runoff after the rain. Regular cleaning of the inlet filter and checking for sediment sources nearby will help maintain clarity...""
+
+Now, write the complete advisory message.
+","Hello Tanaka-san! Your river water is looking great but there's a catch - excessive turbidity can lead to unhealthy water conditions. It might be due to surface runoff after the rain or the presence of sediment sources nearby. To maintain clarity, regular cleaning of the inlet filter and checking for sediment sources could help prevent such issues from recurring.",5.230313,84,River Water,6.15,8.39,189.6,42.43,3.51,744.53,185.2,8.64,3.56,1.49,0.88,231.43
+5,"Water quality data:
+- Type: {{water_type}}
+- pH: {{ph}}
+- Temperature (°C): {{water_temperature}}
+- Electrical conductivity (µS/cm): {{water_ec}}
+- Turbidity (NTU): {{turbidity}}
+- Dissolved oxygen (mg/L): {{dissolved_oxygen}}
+- Total dissolved solids (ppm): {{tds}}
+- Oxidation-reduction potential (mV): {{orp}}
+- Nitrate level (mg/L): {{nitrate}}
+- Phosphate level (mg/L): {{phosphate}}
+- Ammonia level (mg/L): {{ammonia}}
+- Chlorine residual (mg/L): {{chlorine}}
+- Water hardness (mg/L CaCO3): {{hardness}}
+- Temperature of surrounding air (°C): {{ambient_temperature}}
+- Humidity of surrounding air (%): {{atmospheric_humidity}}
+
+You are an experienced environmental monitoring officer specializing in water quality assessment.
+Write a short advisory message (under 200 words) to help the community or facility maintain clean and safe water conditions.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the caretaker or facility manager.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Tanaka-san,""
+
+Example style:
+""Hello Tanaka-san, your river water looks generally good but the turbidity is a bit high. It might be due to surface runoff after the rain. Regular cleaning of the inlet filter and checking for sediment sources nearby will help maintain clarity...""
+
+Now, write the complete advisory message.
+","Hello Tanaka-san,
+
+Your river water looks generally good but the turbidity is a bit high. It might be due to surface runoff after the rain. Regular cleaning of the inlet filter and checking for sediment sources nearby will help maintain clarity. Additionally, it might be helpful if you could also consider retesting your water quality parameters every few months to identify any changes in the water's composition. 
+
+If you have any questions or concerns, please don't hesitate to ask. I'd be happy to provide guidance and assistance where needed.",7.746584,123,Rain Water,6.43,26.23,334.38,47.39,4.96,886.91,550.35,3.16,1.21,1.83,0.29,263.32
+6,"Water quality data:
+- Type: {{water_type}}
+- pH: {{ph}}
+- Temperature (°C): {{water_temperature}}
+- Electrical conductivity (µS/cm): {{water_ec}}
+- Turbidity (NTU): {{turbidity}}
+- Dissolved oxygen (mg/L): {{dissolved_oxygen}}
+- Total dissolved solids (ppm): {{tds}}
+- Oxidation-reduction potential (mV): {{orp}}
+- Nitrate level (mg/L): {{nitrate}}
+- Phosphate level (mg/L): {{phosphate}}
+- Ammonia level (mg/L): {{ammonia}}
+- Chlorine residual (mg/L): {{chlorine}}
+- Water hardness (mg/L CaCO3): {{hardness}}
+- Temperature of surrounding air (°C): {{ambient_temperature}}
+- Humidity of surrounding air (%): {{atmospheric_humidity}}
+
+You are an experienced environmental monitoring officer specializing in water quality assessment.
+Write a short advisory message (under 200 words) to help the community or facility maintain clean and safe water conditions.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the caretaker or facility manager.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Tanaka-san,""
+
+Example style:
+""Hello Tanaka-san, your river water looks generally good but the turbidity is a bit high. It might be due to surface runoff after the rain. Regular cleaning of the inlet filter and checking for sediment sources nearby will help maintain clarity...""
+
+Now, write the complete advisory message.
+","Hello Tanaka-san, your river water looks generally good but the turbidity is a bit high. It might be due to surface runoff after the rain. Regular cleaning of the inlet filter and checking for sediment sources nearby will help maintain clarity in your river water samples.",3.853752,62,Rain Water,7.51,12.34,868.72,13.73,11.91,57.13,114.31,9.25,3.09,0.56,0.81,109.59
+7,"Water quality data:
+- Type: {{water_type}}
+- pH: {{ph}}
+- Temperature (°C): {{water_temperature}}
+- Electrical conductivity (µS/cm): {{water_ec}}
+- Turbidity (NTU): {{turbidity}}
+- Dissolved oxygen (mg/L): {{dissolved_oxygen}}
+- Total dissolved solids (ppm): {{tds}}
+- Oxidation-reduction potential (mV): {{orp}}
+- Nitrate level (mg/L): {{nitrate}}
+- Phosphate level (mg/L): {{phosphate}}
+- Ammonia level (mg/L): {{ammonia}}
+- Chlorine residual (mg/L): {{chlorine}}
+- Water hardness (mg/L CaCO3): {{hardness}}
+- Temperature of surrounding air (°C): {{ambient_temperature}}
+- Humidity of surrounding air (%): {{atmospheric_humidity}}
+
+You are an experienced environmental monitoring officer specializing in water quality assessment.
+Write a short advisory message (under 200 words) to help the community or facility maintain clean and safe water conditions.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the caretaker or facility manager.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Tanaka-san,""
+
+Example style:
+""Hello Tanaka-san, your river water looks generally good but the turbidity is a bit high. It might be due to surface runoff after the rain. Regular cleaning of the inlet filter and checking for sediment sources nearby will help maintain clarity...""
+
+Now, write the complete advisory message.
+",Hello Tanaka-san! Your river water looks generally good but the turbidity is a bit high. It might be due to surface runoff after the rain. Regular cleaning of the inlet filter and checking for sediment sources nearby will help maintain clarity and reduce turbidity.,4.009458,62,River Water,7.48,33.38,54.03,28.69,9.73,402.41,409.42,6.68,4.49,0.91,0.72,61.76
+8,"Water quality data:
+- Type: {{water_type}}
+- pH: {{ph}}
+- Temperature (°C): {{water_temperature}}
+- Electrical conductivity (µS/cm): {{water_ec}}
+- Turbidity (NTU): {{turbidity}}
+- Dissolved oxygen (mg/L): {{dissolved_oxygen}}
+- Total dissolved solids (ppm): {{tds}}
+- Oxidation-reduction potential (mV): {{orp}}
+- Nitrate level (mg/L): {{nitrate}}
+- Phosphate level (mg/L): {{phosphate}}
+- Ammonia level (mg/L): {{ammonia}}
+- Chlorine residual (mg/L): {{chlorine}}
+- Water hardness (mg/L CaCO3): {{hardness}}
+- Temperature of surrounding air (°C): {{ambient_temperature}}
+- Humidity of surrounding air (%): {{atmospheric_humidity}}
+
+You are an experienced environmental monitoring officer specializing in water quality assessment.
+Write a short advisory message (under 200 words) to help the community or facility maintain clean and safe water conditions.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the caretaker or facility manager.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Tanaka-san,""
+
+Example style:
+""Hello Tanaka-san, your river water looks generally good but the turbidity is a bit high. It might be due to surface runoff after the rain. Regular cleaning of the inlet filter and checking for sediment sources nearby will help maintain clarity...""
+
+Now, write the complete advisory message.
+","Hello Tanaka-san, your river water looks generally good but the turbidity is a bit high. It might be due to surface runoff after the rain. Regular cleaning of the inlet filter and checking for sediment sources nearby will help maintain clarity. Additionally, it's a good practice to monitor water quality regularly to keep an eye on any changes or issues that may occur.",5.202752,83,River Water,6.58,19.25,700.83,7.46,7.11,541.37,349.36,0.9,1.37,2.98,0.18,161.14
+9,"Water quality data:
+- Type: {{water_type}}
+- pH: {{ph}}
+- Temperature (°C): {{water_temperature}}
+- Electrical conductivity (µS/cm): {{water_ec}}
+- Turbidity (NTU): {{turbidity}}
+- Dissolved oxygen (mg/L): {{dissolved_oxygen}}
+- Total dissolved solids (ppm): {{tds}}
+- Oxidation-reduction potential (mV): {{orp}}
+- Nitrate level (mg/L): {{nitrate}}
+- Phosphate level (mg/L): {{phosphate}}
+- Ammonia level (mg/L): {{ammonia}}
+- Chlorine residual (mg/L): {{chlorine}}
+- Water hardness (mg/L CaCO3): {{hardness}}
+- Temperature of surrounding air (°C): {{ambient_temperature}}
+- Humidity of surrounding air (%): {{atmospheric_humidity}}
+
+You are an experienced environmental monitoring officer specializing in water quality assessment.
+Write a short advisory message (under 200 words) to help the community or facility maintain clean and safe water conditions.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the caretaker or facility manager.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Tanaka-san,""
+
+Example style:
+""Hello Tanaka-san, your river water looks generally good but the turbidity is a bit high. It might be due to surface runoff after the rain. Regular cleaning of the inlet filter and checking for sediment sources nearby will help maintain clarity...""
+
+Now, write the complete advisory message.
+"," Hello Tanaka-san,
+
+Your river water looks generally good but the turbidity is a bit high. It might be due to surface runoff after the rain. Regular cleaning of the inlet filter and checking for sediment sources nearby will help maintain clarity.
+
+The pH is neutral to slightly acidic, which is fine for most uses but could affect certain industrial processes or ecosystems that require acid-neutral pH levels. Monitoring your water quality data regularly can help detect changes in the river's chemistry and help identify potential issues.
+
+In response to your request about electricity conductivity, which measures the strength of electric fields in a sample of soil or air, the current value is µS/cm. To determine if there are any electrical sources affecting your water quality, it might be useful to measure these values at different locations along the river.
+
+As for dissolved oxygen levels, you have detected a mild decrease in turbidity but are still within safe limits. Monitoring more frequent data points can provide a clearer picture of any trends or changes.
+
+As for your nitrate levels, they appear to be within acceptable levels. However, nitrate is an indicator of chemical processes and can sometimes indicate pollution sources. Regular monitoring and reporting of these values will help identify any changes in the river's water quality and inform decision-making about treatment methods or remediation efforts.
+
+As for your phosphate level, it seems to be stable. Monitoring this parameter more frequently would provide a clearer picture of any trends or changes.
+
+Finally, your ammonia levels are within acceptable limits. Regular monitoring will help identify any changes in the river's water quality and inform decision-making about treatment methods or remediation efforts.
+
+In summary, while turbidity is an important indicator of sediment sources, regular monitoring of pH, electricity conductivity, dissolved oxygen levels, nitrate levels, phosphate level, and ammonia levels can help track changes in the river's chemistry and provide a better understanding of its overall health.",28.857342,456,Rain Water,6.68,21.33,146.99,15.66,8.45,662.96,577.18,2.98,0.63,1.24,0.24,213.69
+10,"Water quality data:
+- Type: {{water_type}}
+- pH: {{ph}}
+- Temperature (°C): {{water_temperature}}
+- Electrical conductivity (µS/cm): {{water_ec}}
+- Turbidity (NTU): {{turbidity}}
+- Dissolved oxygen (mg/L): {{dissolved_oxygen}}
+- Total dissolved solids (ppm): {{tds}}
+- Oxidation-reduction potential (mV): {{orp}}
+- Nitrate level (mg/L): {{nitrate}}
+- Phosphate level (mg/L): {{phosphate}}
+- Ammonia level (mg/L): {{ammonia}}
+- Chlorine residual (mg/L): {{chlorine}}
+- Water hardness (mg/L CaCO3): {{hardness}}
+- Temperature of surrounding air (°C): {{ambient_temperature}}
+- Humidity of surrounding air (%): {{atmospheric_humidity}}
+
+You are an experienced environmental monitoring officer specializing in water quality assessment.
+Write a short advisory message (under 200 words) to help the community or facility maintain clean and safe water conditions.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the caretaker or facility manager.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Tanaka-san,""
+
+Example style:
+""Hello Tanaka-san, your river water looks generally good but the turbidity is a bit high. It might be due to surface runoff after the rain. Regular cleaning of the inlet filter and checking for sediment sources nearby will help maintain clarity...""
+
+Now, write the complete advisory message.
+","Hello Tanaka-san,\nYour river water looks generally good but the turbidity is a bit high. It might be due to surface runoff after the rain. Regular cleaning of the inlet filter and checking for sediment sources nearby will help maintain clarity.\n\nHere's a summary of your observations: \n- Type: Water quality data\n- pH: 6.0 (increase in turbidity could indicate an increase in alkalinity)\n- Temperature (°C): 14.5 (too high for clarity)\n- Electrical conductivity (µS/cm): 28.9\n- Turbidity (NTU): 510.0\n- Dissolved oxygen (mg/L): 3.78 (decrease in clarity due to high turbidity)\n- Total dissolved solids (ppm): 249.6\n- Oxidation-reduction potential (mV): 15.68\n- Nitrate level (mg/L): 27.0\n- Phosphate level (mg/L): 253.6\n- Ammonia level (mg/L): 29.40\n- Chlorine residual (mg/L): 15.50\n- Water hardness (mg/L CaCO3): 17.48\n- Temperature of surrounding air (°C): 24.1\n- Humidity of surrounding air (%): 90.0%\n- Atmospheric humidity: 50.0%\n\nAn experienced environmental monitoring officer like you can help maintain clean and safe water conditions by regularly checking for issues such as sediment sources or surface runoff. Regular cleaning of the inlet filter and checking for sediment contamination nearby can significantly improve clarity and reduce turbidity.\n\nPlease let me know if there are any other observations that need attention.""",29.631497,461,River Water,7.26,5.1,625.07,44.68,5.83,266.18,142.12,9.38,2.5,2.56,0.65,13.4
+11,"Water quality data:
+- Type: {{water_type}}
+- pH: {{ph}}
+- Temperature (°C): {{water_temperature}}
+- Electrical conductivity (µS/cm): {{water_ec}}
+- Turbidity (NTU): {{turbidity}}
+- Dissolved oxygen (mg/L): {{dissolved_oxygen}}
+- Total dissolved solids (ppm): {{tds}}
+- Oxidation-reduction potential (mV): {{orp}}
+- Nitrate level (mg/L): {{nitrate}}
+- Phosphate level (mg/L): {{phosphate}}
+- Ammonia level (mg/L): {{ammonia}}
+- Chlorine residual (mg/L): {{chlorine}}
+- Water hardness (mg/L CaCO3): {{hardness}}
+- Temperature of surrounding air (°C): {{ambient_temperature}}
+- Humidity of surrounding air (%): {{atmospheric_humidity}}
+
+You are an experienced environmental monitoring officer specializing in water quality assessment.
+Write a short advisory message (under 200 words) to help the community or facility maintain clean and safe water conditions.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the caretaker or facility manager.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Tanaka-san,""
+
+Example style:
+""Hello Tanaka-san, your river water looks generally good but the turbidity is a bit high. It might be due to surface runoff after the rain. Regular cleaning of the inlet filter and checking for sediment sources nearby will help maintain clarity...""
+
+Now, write the complete advisory message.
+","Hello Tanaka-san, your river water looks generally good but the turbidity is a bit high. It might be due to surface runoff after the rain. Regular cleaning of the inlet filter and checking for sediment sources nearby will help maintain clarity. Additionally, lowering the pH of the water to prevent acidification could also improve the water quality. Please consider these suggestions and let me know if you have any questions.",5.868597,92,Tap Water,7.73,28.95,311.35,9.44,3.66,178.7,374.77,7.18,4.85,2.16,0.75,115.28
+12,"Water quality data:
+- Type: {{water_type}}
+- pH: {{ph}}
+- Temperature (°C): {{water_temperature}}
+- Electrical conductivity (µS/cm): {{water_ec}}
+- Turbidity (NTU): {{turbidity}}
+- Dissolved oxygen (mg/L): {{dissolved_oxygen}}
+- Total dissolved solids (ppm): {{tds}}
+- Oxidation-reduction potential (mV): {{orp}}
+- Nitrate level (mg/L): {{nitrate}}
+- Phosphate level (mg/L): {{phosphate}}
+- Ammonia level (mg/L): {{ammonia}}
+- Chlorine residual (mg/L): {{chlorine}}
+- Water hardness (mg/L CaCO3): {{hardness}}
+- Temperature of surrounding air (°C): {{ambient_temperature}}
+- Humidity of surrounding air (%): {{atmospheric_humidity}}
+
+You are an experienced environmental monitoring officer specializing in water quality assessment.
+Write a short advisory message (under 200 words) to help the community or facility maintain clean and safe water conditions.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the caretaker or facility manager.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Tanaka-san,""
+
+Example style:
+""Hello Tanaka-san, your river water looks generally good but the turbidity is a bit high. It might be due to surface runoff after the rain. Regular cleaning of the inlet filter and checking for sediment sources nearby will help maintain clarity...""
+
+Now, write the complete advisory message.
+","Hello Tanaka-san, your river water looks generally good but the turbidity is a bit high. It might be due to surface runoff after the rain. Regular cleaning of the inlet filter and checking for sediment sources nearby will help maintain clarity. Additionally, try lowering the pH if it's too acidic, adjusting the water temperature as needed, or adjusting the dissolved oxygen levels if they are too low. If you have any questions, please don't hesitate to ask. I'm here to help.
+
+Thank you for your attention to detail.",8.113654,128,River Water,6.33,13.42,901.91,25.93,10.6,750.67,313.73,0.47,1.72,0.13,0.35,261.81
+13,"Water quality data:
+- Type: {{water_type}}
+- pH: {{ph}}
+- Temperature (°C): {{water_temperature}}
+- Electrical conductivity (µS/cm): {{water_ec}}
+- Turbidity (NTU): {{turbidity}}
+- Dissolved oxygen (mg/L): {{dissolved_oxygen}}
+- Total dissolved solids (ppm): {{tds}}
+- Oxidation-reduction potential (mV): {{orp}}
+- Nitrate level (mg/L): {{nitrate}}
+- Phosphate level (mg/L): {{phosphate}}
+- Ammonia level (mg/L): {{ammonia}}
+- Chlorine residual (mg/L): {{chlorine}}
+- Water hardness (mg/L CaCO3): {{hardness}}
+- Temperature of surrounding air (°C): {{ambient_temperature}}
+- Humidity of surrounding air (%): {{atmospheric_humidity}}
+
+You are an experienced environmental monitoring officer specializing in water quality assessment.
+Write a short advisory message (under 200 words) to help the community or facility maintain clean and safe water conditions.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the caretaker or facility manager.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Tanaka-san,""
+
+Example style:
+""Hello Tanaka-san, your river water looks generally good but the turbidity is a bit high. It might be due to surface runoff after the rain. Regular cleaning of the inlet filter and checking for sediment sources nearby will help maintain clarity...""
+
+Now, write the complete advisory message.
+","Hello Tanaka-san,
+
+Your river water looks generally good but the turbidity is a bit high. It might be due to surface runoff after the rain. Regular cleaning of the inlet filter and checking for sediment sources nearby will help maintain clarity. Additionally, it's important that you monitor the pH, temperature, and dissolved oxygen levels on a regular basis.
+
+This is an encouraging message as we strive to make a positive impact on the environment. Let us work together to ensure the water quality remains stable and safe for humans, animals, and aquatic life.",8.114457,129,Rain Water,6.12,32.9,517.62,34.21,10.93,616.11,413.26,5.25,4.13,2.72,0.94,293.73
+14,"Water quality data:
+- Type: {{water_type}}
+- pH: {{ph}}
+- Temperature (°C): {{water_temperature}}
+- Electrical conductivity (µS/cm): {{water_ec}}
+- Turbidity (NTU): {{turbidity}}
+- Dissolved oxygen (mg/L): {{dissolved_oxygen}}
+- Total dissolved solids (ppm): {{tds}}
+- Oxidation-reduction potential (mV): {{orp}}
+- Nitrate level (mg/L): {{nitrate}}
+- Phosphate level (mg/L): {{phosphate}}
+- Ammonia level (mg/L): {{ammonia}}
+- Chlorine residual (mg/L): {{chlorine}}
+- Water hardness (mg/L CaCO3): {{hardness}}
+- Temperature of surrounding air (°C): {{ambient_temperature}}
+- Humidity of surrounding air (%): {{atmospheric_humidity}}
+
+You are an experienced environmental monitoring officer specializing in water quality assessment.
+Write a short advisory message (under 200 words) to help the community or facility maintain clean and safe water conditions.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the caretaker or facility manager.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Tanaka-san,""
+
+Example style:
+""Hello Tanaka-san, your river water looks generally good but the turbidity is a bit high. It might be due to surface runoff after the rain. Regular cleaning of the inlet filter and checking for sediment sources nearby will help maintain clarity...""
+
+Now, write the complete advisory message.
+","Hello Tanaka-san, your river water looks generally good but the turbidity is a bit high. It might be due to surface runoff after the rain. Regular cleaning of the inlet filter and checking for sediment sources nearby will help maintain clarity. Additionally, reducing pollutants like nitrogen and phosphate can help improve water quality. Also, monitoring your soil moisture levels regularly is essential. Lastly, educating others about good water practices can also help create a healthier environment for you and the plants around you. Is there anything else I can assist you with?""",8.099054,126,River Water,7.95,16.9,264.54,5.43,4.55,438.14,228.2,2.28,2.26,1.08,0.41,83.87
+15,"Water quality data:
+- Type: {{water_type}}
+- pH: {{ph}}
+- Temperature (°C): {{water_temperature}}
+- Electrical conductivity (µS/cm): {{water_ec}}
+- Turbidity (NTU): {{turbidity}}
+- Dissolved oxygen (mg/L): {{dissolved_oxygen}}
+- Total dissolved solids (ppm): {{tds}}
+- Oxidation-reduction potential (mV): {{orp}}
+- Nitrate level (mg/L): {{nitrate}}
+- Phosphate level (mg/L): {{phosphate}}
+- Ammonia level (mg/L): {{ammonia}}
+- Chlorine residual (mg/L): {{chlorine}}
+- Water hardness (mg/L CaCO3): {{hardness}}
+- Temperature of surrounding air (°C): {{ambient_temperature}}
+- Humidity of surrounding air (%): {{atmospheric_humidity}}
+
+You are an experienced environmental monitoring officer specializing in water quality assessment.
+Write a short advisory message (under 200 words) to help the community or facility maintain clean and safe water conditions.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the caretaker or facility manager.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Tanaka-san,""
+
+Example style:
+""Hello Tanaka-san, your river water looks generally good but the turbidity is a bit high. It might be due to surface runoff after the rain. Regular cleaning of the inlet filter and checking for sediment sources nearby will help maintain clarity...""
+
+Now, write the complete advisory message.
+","Hello Tanaka-san, your river water looks generally good but the turbidity is a bit high. It might be due to surface runoff after the rain. Regular cleaning of the inlet filter and checking for sediment sources nearby will help maintain clarity. Here are some other suggestions:
+
+1) Consider installing a UV light to kill any bacteria or viruses present. This can also help reduce the overall chlorine residual, which can cause algae blooms and staining.
+
+2) Improve water quality by monitoring your water sources and adjusting irrigation practices accordingly. For example, you could drain standing water in your garden and use recycled water instead of pouring it into your flowerbeds.
+
+3) Invest in a filter system to remove sediments like leaves and debris from your river water. This will help improve clarity and reduce the turbidity level.
+
+4) Regularly check your water quality data and take actions based on its results. You could also consult with a professional agency for assistance if necessary.",14.832537,233,Rain Water,7.04,24.81,797.98,40.5,6.7,100.37,523.07,4.91,0.23,0.68,0.06,54.65
+16,"Water quality data:
+- Type: {{water_type}}
+- pH: {{ph}}
+- Temperature (°C): {{water_temperature}}
+- Electrical conductivity (µS/cm): {{water_ec}}
+- Turbidity (NTU): {{turbidity}}
+- Dissolved oxygen (mg/L): {{dissolved_oxygen}}
+- Total dissolved solids (ppm): {{tds}}
+- Oxidation-reduction potential (mV): {{orp}}
+- Nitrate level (mg/L): {{nitrate}}
+- Phosphate level (mg/L): {{phosphate}}
+- Ammonia level (mg/L): {{ammonia}}
+- Chlorine residual (mg/L): {{chlorine}}
+- Water hardness (mg/L CaCO3): {{hardness}}
+- Temperature of surrounding air (°C): {{ambient_temperature}}
+- Humidity of surrounding air (%): {{atmospheric_humidity}}
+
+You are an experienced environmental monitoring officer specializing in water quality assessment.
+Write a short advisory message (under 200 words) to help the community or facility maintain clean and safe water conditions.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the caretaker or facility manager.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Tanaka-san,""
+
+Example style:
+""Hello Tanaka-san, your river water looks generally good but the turbidity is a bit high. It might be due to surface runoff after the rain. Regular cleaning of the inlet filter and checking for sediment sources nearby will help maintain clarity...""
+
+Now, write the complete advisory message.
+","Hello Tanaka-san! Your river water looks generally good but the turbidity is a bit high. It might be due to surface runoff after the rain. Regular cleaning of the inlet filter and checking for sediment sources nearby will help maintain clarity. We also recommend regularly monitoring nitrate levels, phosphate levels, and dissolved oxygen readings.",4.995975,79,River Water,6.89,9.05,432.42,24.16,8.75,953.65,212.03,7.57,3.35,1.62,0.59,172.96
+17,"Water quality data:
+- Type: {{water_type}}
+- pH: {{ph}}
+- Temperature (°C): {{water_temperature}}
+- Electrical conductivity (µS/cm): {{water_ec}}
+- Turbidity (NTU): {{turbidity}}
+- Dissolved oxygen (mg/L): {{dissolved_oxygen}}
+- Total dissolved solids (ppm): {{tds}}
+- Oxidation-reduction potential (mV): {{orp}}
+- Nitrate level (mg/L): {{nitrate}}
+- Phosphate level (mg/L): {{phosphate}}
+- Ammonia level (mg/L): {{ammonia}}
+- Chlorine residual (mg/L): {{chlorine}}
+- Water hardness (mg/L CaCO3): {{hardness}}
+- Temperature of surrounding air (°C): {{ambient_temperature}}
+- Humidity of surrounding air (%): {{atmospheric_humidity}}
+
+You are an experienced environmental monitoring officer specializing in water quality assessment.
+Write a short advisory message (under 200 words) to help the community or facility maintain clean and safe water conditions.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the caretaker or facility manager.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Tanaka-san,""
+
+Example style:
+""Hello Tanaka-san, your river water looks generally good but the turbidity is a bit high. It might be due to surface runoff after the rain. Regular cleaning of the inlet filter and checking for sediment sources nearby will help maintain clarity...""
+
+Now, write the complete advisory message.
+"," Hello Tanaka-san,
+
+Your river water looks generally good but the turbidity is a bit high. It might be due to surface runoff after the rain. Regular cleaning of the inlet filter and checking for sediment sources nearby will help maintain clarity.
+
+As you know, improper disposal of solid waste can lead to pollution of water bodies, harming aquatic life and posing risks to human health. It's important for everyone to be aware of this issue and take responsibility for the environment. 
+
+To prevent further pollution and maintain the quality of your river water, follow these guidelines:
+
+1. Dispose of soluble wastes, like household products and unused chemicals, in a container with a lid and additives to prevent solidification. For example, you can use coffee grounds or similar for baking soda.
+2. Avoid disposing of non-soluble waste, such as food scraps, paper, and yard waste, through trash cans or composting bins.
+3. Minimize the use of plastics and reduce single-use items. Instead, opt for reusable items like cloth bags, water bottles, and reusable shopping bags.
+4. Practice proper waste management practices at home and encourage your neighbors to do the same.
+5. Educate and involve everyone about the importance of responsible waste disposal.
+
+Remember, improper disposal of solid waste can lead to pollution of water bodies, harming aquatic life and posing risks to human health. Let's all work together to create a cleaner environment for our children and future generations.",24.763427,366,Tap Water,6.98,24.33,642.7,30.63,3.23,493.66,284.33,4.58,2.67,0.45,0.6,275.14
+18,"Water quality data:
+- Type: {{water_type}}
+- pH: {{ph}}
+- Temperature (°C): {{water_temperature}}
+- Electrical conductivity (µS/cm): {{water_ec}}
+- Turbidity (NTU): {{turbidity}}
+- Dissolved oxygen (mg/L): {{dissolved_oxygen}}
+- Total dissolved solids (ppm): {{tds}}
+- Oxidation-reduction potential (mV): {{orp}}
+- Nitrate level (mg/L): {{nitrate}}
+- Phosphate level (mg/L): {{phosphate}}
+- Ammonia level (mg/L): {{ammonia}}
+- Chlorine residual (mg/L): {{chlorine}}
+- Water hardness (mg/L CaCO3): {{hardness}}
+- Temperature of surrounding air (°C): {{ambient_temperature}}
+- Humidity of surrounding air (%): {{atmospheric_humidity}}
+
+You are an experienced environmental monitoring officer specializing in water quality assessment.
+Write a short advisory message (under 200 words) to help the community or facility maintain clean and safe water conditions.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the caretaker or facility manager.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Tanaka-san,""
+
+Example style:
+""Hello Tanaka-san, your river water looks generally good but the turbidity is a bit high. It might be due to surface runoff after the rain. Regular cleaning of the inlet filter and checking for sediment sources nearby will help maintain clarity...""
+
+Now, write the complete advisory message.
+","Hello Tanaka-san, your river water looks generally good but the turbidity is a bit high. It might be due to surface runoff after the rain. Regular cleaning of the inlet filter and checking for sediment sources nearby will help maintain clarity and prevent any further issues. Is there anything else I can assist you with?",4.637092,72,River Water,7.09,10.57,108.26,7.86,10.18,577.93,474.27,7.86,0.8,1.76,0.01,103.12
+19,"Water quality data:
+- Type: {{water_type}}
+- pH: {{ph}}
+- Temperature (°C): {{water_temperature}}
+- Electrical conductivity (µS/cm): {{water_ec}}
+- Turbidity (NTU): {{turbidity}}
+- Dissolved oxygen (mg/L): {{dissolved_oxygen}}
+- Total dissolved solids (ppm): {{tds}}
+- Oxidation-reduction potential (mV): {{orp}}
+- Nitrate level (mg/L): {{nitrate}}
+- Phosphate level (mg/L): {{phosphate}}
+- Ammonia level (mg/L): {{ammonia}}
+- Chlorine residual (mg/L): {{chlorine}}
+- Water hardness (mg/L CaCO3): {{hardness}}
+- Temperature of surrounding air (°C): {{ambient_temperature}}
+- Humidity of surrounding air (%): {{atmospheric_humidity}}
+
+You are an experienced environmental monitoring officer specializing in water quality assessment.
+Write a short advisory message (under 200 words) to help the community or facility maintain clean and safe water conditions.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the caretaker or facility manager.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Tanaka-san,""
+
+Example style:
+""Hello Tanaka-san, your river water looks generally good but the turbidity is a bit high. It might be due to surface runoff after the rain. Regular cleaning of the inlet filter and checking for sediment sources nearby will help maintain clarity...""
+
+Now, write the complete advisory message.
+"," Hello Tanaka-san, your river water looks generally good but the turbidity is a bit high. It might be due to surface runoff after the rain. Regular cleaning of the inlet filter and checking for sediment sources nearby will help maintain clarity. The dissolved oxygen level appears stable, but the ph and temperature are still too low. To improve these parameters, you can install a solar-powered, low-maintenance water quality monitor at the water outlet or lower elevation to continuously collect data on pH, temperature, dissolved oxygen, and other relevant factors throughout the day. A regular maintenance schedule of the monitoring system is also recommended to maintain optimal water quality.",9.941106,148,River Water,7.93,31.71,926.57,49.35,8.03,978.16,175.43,5.58,1.58,2.91,0.4,73.6
+20,"Water quality data:
+- Type: {{water_type}}
+- pH: {{ph}}
+- Temperature (°C): {{water_temperature}}
+- Electrical conductivity (µS/cm): {{water_ec}}
+- Turbidity (NTU): {{turbidity}}
+- Dissolved oxygen (mg/L): {{dissolved_oxygen}}
+- Total dissolved solids (ppm): {{tds}}
+- Oxidation-reduction potential (mV): {{orp}}
+- Nitrate level (mg/L): {{nitrate}}
+- Phosphate level (mg/L): {{phosphate}}
+- Ammonia level (mg/L): {{ammonia}}
+- Chlorine residual (mg/L): {{chlorine}}
+- Water hardness (mg/L CaCO3): {{hardness}}
+- Temperature of surrounding air (°C): {{ambient_temperature}}
+- Humidity of surrounding air (%): {{atmospheric_humidity}}
+
+You are an experienced environmental monitoring officer specializing in water quality assessment.
+Write a short advisory message (under 200 words) to help the community or facility maintain clean and safe water conditions.
+
+Guidelines:
+- Speak in a friendly, natural tone, as if talking directly to the caretaker or facility manager.
+- Avoid symbols, bullet points, and special characters that may sound awkward when spoken.
+- Refer naturally to the provided data where relevant.
+- Keep sentences clear, concise, and easy to read aloud.
+- Begin with: ""Hello Tanaka-san,""
+
+Example style:
+""Hello Tanaka-san, your river water looks generally good but the turbidity is a bit high. It might be due to surface runoff after the rain. Regular cleaning of the inlet filter and checking for sediment sources nearby will help maintain clarity...""
+
+Now, write the complete advisory message.
+","Hello Tanaka-san! Your river water looks generally good but the turbidity is a bit high. It might be due to surface runoff after the rain. Regular cleaning of the inlet filter and checking for sediment sources nearby will help maintain clarity. Here are some tips to keep it that way:
+
+1. Monitor your water quality data regularly - Ensure continuous monitoring is being conducted, ideally at the same location and time each day. This helps you identify any unusual trends or patterns in the data.
+2. Use a reliable method for measuring turbidity - Choose a reliable method to accurately measure the volume of particles suspended in your water. Using an ultraviolet light can provide accurate results, but it is not widely used due to costs and regulatory issues. You can also use a sediment sampler or a device that measures the pH of the water.
+3. Regularly review your data - Check your water quality data regularly and make adjustments as needed. This helps you identify any issues early on, preventing problems from escalating.
+4. Stay informed about regulations - Keep up-to-date with current regulatory guidelines and requirements for monitoring and maintenance of water quality. This will help ensure your actions are aligned with industry best practices and can be reported to the authorities if necessary.",18.910433,287,Underground Water,6.0,17.25,279.66,14.11,5.41,93.68,489.4,1.99,4.71,0.8,1.0,154.65
