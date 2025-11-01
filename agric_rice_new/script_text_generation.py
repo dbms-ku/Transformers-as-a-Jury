@@ -211,7 +211,9 @@ def run_experiment(model_name: str, experiment: int):
 
 
 if __name__ == "__main__":
-    model_names = ["tinydolphin", "falcon:7b", "vicuna:7b", "phi3:3.8b", "openchat:7b", "mistral", "llama3.2"]
+    model_names = [
+        # "tinydolphin", "falcon:7b", 
+        "vicuna:7b", "phi3:3.8b", "openchat:7b", "mistral", "llama3.2"]
     experiments = [1, 2, 3, 4]
 
     for model_name in model_names:
