@@ -177,7 +177,7 @@ def run_experiment(model_name: str, experiment: int, taaj_model=None, taaj_token
         write_to_csv(CSV_FILE_PATH, results, header_written)
 
 if __name__ == "__main__":
-    use_taaj_model = True  # Set to True to run with TAAJ model
+    use_taaj_model = False  # Set to True to run with TAAJ model (typically for step 5)
     model_names = ["falcon:7b", "phi3:3.8b", "tinydolphin", "llama3.2", "mistral", "openchat:7b", "vicuna:7b"]
     experiments = [1, 2, 3, 4]
     criteria_models = [0, 1, 2, 6]
